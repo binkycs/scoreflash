@@ -21,7 +21,7 @@ export default function RootLayout({
 			<body className={inter.className}>
 				<ThemeProvider attribute='class' defaultTheme='system' enableSystem>
 					<Header />
-					<main className='flex flex-col min-h-[100vh-6rem] items-center  p-24'>
+					<main className='flex flex-col min-h-screen items-center py-8 px-24'>
 						{children}
 					</main>
 				</ThemeProvider>
