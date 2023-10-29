@@ -2,7 +2,7 @@ import GameCard from '@/components/GameCard';
 import { GameList, Standings } from '@/lib/nfl';
 import { downloadJson } from '@/lib/utils';
 
-const dynamic = 'force-dynamic';
+export const dynamic = 'force-dynamic';
 
 async function getData() {
 	const gameList = (await downloadJson(
