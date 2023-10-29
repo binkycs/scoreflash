@@ -1,0 +1,4536 @@
+{
+	"lastUpdatedOn": "2023-10-29T15:25:06.347Z",
+	"gamelogs": [
+		{
+			"game": {
+				"id": 113879,
+				"week": 1,
+				"startTime": "2023-09-10T11:40:00.000Z",
+				"awayTeamAbbreviation": "ARI",
+				"homeTeamAbbreviation": "WAS"
+			},
+			"team": {
+				"id": 76,
+				"abbreviation": "ARI"
+			},
+			"stats": {
+				"passing": {
+					"passAttempts": 18,
+					"passCompletions": 15,
+					"passPct": 52.5,
+					"passGrossYards": 79,
+					"passNetYards": 103,
+					"passAvg": 2.5,
+					"passYardsPerAtt": 3.0,
+					"passTD": 0,
+					"passTDPct": 0.0,
+					"passInt": 0,
+					"passIntPct": 0.0,
+					"passLng": 29,
+					"pass20Plus": 0,
+					"pass40Plus": 0,
+					"passSacks": 2,
+					"passSackY": 22,
+					"qbRating": 67.7
+				},
+				"rushing": {
+					"rushAttempts": 15,
+					"rushYards": 109,
+					"rushAverage": 3.6,
+					"rushTD": 0,
+					"rushLng": 30,
+					"rush1stDowns": 3,
+					"rush1stDownsPct": 14.7,
+					"rush20Plus": 0,
+					"rush40Plus": 0,
+					"rushFumbles": 1
+				},
+				"receiving": {
+					"receptions": 18,
+					"recYards": 89,
+					"recAverage": 4.7,
+					"recTD": 0,
+					"recLng": 27,
+					"rec1stDowns": 9,
+					"rec20Plus": 1,
+					"rec40Plus": 0,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 51,
+					"tackleTotal": 75,
+					"tackleAst": 37,
+					"sacks": 8,
+					"sackYds": 27,
+					"tacklesForLoss": 4
+				},
+				"interceptions": {
+					"interceptions": 0,
+					"intTD": 0,
+					"intYds": 1,
+					"intAverage": 1.4,
+					"intLng": 1,
+					"passesDefended": 4,
+					"stuffs": 19,
+					"stuffYds": 52,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 2,
+					"fumLost": 1,
+					"fumForced": 1,
+					"fumOwnRec": 0,
+					"fumOppRec": 1,
+					"fumRecYds": 0,
+					"fumTotalRec": 2,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 0,
+					"krYds": 0,
+					"krAvg": 0.0,
+					"krLng": 0,
+					"krTD": 0,
+					"kr20Plus": 0,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 2,
+					"prYds": 33,
+					"prAvg": 4.7,
+					"prLng": 11,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 0,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 1,
+					"fgAtt": 1,
+					"fgPct": 110.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 0,
+					"fgAtt20_29": 0,
+					"fg20_29Pct": 141.0,
+					"fgMade30_39": 1,
+					"fgAtt30_39": 0,
+					"fg30_39Pct": 132.0,
+					"fgMade40_49": 0,
+					"fgAtt40_49": 0,
+					"fg40_49Pct": 0.0,
+					"fgMade50Plus": 1,
+					"fgAtt50Plus": 1,
+					"fg50PlusPct": 143.0,
+					"fgLng": 32
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 0,
+					"xpAtt": 1,
+					"xpPct": 122.0,
+					"fgAndXpPts": 12
+				},
+				"kickoffs": {
+					"kickoffs": 3,
+					"koYds": 444,
+					"koOOB": 0,
+					"koAvg": 65.4,
+					"koTB": 4,
+					"koRet": 0,
+					"koRetYds": 15,
+					"koRetAvgYds": 22.3,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 5,
+					"puntYds": 336,
+					"puntNetYds": 309,
+					"puntLng": 31,
+					"puntAvg": 58.3,
+					"puntNetAvg": 61.9,
+					"puntBlk": 0,
+					"puntOOB": 1,
+					"puntDown": 0,
+					"puntIn20": 1,
+					"puntIn20Pct": 19.0,
+					"puntTB": 0,
+					"puntTBPct": 0.0,
+					"puntFC": 1,
+					"puntRet": 4,
+					"puntRetYds": 17,
+					"puntRetAvg": 7.7
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 17,
+					"firstDownsPass": 7,
+					"firstDownsRush": 4,
+					"firstDownsPenalty": 0,
+					"thirdDowns": 5,
+					"thirdDownsAtt": 14,
+					"thirdDownsPct": 16.6,
+					"fourthDowns": 0,
+					"fourthDownsAtt": 1,
+					"fourthDownsPct": 0.0,
+					"penalties": 13,
+					"penaltyYds": 78,
+					"offensePlays": 68,
+					"offenseYds": 163,
+					"offenseAvgYds": 2.8,
+					"totalTD": 1
+				},
+				"standings": {
+					"wins": 0,
+					"losses": 0,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.0,
+					"pointsFor": 19,
+					"pointsAgainst": 11,
+					"pointDifferential": -2
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 53,
+					"defenseSnaps": 56,
+					"specialTeamSnaps": 36
+				}
+			}
+		},
+		{
+			"game": {
+				"id": 113867,
+				"week": 1,
+				"startTime": "2023-09-10T13:20:00.000Z",
+				"awayTeamAbbreviation": "CAR",
+				"homeTeamAbbreviation": "ATL"
+			},
+			"team": {
+				"id": 68,
+				"abbreviation": "ATL"
+			},
+			"stats": {
+				"passing": {
+					"passAttempts": 12,
+					"passCompletions": 9,
+					"passPct": 83.3,
+					"passGrossYards": 149,
+					"passNetYards": 127,
+					"passAvg": 7.3,
+					"passYardsPerAtt": 3.7,
+					"passTD": 1,
+					"passTDPct": 6.9,
+					"passInt": 0,
+					"passIntPct": 0.0,
+					"passLng": 46,
+					"pass20Plus": 1,
+					"pass40Plus": 0,
+					"passSacks": 4,
+					"passSackY": 31,
+					"qbRating": 89.4
+				},
+				"rushing": {
+					"rushAttempts": 24,
+					"rushYards": 165,
+					"rushAverage": 4.8,
+					"rushTD": 1,
+					"rushLng": 17,
+					"rush1stDowns": 6,
+					"rush1stDownsPct": 34.2,
+					"rush20Plus": 1,
+					"rush40Plus": 0,
+					"rushFumbles": 0
+				},
+				"receiving": {
+					"receptions": 11,
+					"recYards": 132,
+					"recAverage": 5.9,
+					"recTD": 1,
+					"recLng": 23,
+					"rec1stDowns": 6,
+					"rec20Plus": 1,
+					"rec40Plus": 0,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 45,
+					"tackleTotal": 110,
+					"tackleAst": 29,
+					"sacks": 2,
+					"sackYds": 17,
+					"tacklesForLoss": 1
+				},
+				"interceptions": {
+					"interceptions": 2,
+					"intTD": 0,
+					"intYds": 3,
+					"intAverage": 1.6,
+					"intLng": 2,
+					"passesDefended": 5,
+					"stuffs": 36,
+					"stuffYds": 33,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 0,
+					"fumLost": 0,
+					"fumForced": 0,
+					"fumOwnRec": 0,
+					"fumOppRec": 1,
+					"fumRecYds": 0,
+					"fumTotalRec": 1,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 0,
+					"krYds": 0,
+					"krAvg": 0.0,
+					"krLng": 0,
+					"krTD": 0,
+					"kr20Plus": 0,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 2,
+					"prYds": 3,
+					"prAvg": 1.3,
+					"prLng": 4,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 0,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 0,
+					"fgAtt": 1,
+					"fgPct": 132.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 0,
+					"fgAtt20_29": 0,
+					"fg20_29Pct": 0.0,
+					"fgMade30_39": 0,
+					"fgAtt30_39": 0,
+					"fg30_39Pct": 0.0,
+					"fgMade40_49": 1,
+					"fgAtt40_49": 1,
+					"fg40_49Pct": 119.0,
+					"fgMade50Plus": 0,
+					"fgAtt50Plus": 0,
+					"fg50PlusPct": 0.0,
+					"fgLng": 33
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 3,
+					"xpAtt": 3,
+					"xpPct": 69.0,
+					"fgAndXpPts": 3
+				},
+				"kickoffs": {
+					"kickoffs": 6,
+					"koYds": 438,
+					"koOOB": 0,
+					"koAvg": 70.4,
+					"koTB": 3,
+					"koRet": 0,
+					"koRetYds": 0,
+					"koRetAvgYds": 0.0,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 7,
+					"puntYds": 343,
+					"puntNetYds": 452,
+					"puntLng": 70,
+					"puntAvg": 33.7,
+					"puntNetAvg": 30.5,
+					"puntBlk": 0,
+					"puntOOB": 2,
+					"puntDown": 1,
+					"puntIn20": 3,
+					"puntIn20Pct": 43.7,
+					"puntTB": 0,
+					"puntTBPct": 0.0,
+					"puntFC": 1,
+					"puntRet": 1,
+					"puntRetYds": 19,
+					"puntRetAvg": 3.7
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 10,
+					"firstDownsPass": 4,
+					"firstDownsRush": 6,
+					"firstDownsPenalty": 0,
+					"thirdDowns": 1,
+					"thirdDownsAtt": 11,
+					"thirdDownsPct": 27.0,
+					"fourthDowns": 0,
+					"fourthDownsAtt": 0,
+					"fourthDownsPct": 0.0,
+					"penalties": 5,
+					"penaltyYds": 46,
+					"offensePlays": 30,
+					"offenseYds": 134,
+					"offenseAvgYds": 5.6,
+					"totalTD": 2
+				},
+				"standings": {
+					"wins": 1,
+					"losses": 0,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 1.0,
+					"pointsFor": 31,
+					"pointsAgainst": 9,
+					"pointDifferential": 9
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 58,
+					"defenseSnaps": 87,
+					"specialTeamSnaps": 19
+				}
+			}
+		},
+		{
+			"game": {
+				"id": 113868,
+				"week": 1,
+				"startTime": "2023-09-10T05:50:00.000Z",
+				"awayTeamAbbreviation": "HOU",
+				"homeTeamAbbreviation": "BAL"
+			},
+			"team": {
+				"id": 56,
+				"abbreviation": "BAL"
+			},
+			"stats": {
+				"passing": {
+					"passAttempts": 27,
+					"passCompletions": 14,
+					"passPct": 79.6,
+					"passGrossYards": 231,
+					"passNetYards": 145,
+					"passAvg": 7.4,
+					"passYardsPerAtt": 7.8,
+					"passTD": 0,
+					"passTDPct": 0.0,
+					"passInt": 1,
+					"passIntPct": 5.1,
+					"passLng": 34,
+					"pass20Plus": 3,
+					"pass40Plus": 0,
+					"passSacks": 5,
+					"passSackY": 17,
+					"qbRating": 98.6
+				},
+				"rushing": {
+					"rushAttempts": 40,
+					"rushYards": 101,
+					"rushAverage": 4.2,
+					"rushTD": 4,
+					"rushLng": 17,
+					"rush1stDowns": 5,
+					"rush1stDownsPct": 16.6,
+					"rush20Plus": 0,
+					"rush40Plus": 0,
+					"rushFumbles": 1
+				},
+				"receiving": {
+					"receptions": 23,
+					"recYards": 150,
+					"recAverage": 10.3,
+					"recTD": 0,
+					"recLng": 26,
+					"rec1stDowns": 7,
+					"rec20Plus": 3,
+					"rec40Plus": 0,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 34,
+					"tackleTotal": 51,
+					"tackleAst": 30,
+					"sacks": 6,
+					"sackYds": 46,
+					"tacklesForLoss": 1
+				},
+				"interceptions": {
+					"interceptions": 0,
+					"intTD": 0,
+					"intYds": 0,
+					"intAverage": 0.0,
+					"intLng": 0,
+					"passesDefended": 10,
+					"stuffs": 34,
+					"stuffYds": 58,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 1,
+					"fumLost": 0,
+					"fumForced": 0,
+					"fumOwnRec": 1,
+					"fumOppRec": 0,
+					"fumRecYds": 0,
+					"fumTotalRec": 2,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 0,
+					"krYds": 20,
+					"krAvg": 12.8,
+					"krLng": 19,
+					"krTD": 0,
+					"kr20Plus": 0,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 0,
+					"prYds": 0,
+					"prAvg": 0.0,
+					"prLng": 0,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 1,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 1,
+					"fgAtt": 0,
+					"fgPct": 79.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 0,
+					"fgAtt20_29": 0,
+					"fg20_29Pct": 0.0,
+					"fgMade30_39": 0,
+					"fgAtt30_39": 0,
+					"fg30_39Pct": 61.0,
+					"fgMade40_49": 0,
+					"fgAtt40_49": 0,
+					"fg40_49Pct": 0.0,
+					"fgMade50Plus": 0,
+					"fgAtt50Plus": 0,
+					"fg50PlusPct": 0.0,
+					"fgLng": 48
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 2,
+					"xpAtt": 2,
+					"xpPct": 142.0,
+					"fgAndXpPts": 5
+				},
+				"kickoffs": {
+					"kickoffs": 2,
+					"koYds": 471,
+					"koOOB": 0,
+					"koAvg": 41.6,
+					"koTB": 5,
+					"koRet": 0,
+					"koRetYds": 0,
+					"koRetAvgYds": 0.0,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 4,
+					"puntYds": 186,
+					"puntNetYds": 306,
+					"puntLng": 83,
+					"puntAvg": 65.7,
+					"puntNetAvg": 45.0,
+					"puntBlk": 0,
+					"puntOOB": 0,
+					"puntDown": 0,
+					"puntIn20": 5,
+					"puntIn20Pct": 104.8,
+					"puntTB": 0,
+					"puntTBPct": 0.0,
+					"puntFC": 3,
+					"puntRet": 1,
+					"puntRetYds": 30,
+					"puntRetAvg": 14.0
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 23,
+					"firstDownsPass": 7,
+					"firstDownsRush": 8,
+					"firstDownsPenalty": 2,
+					"thirdDowns": 10,
+					"thirdDownsAtt": 16,
+					"thirdDownsPct": 71.5,
+					"fourthDowns": 0,
+					"fourthDownsAtt": 0,
+					"fourthDownsPct": 0.0,
+					"penalties": 10,
+					"penaltyYds": 66,
+					"offensePlays": 47,
+					"offenseYds": 320,
+					"offenseAvgYds": 4.7,
+					"totalTD": 2
+				},
+				"standings": {
+					"wins": 0,
+					"losses": 0,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.76,
+					"pointsFor": 34,
+					"pointsAgainst": 7,
+					"pointDifferential": 11
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 1,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 40,
+					"defenseSnaps": 53,
+					"specialTeamSnaps": 31
+				}
+			}
+		},
+		{
+			"game": {
+				"id": 113881,
+				"week": 1,
+				"startTime": "2023-09-11T06:00:00.000Z",
+				"awayTeamAbbreviation": "BUF",
+				"homeTeamAbbreviation": "NYJ"
+			},
+			"team": {
+				"id": 48,
+				"abbreviation": "BUF"
+			},
+			"stats": {
+				"passing": {
+					"passAttempts": 46,
+					"passCompletions": 40,
+					"passPct": 49.5,
+					"passGrossYards": 146,
+					"passNetYards": 171,
+					"passAvg": 6.5,
+					"passYardsPerAtt": 3.2,
+					"passTD": 0,
+					"passTDPct": 1.8,
+					"passInt": 3,
+					"passIntPct": 8.9,
+					"passLng": 19,
+					"pass20Plus": 0,
+					"pass40Plus": 0,
+					"passSacks": 5,
+					"passSackY": 10,
+					"qbRating": 34.5
+				},
+				"rushing": {
+					"rushAttempts": 16,
+					"rushYards": 62,
+					"rushAverage": 3.0,
+					"rushTD": 0,
+					"rushLng": 18,
+					"rush1stDowns": 9,
+					"rush1stDownsPct": 50.9,
+					"rush20Plus": 0,
+					"rush40Plus": 0,
+					"rushFumbles": 2
+				},
+				"receiving": {
+					"receptions": 27,
+					"recYards": 323,
+					"recAverage": 11.3,
+					"recTD": 0,
+					"recLng": 34,
+					"rec1stDowns": 14,
+					"rec20Plus": 1,
+					"rec40Plus": 0,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 26,
+					"tackleTotal": 47,
+					"tackleAst": 30,
+					"sacks": 2,
+					"sackYds": 18,
+					"tacklesForLoss": 2
+				},
+				"interceptions": {
+					"interceptions": 0,
+					"intTD": 0,
+					"intYds": 9,
+					"intAverage": 18.1,
+					"intLng": 10,
+					"passesDefended": 2,
+					"stuffs": 13,
+					"stuffYds": 32,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 2,
+					"fumLost": 1,
+					"fumForced": 1,
+					"fumOwnRec": 1,
+					"fumOppRec": 0,
+					"fumRecYds": 0,
+					"fumTotalRec": 1,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 0,
+					"krYds": 0,
+					"krAvg": 0.0,
+					"krLng": 0,
+					"krTD": 0,
+					"kr20Plus": 0,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 0,
+					"prYds": 2,
+					"prAvg": 4.8,
+					"prLng": 5,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 2,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 3,
+					"fgAtt": 2,
+					"fgPct": 94.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 0,
+					"fgAtt20_29": 0,
+					"fg20_29Pct": 0.0,
+					"fgMade30_39": 1,
+					"fgAtt30_39": 1,
+					"fg30_39Pct": 102.0,
+					"fgMade40_49": 1,
+					"fgAtt40_49": 1,
+					"fg40_49Pct": 134.0,
+					"fgMade50Plus": 0,
+					"fgAtt50Plus": 0,
+					"fg50PlusPct": 67.0,
+					"fgLng": 28
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 1,
+					"xpAtt": 0,
+					"xpPct": 142.0,
+					"fgAndXpPts": 5
+				},
+				"kickoffs": {
+					"kickoffs": 3,
+					"koYds": 190,
+					"koOOB": 0,
+					"koAvg": 79.5,
+					"koTB": 2,
+					"koRet": 2,
+					"koRetYds": 30,
+					"koRetAvgYds": 22.5,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 2,
+					"puntYds": 102,
+					"puntNetYds": 64,
+					"puntLng": 59,
+					"puntAvg": 39.5,
+					"puntNetAvg": 15.2,
+					"puntBlk": 0,
+					"puntOOB": 0,
+					"puntDown": 0,
+					"puntIn20": 1,
+					"puntIn20Pct": 46.0,
+					"puntTB": 0,
+					"puntTBPct": 0.0,
+					"puntFC": 0,
+					"puntRet": 2,
+					"puntRetYds": 46,
+					"puntRetAvg": 40.6
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 20,
+					"firstDownsPass": 8,
+					"firstDownsRush": 10,
+					"firstDownsPenalty": 0,
+					"thirdDowns": 7,
+					"thirdDownsAtt": 17,
+					"thirdDownsPct": 39.2,
+					"fourthDowns": 0,
+					"fourthDownsAtt": 0,
+					"fourthDownsPct": 0.0,
+					"penalties": 5,
+					"penaltyYds": 41,
+					"offensePlays": 57,
+					"offenseYds": 226,
+					"offenseAvgYds": 6.5,
+					"totalTD": 0
+				},
+				"standings": {
+					"wins": 0,
+					"losses": 0,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.0,
+					"pointsFor": 17,
+					"pointsAgainst": 30,
+					"pointDifferential": -7
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 57,
+					"defenseSnaps": 71,
+					"specialTeamSnaps": 19
+				}
+			}
+		},
+		{
+			"game": {
+				"id": 113867,
+				"week": 1,
+				"startTime": "2023-09-10T13:30:00.000Z",
+				"awayTeamAbbreviation": "CAR",
+				"homeTeamAbbreviation": "ATL"
+			},
+			"team": {
+				"id": 69,
+				"abbreviation": "CAR"
+			},
+			"stats": {
+				"passing": {
+					"passAttempts": 22,
+					"passCompletions": 25,
+					"passPct": 61.1,
+					"passGrossYards": 204,
+					"passNetYards": 142,
+					"passAvg": 4.3,
+					"passYardsPerAtt": 3.9,
+					"passTD": 1,
+					"passTDPct": 1.9,
+					"passInt": 1,
+					"passIntPct": 6.4,
+					"passLng": 17,
+					"pass20Plus": 0,
+					"pass40Plus": 0,
+					"passSacks": 1,
+					"passSackY": 26,
+					"qbRating": 68.8
+				},
+				"rushing": {
+					"rushAttempts": 39,
+					"rushYards": 126,
+					"rushAverage": 5.9,
+					"rushTD": 0,
+					"rushLng": 13,
+					"rush1stDowns": 10,
+					"rush1stDownsPct": 24.7,
+					"rush20Plus": 0,
+					"rush40Plus": 0,
+					"rushFumbles": 2
+				},
+				"receiving": {
+					"receptions": 12,
+					"recYards": 163,
+					"recAverage": 7.4,
+					"recTD": 1,
+					"recLng": 18,
+					"rec1stDowns": 9,
+					"rec20Plus": 0,
+					"rec40Plus": 0,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 30,
+					"tackleTotal": 61,
+					"tackleAst": 30,
+					"sacks": 3,
+					"sackYds": 30,
+					"tacklesForLoss": 4
+				},
+				"interceptions": {
+					"interceptions": 0,
+					"intTD": 0,
+					"intYds": 0,
+					"intAverage": 0.0,
+					"intLng": 0,
+					"passesDefended": 0,
+					"stuffs": 23,
+					"stuffYds": 40,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 2,
+					"fumLost": 1,
+					"fumForced": 0,
+					"fumOwnRec": 0,
+					"fumOppRec": 0,
+					"fumRecYds": 0,
+					"fumTotalRec": 0,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 0,
+					"krYds": 0,
+					"krAvg": 0.0,
+					"krLng": 0,
+					"krTD": 0,
+					"kr20Plus": 0,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 2,
+					"prYds": 17,
+					"prAvg": 4.4,
+					"prLng": 8,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 0,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 1,
+					"fgAtt": 0,
+					"fgPct": 134.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 0,
+					"fgAtt20_29": 0,
+					"fg20_29Pct": 0.0,
+					"fgMade30_39": 0,
+					"fgAtt30_39": 0,
+					"fg30_39Pct": 0.0,
+					"fgMade40_49": 0,
+					"fgAtt40_49": 0,
+					"fg40_49Pct": 137.0,
+					"fgMade50Plus": 0,
+					"fgAtt50Plus": 0,
+					"fg50PlusPct": 0.0,
+					"fgLng": 52
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 1,
+					"xpAtt": 0,
+					"xpPct": 129.0,
+					"fgAndXpPts": 5
+				},
+				"kickoffs": {
+					"kickoffs": 4,
+					"koYds": 282,
+					"koOOB": 0,
+					"koAvg": 93.6,
+					"koTB": 3,
+					"koRet": 0,
+					"koRetYds": 0,
+					"koRetAvgYds": 0.0,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 3,
+					"puntYds": 279,
+					"puntNetYds": 293,
+					"puntLng": 63,
+					"puntAvg": 76.6,
+					"puntNetAvg": 57.1,
+					"puntBlk": 0,
+					"puntOOB": 1,
+					"puntDown": 1,
+					"puntIn20": 1,
+					"puntIn20Pct": 13.8,
+					"puntTB": 0,
+					"puntTBPct": 0.0,
+					"puntFC": 0,
+					"puntRet": 1,
+					"puntRetYds": 4,
+					"puntRetAvg": 2.2
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 28,
+					"firstDownsPass": 10,
+					"firstDownsRush": 12,
+					"firstDownsPenalty": 2,
+					"thirdDowns": 6,
+					"thirdDownsAtt": 7,
+					"thirdDownsPct": 35.4,
+					"fourthDowns": 0,
+					"fourthDownsAtt": 1,
+					"fourthDownsPct": 0.0,
+					"penalties": 8,
+					"penaltyYds": 90,
+					"offensePlays": 60,
+					"offenseYds": 154,
+					"offenseAvgYds": 2.3,
+					"totalTD": 0
+				},
+				"standings": {
+					"wins": 0,
+					"losses": 1,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.0,
+					"pointsFor": 8,
+					"pointsAgainst": 26,
+					"pointDifferential": -16
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 65,
+					"defenseSnaps": 66,
+					"specialTeamSnaps": 17
+				}
+			}
+		},
+		{
+			"game": {
+				"id": 113872,
+				"week": 1,
+				"startTime": "2023-09-10T07:50:00.000Z",
+				"awayTeamAbbreviation": "GB",
+				"homeTeamAbbreviation": "CHI"
+			},
+			"team": {
+				"id": 60,
+				"abbreviation": "CHI"
+			},
+			"stats": {
+				"passing": {
+					"passAttempts": 46,
+					"passCompletions": 28,
+					"passPct": 46.7,
+					"passGrossYards": 248,
+					"passNetYards": 238,
+					"passAvg": 4.4,
+					"passYardsPerAtt": 6.6,
+					"passTD": 1,
+					"passTDPct": 2.9,
+					"passInt": 0,
+					"passIntPct": 3.9,
+					"passLng": 30,
+					"pass20Plus": 2,
+					"pass40Plus": 0,
+					"passSacks": 3,
+					"passSackY": 31,
+					"qbRating": 108.7
+				},
+				"rushing": {
+					"rushAttempts": 26,
+					"rushYards": 76,
+					"rushAverage": 2.9,
+					"rushTD": 0,
+					"rushLng": 16,
+					"rush1stDowns": 8,
+					"rush1stDownsPct": 21.2,
+					"rush20Plus": 0,
+					"rush40Plus": 0,
+					"rushFumbles": 0
+				},
+				"receiving": {
+					"receptions": 16,
+					"recYards": 140,
+					"recAverage": 10.2,
+					"recTD": 0,
+					"recLng": 28,
+					"rec1stDowns": 12,
+					"rec20Plus": 2,
+					"rec40Plus": 0,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 42,
+					"tackleTotal": 44,
+					"tackleAst": 15,
+					"sacks": 0,
+					"sackYds": 10,
+					"tacklesForLoss": 3
+				},
+				"interceptions": {
+					"interceptions": 0,
+					"intTD": 0,
+					"intYds": 0,
+					"intAverage": 0.0,
+					"intLng": 0,
+					"passesDefended": 4,
+					"stuffs": 21,
+					"stuffYds": 22,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 0,
+					"fumLost": 1,
+					"fumForced": 0,
+					"fumOwnRec": 0,
+					"fumOppRec": 0,
+					"fumRecYds": 0,
+					"fumTotalRec": 0,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 2,
+					"krYds": 94,
+					"krAvg": 25.2,
+					"krLng": 43,
+					"krTD": 0,
+					"kr20Plus": 1,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 2,
+					"prYds": 19,
+					"prAvg": 9.6,
+					"prLng": 10,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 1,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 1,
+					"fgAtt": 2,
+					"fgPct": 133.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 0,
+					"fgAtt20_29": 0,
+					"fg20_29Pct": 136.0,
+					"fgMade30_39": 0,
+					"fgAtt30_39": 0,
+					"fg30_39Pct": 0.0,
+					"fgMade40_49": 1,
+					"fgAtt40_49": 1,
+					"fg40_49Pct": 104.0,
+					"fgMade50Plus": 0,
+					"fgAtt50Plus": 0,
+					"fg50PlusPct": 0.0,
+					"fgLng": 66
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 0,
+					"xpAtt": 0,
+					"xpPct": 0.0,
+					"fgAndXpPts": 8
+				},
+				"kickoffs": {
+					"kickoffs": 5,
+					"koYds": 262,
+					"koOOB": 0,
+					"koAvg": 39.7,
+					"koTB": 2,
+					"koRet": 2,
+					"koRetYds": 74,
+					"koRetAvgYds": 10.6,
+					"koTD": 0,
+					"koOS": 1,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 3,
+					"puntYds": 216,
+					"puntNetYds": 203,
+					"puntLng": 54,
+					"puntAvg": 36.6,
+					"puntNetAvg": 53.7,
+					"puntBlk": 0,
+					"puntOOB": 0,
+					"puntDown": 0,
+					"puntIn20": 1,
+					"puntIn20Pct": 26.8,
+					"puntTB": 0,
+					"puntTBPct": 0.0,
+					"puntFC": 0,
+					"puntRet": 1,
+					"puntRetYds": 54,
+					"puntRetAvg": 25.9
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 22,
+					"firstDownsPass": 7,
+					"firstDownsRush": 10,
+					"firstDownsPenalty": 2,
+					"thirdDowns": 2,
+					"thirdDownsAtt": 14,
+					"thirdDownsPct": 27.0,
+					"fourthDowns": 1,
+					"fourthDownsAtt": 2,
+					"fourthDownsPct": 70.0,
+					"penalties": 7,
+					"penaltyYds": 53,
+					"offensePlays": 55,
+					"offenseYds": 450,
+					"offenseAvgYds": 6.2,
+					"totalTD": 1
+				},
+				"standings": {
+					"wins": 0,
+					"losses": 1,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.0,
+					"pointsFor": 27,
+					"pointsAgainst": 26,
+					"pointDifferential": -12
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 2,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 1,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 98,
+					"defenseSnaps": 52,
+					"specialTeamSnaps": 28
+				}
+			}
+		},
+		{
+			"game": {
+				"id": 113880,
+				"week": 1,
+				"startTime": "2023-09-10T13:25:00.000Z",
+				"awayTeamAbbreviation": "CIN",
+				"homeTeamAbbreviation": "CLE"
+			},
+			"team": {
+				"id": 57,
+				"abbreviation": "CIN"
+			},
+			"stats": {
+				"passing": {
+					"passAttempts": 22,
+					"passCompletions": 20,
+					"passPct": 46.4,
+					"passGrossYards": 100,
+					"passNetYards": 60,
+					"passAvg": 1.6,
+					"passYardsPerAtt": 2.5,
+					"passTD": 0,
+					"passTDPct": 0.0,
+					"passInt": 0,
+					"passIntPct": 0.0,
+					"passLng": 11,
+					"pass20Plus": 0,
+					"pass40Plus": 0,
+					"passSacks": 2,
+					"passSackY": 11,
+					"qbRating": 56.1
+				},
+				"rushing": {
+					"rushAttempts": 27,
+					"rushYards": 99,
+					"rushAverage": 4.8,
+					"rushTD": 0,
+					"rushLng": 28,
+					"rush1stDowns": 2,
+					"rush1stDownsPct": 8.2,
+					"rush20Plus": 1,
+					"rush40Plus": 0,
+					"rushFumbles": 0
+				},
+				"receiving": {
+					"receptions": 18,
+					"recYards": 46,
+					"recAverage": 7.9,
+					"recTD": 0,
+					"recLng": 13,
+					"rec1stDowns": 2,
+					"rec20Plus": 0,
+					"rec40Plus": 0,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 26,
+					"tackleTotal": 111,
+					"tackleAst": 42,
+					"sacks": 2,
+					"sackYds": 6,
+					"tacklesForLoss": 0
+				},
+				"interceptions": {
+					"interceptions": 0,
+					"intTD": 0,
+					"intYds": 26,
+					"intAverage": 19.4,
+					"intLng": 24,
+					"passesDefended": 5,
+					"stuffs": 15,
+					"stuffYds": 24,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 0,
+					"fumLost": 0,
+					"fumForced": 1,
+					"fumOwnRec": 0,
+					"fumOppRec": 0,
+					"fumRecYds": 0,
+					"fumTotalRec": 0,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 1,
+					"krYds": 52,
+					"krAvg": 27.7,
+					"krLng": 36,
+					"krTD": 0,
+					"kr20Plus": 0,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 2,
+					"prYds": 31,
+					"prAvg": 9.7,
+					"prLng": 8,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 0,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 1,
+					"fgAtt": 1,
+					"fgPct": 43.5,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 0,
+					"fgAtt20_29": 0,
+					"fg20_29Pct": 0.0,
+					"fgMade30_39": 0,
+					"fgAtt30_39": 0,
+					"fg30_39Pct": 0.0,
+					"fgMade40_49": 0,
+					"fgAtt40_49": 1,
+					"fg40_49Pct": 92.0,
+					"fgMade50Plus": 0,
+					"fgAtt50Plus": 1,
+					"fg50PlusPct": 0.0,
+					"fgLng": 42
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 0,
+					"xpAtt": 0,
+					"xpPct": 0.0,
+					"fgAndXpPts": 3
+				},
+				"kickoffs": {
+					"kickoffs": 1,
+					"koYds": 172,
+					"koOOB": 0,
+					"koAvg": 83.2,
+					"koTB": 2,
+					"koRet": 0,
+					"koRetYds": 0,
+					"koRetAvgYds": 0.0,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 13,
+					"puntYds": 298,
+					"puntNetYds": 295,
+					"puntLng": 59,
+					"puntAvg": 49.1,
+					"puntNetAvg": 41.0,
+					"puntBlk": 0,
+					"puntOOB": 2,
+					"puntDown": 0,
+					"puntIn20": 2,
+					"puntIn20Pct": 16.6,
+					"puntTB": 0,
+					"puntTBPct": 13.3,
+					"puntFC": 2,
+					"puntRet": 3,
+					"puntRetYds": 17,
+					"puntRetAvg": 6.2
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 8,
+					"firstDownsPass": 2,
+					"firstDownsRush": 2,
+					"firstDownsPenalty": 0,
+					"thirdDowns": 2,
+					"thirdDownsAtt": 14,
+					"thirdDownsPct": 18.4,
+					"fourthDowns": 0,
+					"fourthDownsAtt": 1,
+					"fourthDownsPct": 0.0,
+					"penalties": 4,
+					"penaltyYds": 27,
+					"offensePlays": 56,
+					"offenseYds": 184,
+					"offenseAvgYds": 3.3,
+					"totalTD": 0
+				},
+				"standings": {
+					"wins": 0,
+					"losses": 1,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.0,
+					"pointsFor": 3,
+					"pointsAgainst": 21,
+					"pointDifferential": -21
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 31,
+					"defenseSnaps": 51,
+					"specialTeamSnaps": 29
+				}
+			}
+		},
+		{
+			"game": {
+				"id": 113880,
+				"week": 1,
+				"startTime": "2023-09-10T14:05:00.000Z",
+				"awayTeamAbbreviation": "CIN",
+				"homeTeamAbbreviation": "CLE"
+			},
+			"team": {
+				"id": 58,
+				"abbreviation": "CLE"
+			},
+			"stats": {
+				"passing": {
+					"passAttempts": 40,
+					"passCompletions": 17,
+					"passPct": 49.1,
+					"passGrossYards": 86,
+					"passNetYards": 159,
+					"passAvg": 3.1,
+					"passYardsPerAtt": 4.2,
+					"passTD": 1,
+					"passTDPct": 2.0,
+					"passInt": 0,
+					"passIntPct": 3.6,
+					"passLng": 23,
+					"pass20Plus": 2,
+					"pass40Plus": 0,
+					"passSacks": 3,
+					"passSackY": 11,
+					"qbRating": 68.0
+				},
+				"rushing": {
+					"rushAttempts": 45,
+					"rushYards": 230,
+					"rushAverage": 7.3,
+					"rushTD": 0,
+					"rushLng": 26,
+					"rush1stDowns": 12,
+					"rush1stDownsPct": 38.4,
+					"rush20Plus": 0,
+					"rush40Plus": 0,
+					"rushFumbles": 2
+				},
+				"receiving": {
+					"receptions": 12,
+					"recYards": 158,
+					"recAverage": 12.9,
+					"recTD": 0,
+					"recLng": 36,
+					"rec1stDowns": 10,
+					"rec20Plus": 2,
+					"rec40Plus": 0,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 20,
+					"tackleTotal": 69,
+					"tackleAst": 25,
+					"sacks": 2,
+					"sackYds": 13,
+					"tacklesForLoss": 1
+				},
+				"interceptions": {
+					"interceptions": 0,
+					"intTD": 0,
+					"intYds": 0,
+					"intAverage": 0.0,
+					"intLng": 0,
+					"passesDefended": 11,
+					"stuffs": 31,
+					"stuffYds": 24,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 1,
+					"fumLost": 0,
+					"fumForced": 0,
+					"fumOwnRec": 1,
+					"fumOppRec": 0,
+					"fumRecYds": 0,
+					"fumTotalRec": 1,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 0,
+					"krYds": 0,
+					"krAvg": 0.0,
+					"krLng": 0,
+					"krTD": 0,
+					"kr20Plus": 0,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 3,
+					"prYds": 16,
+					"prAvg": 6.2,
+					"prLng": 3,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 2,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 2,
+					"fgAtt": 2,
+					"fgPct": 92.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 0,
+					"fgAtt20_29": 0,
+					"fg20_29Pct": 0.0,
+					"fgMade30_39": 1,
+					"fgAtt30_39": 1,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 2,
+					"fgAtt40_49": 1,
+					"fg40_49Pct": 114.0,
+					"fgMade50Plus": 0,
+					"fgAtt50Plus": 0,
+					"fg50PlusPct": 0.0,
+					"fgLng": 40
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 1,
+					"xpAtt": 0,
+					"xpPct": 61.0,
+					"fgAndXpPts": 11
+				},
+				"kickoffs": {
+					"kickoffs": 7,
+					"koYds": 245,
+					"koOOB": 0,
+					"koAvg": 61.3,
+					"koTB": 5,
+					"koRet": 1,
+					"koRetYds": 39,
+					"koRetAvgYds": 28.6,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 5,
+					"puntYds": 433,
+					"puntNetYds": 282,
+					"puntLng": 52,
+					"puntAvg": 55.3,
+					"puntNetAvg": 24.1,
+					"puntBlk": 0,
+					"puntOOB": 2,
+					"puntDown": 0,
+					"puntIn20": 4,
+					"puntIn20Pct": 30.4,
+					"puntTB": 0,
+					"puntTBPct": 0.0,
+					"puntFC": 1,
+					"puntRet": 3,
+					"puntRetYds": 18,
+					"puntRetAvg": 10.2
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 14,
+					"firstDownsPass": 12,
+					"firstDownsRush": 10,
+					"firstDownsPenalty": 0,
+					"thirdDowns": 4,
+					"thirdDownsAtt": 7,
+					"thirdDownsPct": 32.0,
+					"fourthDowns": 0,
+					"fourthDownsAtt": 0,
+					"fourthDownsPct": 0.0,
+					"penalties": 4,
+					"penaltyYds": 41,
+					"offensePlays": 91,
+					"offenseYds": 486,
+					"offenseAvgYds": 5.5,
+					"totalTD": 2
+				},
+				"standings": {
+					"wins": 0,
+					"losses": 0,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.66,
+					"pointsFor": 16,
+					"pointsAgainst": 3,
+					"pointDifferential": 12
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 54,
+					"defenseSnaps": 68,
+					"specialTeamSnaps": 41
+				}
+			}
+		},
+		{
+			"game": {
+				"id": 113877,
+				"week": 1,
+				"startTime": "2023-09-10T04:00:00.000Z",
+				"awayTeamAbbreviation": "DAL",
+				"homeTeamAbbreviation": "NYG"
+			},
+			"team": {
+				"id": 52,
+				"abbreviation": "DAL"
+			},
+			"stats": {
+				"passing": {
+					"passAttempts": 27,
+					"passCompletions": 13,
+					"passPct": 43.7,
+					"passGrossYards": 155,
+					"passNetYards": 157,
+					"passAvg": 8.1,
+					"passYardsPerAtt": 7.7,
+					"passTD": 0,
+					"passTDPct": 0.0,
+					"passInt": 0,
+					"passIntPct": 0.0,
+					"passLng": 40,
+					"pass20Plus": 1,
+					"pass40Plus": 0,
+					"passSacks": 0,
+					"passSackY": 0,
+					"qbRating": 93.5
+				},
+				"rushing": {
+					"rushAttempts": 29,
+					"rushYards": 109,
+					"rushAverage": 3.5,
+					"rushTD": 2,
+					"rushLng": 17,
+					"rush1stDowns": 8,
+					"rush1stDownsPct": 21.0,
+					"rush20Plus": 0,
+					"rush40Plus": 0,
+					"rushFumbles": 0
+				},
+				"receiving": {
+					"receptions": 12,
+					"recYards": 151,
+					"recAverage": 12.1,
+					"recTD": 0,
+					"recLng": 68,
+					"rec1stDowns": 7,
+					"rec20Plus": 1,
+					"rec40Plus": 0,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 26,
+					"tackleTotal": 55,
+					"tackleAst": 21,
+					"sacks": 6,
+					"sackYds": 29,
+					"tacklesForLoss": 2
+				},
+				"interceptions": {
+					"interceptions": 2,
+					"intTD": 1,
+					"intYds": 14,
+					"intAverage": 14.2,
+					"intLng": 25,
+					"passesDefended": 5,
+					"stuffs": 31,
+					"stuffYds": 80,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 0,
+					"fumLost": 0,
+					"fumForced": 3,
+					"fumOwnRec": 0,
+					"fumOppRec": 0,
+					"fumRecYds": -2,
+					"fumTotalRec": 2,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 0,
+					"krYds": 0,
+					"krAvg": 0.0,
+					"krLng": 0,
+					"krTD": 0,
+					"kr20Plus": 0,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 1,
+					"prYds": 21,
+					"prAvg": 11.8,
+					"prLng": 7,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 0,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 1,
+					"fgAtt": 1,
+					"fgPct": 67.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 0,
+					"fgAtt20_29": 0,
+					"fg20_29Pct": 73.0,
+					"fgMade30_39": 1,
+					"fgAtt30_39": 1,
+					"fg30_39Pct": 87.0,
+					"fgMade40_49": 0,
+					"fgAtt40_49": 0,
+					"fg40_49Pct": 0.0,
+					"fgMade50Plus": 0,
+					"fgAtt50Plus": 0,
+					"fg50PlusPct": 0.0,
+					"fgLng": 52
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 5,
+					"xpAtt": 3,
+					"xpPct": 68.8,
+					"fgAndXpPts": 12
+				},
+				"kickoffs": {
+					"kickoffs": 5,
+					"koYds": 322,
+					"koOOB": 0,
+					"koAvg": 84.5,
+					"koTB": 10,
+					"koRet": 0,
+					"koRetYds": 0,
+					"koRetAvgYds": 0.0,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 2,
+					"puntYds": 102,
+					"puntNetYds": 84,
+					"puntLng": 35,
+					"puntAvg": 35.5,
+					"puntNetAvg": 44.9,
+					"puntBlk": 0,
+					"puntOOB": 0,
+					"puntDown": 0,
+					"puntIn20": 0,
+					"puntIn20Pct": 22.3,
+					"puntTB": 0,
+					"puntTBPct": 20.7,
+					"puntFC": 0,
+					"puntRet": 0,
+					"puntRetYds": 8,
+					"puntRetAvg": 7.6
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 23,
+					"firstDownsPass": 8,
+					"firstDownsRush": 4,
+					"firstDownsPenalty": 1,
+					"thirdDowns": 7,
+					"thirdDownsAtt": 8,
+					"thirdDownsPct": 42.0,
+					"fourthDowns": 1,
+					"fourthDownsAtt": 1,
+					"fourthDownsPct": 51.0,
+					"penalties": 7,
+					"penaltyYds": 21,
+					"offensePlays": 36,
+					"offenseYds": 325,
+					"offenseAvgYds": 2.7,
+					"totalTD": 3
+				},
+				"standings": {
+					"wins": 0,
+					"losses": 0,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 1.39,
+					"pointsFor": 34,
+					"pointsAgainst": 0,
+					"pointDifferential": 44
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 61,
+					"defenseSnaps": 59,
+					"specialTeamSnaps": 23
+				}
+			}
+		},
+		{
+			"game": {
+				"id": 113873,
+				"week": 1,
+				"startTime": "2023-09-10T14:00:00.000Z",
+				"awayTeamAbbreviation": "LV",
+				"homeTeamAbbreviation": "DEN"
+			},
+			"team": {
+				"id": 72,
+				"abbreviation": "DEN"
+			},
+			"stats": {
+				"passing": {
+					"passAttempts": 31,
+					"passCompletions": 15,
+					"passPct": 71.5,
+					"passGrossYards": 207,
+					"passNetYards": 200,
+					"passAvg": 6.0,
+					"passYardsPerAtt": 3.4,
+					"passTD": 2,
+					"passTDPct": 8.2,
+					"passInt": 0,
+					"passIntPct": 0.0,
+					"passLng": 12,
+					"pass20Plus": 2,
+					"pass40Plus": 0,
+					"passSacks": 1,
+					"passSackY": 14,
+					"qbRating": 113.4
+				},
+				"rushing": {
+					"rushAttempts": 25,
+					"rushYards": 125,
+					"rushAverage": 3.9,
+					"rushTD": 0,
+					"rushLng": 17,
+					"rush1stDowns": 4,
+					"rush1stDownsPct": 28.6,
+					"rush20Plus": 0,
+					"rush40Plus": 0,
+					"rushFumbles": 0
+				},
+				"receiving": {
+					"receptions": 18,
+					"recYards": 136,
+					"recAverage": 3.8,
+					"recTD": 2,
+					"recLng": 21,
+					"rec1stDowns": 9,
+					"rec20Plus": 2,
+					"rec40Plus": 0,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 25,
+					"tackleTotal": 55,
+					"tackleAst": 14,
+					"sacks": 0,
+					"sackYds": 0,
+					"tacklesForLoss": 1
+				},
+				"interceptions": {
+					"interceptions": 0,
+					"intTD": 0,
+					"intYds": 0,
+					"intAverage": 0.0,
+					"intLng": 0,
+					"passesDefended": 4,
+					"stuffs": 9,
+					"stuffYds": 6,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 0,
+					"fumLost": 0,
+					"fumForced": 0,
+					"fumOwnRec": 0,
+					"fumOppRec": 0,
+					"fumRecYds": 0,
+					"fumTotalRec": 0,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 2,
+					"krYds": 41,
+					"krAvg": 23.4,
+					"krLng": 16,
+					"krTD": 0,
+					"kr20Plus": 2,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 0,
+					"prYds": 0,
+					"prAvg": 0.0,
+					"prLng": 0,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 0,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 0,
+					"fgAtt": 1,
+					"fgPct": 33.5,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 0,
+					"fgAtt20_29": 0,
+					"fg20_29Pct": 118.0,
+					"fgMade30_39": 0,
+					"fgAtt30_39": 0,
+					"fg30_39Pct": 0.0,
+					"fgMade40_49": 0,
+					"fgAtt40_49": 0,
+					"fg40_49Pct": 0.0,
+					"fgMade50Plus": 0,
+					"fgAtt50Plus": 0,
+					"fg50PlusPct": 0.0,
+					"fgLng": 30
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 0,
+					"xpAtt": 2,
+					"xpPct": 38.0,
+					"fgAndXpPts": 5
+				},
+				"kickoffs": {
+					"kickoffs": 4,
+					"koYds": 244,
+					"koOOB": 0,
+					"koAvg": 66.3,
+					"koTB": 3,
+					"koRet": 0,
+					"koRetYds": 0,
+					"koRetAvgYds": 0.0,
+					"koTD": 0,
+					"koOS": 1,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 2,
+					"puntYds": 60,
+					"puntNetYds": 65,
+					"puntLng": 26,
+					"puntAvg": 32.0,
+					"puntNetAvg": 34.8,
+					"puntBlk": 0,
+					"puntOOB": 1,
+					"puntDown": 0,
+					"puntIn20": 1,
+					"puntIn20Pct": 68.0,
+					"puntTB": 0,
+					"puntTBPct": 0.0,
+					"puntFC": 0,
+					"puntRet": 0,
+					"puntRetYds": 0,
+					"puntRetAvg": 0.0
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 14,
+					"firstDownsPass": 10,
+					"firstDownsRush": 5,
+					"firstDownsPenalty": 5,
+					"thirdDowns": 2,
+					"thirdDownsAtt": 13,
+					"thirdDownsPct": 44.1,
+					"fourthDowns": 0,
+					"fourthDownsAtt": 0,
+					"fourthDownsPct": 0.0,
+					"penalties": 11,
+					"penaltyYds": 109,
+					"offensePlays": 61,
+					"offenseYds": 291,
+					"offenseAvgYds": 5.3,
+					"totalTD": 2
+				},
+				"standings": {
+					"wins": 0,
+					"losses": 0,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.0,
+					"pointsFor": 15,
+					"pointsAgainst": 24,
+					"pointDifferential": -1
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 42,
+					"defenseSnaps": 71,
+					"specialTeamSnaps": 22
+				}
+			}
+		}
+	],
+	"references": {
+		"teamReferences": [
+			{
+				"id": 48,
+				"city": "Buffalo",
+				"name": "Bills",
+				"abbreviation": "BUF",
+				"homeVenue": {
+					"id": 46,
+					"name": "New Era Field"
+				},
+				"teamColoursHex": ["#00338d", "#c60c30"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "BuffaloBills"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/giphcy6ie9mxbnldntsf"
+			},
+			{
+				"id": 51,
+				"city": "New York",
+				"name": "Jets",
+				"abbreviation": "NYJ",
+				"homeVenue": {
+					"id": 63,
+					"name": "MetLife Stadium"
+				},
+				"teamColoursHex": ["#125740", "#000000", "#ffffff"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "nyjets"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/ekijosiae96gektbo4iw"
+			},
+			{
+				"id": 52,
+				"city": "Dallas",
+				"name": "Cowboys",
+				"abbreviation": "DAL",
+				"homeVenue": {
+					"id": 51,
+					"name": "AT&T Stadium"
+				},
+				"teamColoursHex": [
+					"#003594",
+					"#041e42",
+					"#869397",
+					"#7f9695",
+					"#ffffff"
+				],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "dallascowboys"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/ieid8hoygzdlmzo0tnf6"
+			},
+			{
+				"id": 53,
+				"city": "New York",
+				"name": "Giants",
+				"abbreviation": "NYG",
+				"homeVenue": {
+					"id": 63,
+					"name": "MetLife Stadium"
+				},
+				"teamColoursHex": ["#0b2265", "#a71930", "#a5acaf"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Ginats"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/t6mhdmgizi6qhndh8b9p"
+			},
+			{
+				"id": 55,
+				"city": "Washington",
+				"name": "Commanders",
+				"abbreviation": "WAS",
+				"homeVenue": {
+					"id": 73,
+					"name": "FedEx Field"
+				},
+				"teamColoursHex": ["#773141", "#ffb612"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Redskins"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/haxrowry8puwbrixjdmc"
+			},
+			{
+				"id": 56,
+				"city": "Baltimore",
+				"name": "Ravens",
+				"abbreviation": "BAL",
+				"homeVenue": {
+					"id": 45,
+					"name": "M&T Bank Stadium"
+				},
+				"teamColoursHex": ["#241773", "#000000", "#9e7c0c", "#c60c30"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Ravens"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/ucsdijmddsqcj1i9tddd"
+			},
+			{
+				"id": 57,
+				"city": "Cincinnati",
+				"name": "Bengals",
+				"abbreviation": "CIN",
+				"homeVenue": {
+					"id": 49,
+					"name": "Paul Brown Stadium"
+				},
+				"teamColoursHex": ["#fb4f14", "#000000"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Bengals"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/okxpteoliyayufypqalq"
+			},
+			{
+				"id": 58,
+				"city": "Cleveland",
+				"name": "Browns",
+				"abbreviation": "CLE",
+				"homeVenue": {
+					"id": 50,
+					"name": "FirstEnergy Stadium"
+				},
+				"teamColoursHex": ["#311d00", "#ff3c00", "#ffffff"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Browns"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/grxy59mqoflnksp2kocc"
+			},
+			{
+				"id": 60,
+				"city": "Chicago",
+				"name": "Bears",
+				"abbreviation": "CHI",
+				"homeVenue": {
+					"id": 48,
+					"name": "Soldier Field"
+				},
+				"teamColoursHex": ["#0b162a", "#c83803"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "ChicagoBears"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/ra0poq2ivwyahbaq86d2"
+			},
+			{
+				"id": 62,
+				"city": "Green Bay",
+				"name": "Packers",
+				"abbreviation": "GB",
+				"homeVenue": {
+					"id": 54,
+					"name": "Lambeau Field"
+				},
+				"teamColoursHex": ["#203731", "#ffb612"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "packers"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/gppfvr7n8gljgjaqux2x"
+			},
+			{
+				"id": 64,
+				"city": "Houston",
+				"name": "Texans",
+				"abbreviation": "HOU",
+				"homeVenue": {
+					"id": 55,
+					"name": "NRG Stadium"
+				},
+				"teamColoursHex": ["#03202f", "#a71930"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "HoustonTexans"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/bpx88i8nw4nnabuq0oob"
+			},
+			{
+				"id": 68,
+				"city": "Atlanta",
+				"name": "Falcons",
+				"abbreviation": "ATL",
+				"homeVenue": {
+					"id": 62,
+					"name": "Mercedes-Benz Stadium"
+				},
+				"teamColoursHex": ["#a71930", "#000000", "#a5acaf"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "AtlantaFalcons"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/d8m7hzpsbrl6pnqht8op"
+			},
+			{
+				"id": 69,
+				"city": "Carolina",
+				"name": "Panthers",
+				"abbreviation": "CAR",
+				"homeVenue": {
+					"id": 47,
+					"name": "Bank of America Stadium"
+				},
+				"teamColoursHex": ["#0085ca", "#101820", "#bfc0bf"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Panthers"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/ervfzgrqdpnc7lh5gqwq"
+			},
+			{
+				"id": 72,
+				"city": "Denver",
+				"name": "Broncos",
+				"abbreviation": "DEN",
+				"homeVenue": {
+					"id": 52,
+					"name": "Broncos Stadium at Mile High"
+				},
+				"teamColoursHex": ["#fb4f14", "#002244"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Broncos"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/t0p7m5cjdjy18rnzzqbx"
+			},
+			{
+				"id": 74,
+				"city": "Las Vegas",
+				"name": "Raiders",
+				"abbreviation": "LV",
+				"homeVenue": {
+					"id": 161,
+					"name": "Allegiant Stadium"
+				},
+				"teamColoursHex": ["#000000", "#a5acaf"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Raiders"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/y2saimpyifuahldhzetn"
+			},
+			{
+				"id": 76,
+				"city": "Arizona",
+				"name": "Cardinals",
+				"abbreviation": "ARI",
+				"homeVenue": {
+					"id": 43,
+					"name": "State Farm Stadium"
+				},
+				"teamColoursHex": ["#97233f", "#000000", "#ffb612"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "AZCardinals"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/u9fltoslqdsyao8cpm0k"
+			}
+		],
+		"venueReferences": [
+			{
+				"id": 45,
+				"name": "M&T Bank Stadium",
+				"city": "Baltimore, MD",
+				"country": "USA",
+				"geoCoordinates": {
+					"latitude": 39.278056,
+					"longitude": -76.622778
+				},
+				"capacitiesByEventType": [
+					{
+						"eventType": "FOOTBALL",
+						"capacity": 71008
+					}
+				],
+				"playingSurface": "Tifway 419 Bermuda Grass",
+				"baseballDimensions": [],
+				"hasRoof": false,
+				"hasRetractableRoof": false
+			},
+			{
+				"id": 48,
+				"name": "Soldier Field",
+				"city": "Chicago, IL",
+				"country": "USA",
+				"geoCoordinates": {
+					"latitude": 41.8623,
+					"longitude": -87.6167
+				},
+				"capacitiesByEventType": [
+					{
+						"eventType": "FOOTBALL",
+						"capacity": 61500
+					}
+				],
+				"playingSurface": "Kentucky Bluegrass",
+				"baseballDimensions": [],
+				"hasRoof": false,
+				"hasRetractableRoof": false
+			},
+			{
+				"id": 50,
+				"name": "FirstEnergy Stadium",
+				"city": "Cleveland, OH",
+				"country": "USA",
+				"geoCoordinates": {
+					"latitude": 41.506111,
+					"longitude": -81.699444
+				},
+				"capacitiesByEventType": [
+					{
+						"eventType": "FOOTBALL",
+						"capacity": 67895
+					}
+				],
+				"playingSurface": "Kentucky Bluegrass",
+				"baseballDimensions": [],
+				"hasRoof": false,
+				"hasRetractableRoof": false
+			},
+			{
+				"id": 52,
+				"name": "Empower Field at Mile High",
+				"city": "Denver, CO",
+				"country": "USA",
+				"geoCoordinates": {
+					"latitude": 39.743889,
+					"longitude": -105.02
+				},
+				"capacitiesByEventType": [
+					{
+						"eventType": "FOOTBALL",
+						"capacity": 76125
+					},
+					{
+						"eventType": "CONCERT",
+						"capacity": 60000
+					}
+				],
+				"playingSurface": "Kentucky Bluegrass",
+				"baseballDimensions": [],
+				"hasRoof": false,
+				"hasRetractableRoof": false
+			},
+			{
+				"id": 62,
+				"name": "Mercedes-Benz Stadium",
+				"city": "Atlanta, GA",
+				"country": "USA",
+				"geoCoordinates": {
+					"latitude": 33.755,
+					"longitude": -84.401
+				},
+				"capacitiesByEventType": [
+					{
+						"eventType": "SOCCER",
+						"capacity": 71000
+					},
+					{
+						"eventType": "FOOTBALL",
+						"capacity": 75000
+					}
+				],
+				"playingSurface": "FieldTurf Revolution 360",
+				"baseballDimensions": [],
+				"hasRoof": true,
+				"hasRetractableRoof": true
+			},
+			{
+				"id": 63,
+				"name": "MetLife Stadium",
+				"city": "East Rutherford, NJ",
+				"country": "USA",
+				"geoCoordinates": {
+					"latitude": 40.813528,
+					"longitude": -74.074361
+				},
+				"capacitiesByEventType": [
+					{
+						"eventType": "FOOTBALL",
+						"capacity": 82550
+					}
+				],
+				"playingSurface": "Act Global Speed S5",
+				"baseballDimensions": [],
+				"hasRoof": false,
+				"hasRetractableRoof": false
+			},
+			{
+				"id": 73,
+				"name": "FedEx Field",
+				"city": "Landover, MD",
+				"country": "USA",
+				"geoCoordinates": {
+					"latitude": 38.907778,
+					"longitude": -76.864444
+				},
+				"capacitiesByEventType": [
+					{
+						"eventType": "FOOTBALL",
+						"capacity": 82000
+					}
+				],
+				"playingSurface": "Latitude 36 Bermuda Grass",
+				"baseballDimensions": [],
+				"hasRoof": false,
+				"hasRetractableRoof": false
+			}
+		],
+		"gameReferences": [
+			{
+				"id": 113867,
+				"week": 1,
+				"startTime": "2023-09-10T13:30:00.000Z",
+				"endedTime": "2023-09-10T19:08:00.000Z",
+				"awayTeam": {
+					"id": 69,
+					"abbreviation": "CAR"
+				},
+				"homeTeam": {
+					"id": 68,
+					"abbreviation": "ATL"
+				},
+				"venue": {
+					"id": 62,
+					"name": "Mercedes-Benz Stadium"
+				},
+				"venueAllegiance": "HOME",
+				"scheduleStatus": "NORMAL",
+				"originalStartTime": null,
+				"delayedOrPostponedReason": null,
+				"playedStatus": "COMPLETED",
+				"attendance": 89084,
+				"officials": [
+					{
+						"id": 477251,
+						"title": "Replay Official",
+						"firstName": "Durwood",
+						"lastName": "Manley"
+					},
+					{
+						"id": 21531,
+						"title": "Field Judge",
+						"firstName": "Aaron",
+						"lastName": "Santi"
+					},
+					{
+						"id": 22089,
+						"title": "Umpire",
+						"firstName": "Ramon",
+						"lastName": "George"
+					},
+					{
+						"id": 22160,
+						"title": "Line Judge",
+						"firstName": "Kevin",
+						"lastName": "Codey"
+					},
+					{
+						"id": 21709,
+						"title": "Side Judge",
+						"firstName": "Anthony",
+						"lastName": "Jeffries"
+					},
+					{
+						"id": 19722,
+						"title": "Down Judge",
+						"firstName": "Kent",
+						"lastName": "Payne"
+					},
+					{
+						"id": 477250,
+						"title": "Back Judge",
+						"firstName": "Tyree",
+						"lastName": "Walton"
+					},
+					{
+						"id": 21530,
+						"title": "Referee",
+						"firstName": "Bradley",
+						"lastName": "Rogers"
+					}
+				],
+				"broadcasters": ["FOX"],
+				"weather": {
+					"type": "LIGHT_RAIN",
+					"description": "light rain",
+					"wind": {
+						"speed": {
+							"milesPerHour": 6,
+							"kilometersPerHour": 10
+						},
+						"direction": {
+							"degrees": 63,
+							"label": "ENE"
+						}
+					},
+					"temperature": {
+						"fahrenheit": 78,
+						"celsius": 26
+					},
+					"precipitation": {
+						"type": "RAIN",
+						"percent": null,
+						"amount": {
+							"millimeters": 3,
+							"centimeters": null,
+							"inches": null,
+							"feet": null
+						}
+					},
+					"humidityPercent": 66
+				}
+			},
+			{
+				"id": 113868,
+				"week": 1,
+				"startTime": "2023-09-10T05:50:00.000Z",
+				"endedTime": "2023-09-10T19:18:00.000Z",
+				"awayTeam": {
+					"id": 64,
+					"abbreviation": "HOU"
+				},
+				"homeTeam": {
+					"id": 56,
+					"abbreviation": "BAL"
+				},
+				"venue": {
+					"id": 45,
+					"name": "M&T Bank Stadium"
+				},
+				"venueAllegiance": "HOME",
+				"scheduleStatus": "NORMAL",
+				"originalStartTime": null,
+				"delayedOrPostponedReason": null,
+				"playedStatus": "COMPLETED",
+				"attendance": 49796,
+				"officials": [
+					{
+						"id": 37322,
+						"title": "Replay Official",
+						"firstName": "Andrew",
+						"lastName": "Lambert"
+					},
+					{
+						"id": 19225,
+						"title": "Field Judge",
+						"firstName": "Tom",
+						"lastName": "Hill"
+					},
+					{
+						"id": 19875,
+						"title": "Umpire",
+						"firstName": "Tony",
+						"lastName": "Michalek"
+					},
+					{
+						"id": 24078,
+						"title": "Line Judge",
+						"firstName": "Daniel",
+						"lastName": "Gallagher"
+					},
+					{
+						"id": 21532,
+						"title": "Side Judge",
+						"firstName": "Don",
+						"lastName": "Willard"
+					},
+					{
+						"id": 19916,
+						"title": "Down Judge",
+						"firstName": "Patrick",
+						"lastName": "Turner"
+					},
+					{
+						"id": 19724,
+						"title": "Back Judge",
+						"firstName": "Todd",
+						"lastName": "Prukop"
+					},
+					{
+						"id": 24098,
+						"title": "Referee",
+						"firstName": "Tra",
+						"lastName": "Blake"
+					}
+				],
+				"broadcasters": ["CBS"],
+				"weather": {
+					"type": "RAIN",
+					"description": "moderate rain",
+					"wind": {
+						"speed": {
+							"milesPerHour": 6,
+							"kilometersPerHour": 10
+						},
+						"direction": {
+							"degrees": 111,
+							"label": "ESE"
+						}
+					},
+					"temperature": {
+						"fahrenheit": 75,
+						"celsius": 24
+					},
+					"precipitation": {
+						"type": "RAIN",
+						"percent": null,
+						"amount": {
+							"millimeters": 7,
+							"centimeters": null,
+							"inches": null,
+							"feet": null
+						}
+					},
+					"humidityPercent": 78
+				}
+			},
+			{
+				"id": 113872,
+				"week": 1,
+				"startTime": "2023-09-10T07:50:00.000Z",
+				"endedTime": "2023-09-10T22:36:00.000Z",
+				"awayTeam": {
+					"id": 62,
+					"abbreviation": "GB"
+				},
+				"homeTeam": {
+					"id": 60,
+					"abbreviation": "CHI"
+				},
+				"venue": {
+					"id": 48,
+					"name": "Soldier Field"
+				},
+				"venueAllegiance": "HOME",
+				"scheduleStatus": "NORMAL",
+				"originalStartTime": null,
+				"delayedOrPostponedReason": null,
+				"playedStatus": "COMPLETED",
+				"attendance": 81817,
+				"officials": [
+					{
+						"id": 37325,
+						"title": "Replay Official",
+						"firstName": "Kevin",
+						"lastName": "Stine"
+					},
+					{
+						"id": 410138,
+						"title": "Field Judge",
+						"firstName": "Jeff",
+						"lastName": "Shears"
+					},
+					{
+						"id": 22204,
+						"title": "Umpire",
+						"firstName": "Steven",
+						"lastName": "Woods"
+					},
+					{
+						"id": 22205,
+						"title": "Line Judge",
+						"firstName": "Tripp",
+						"lastName": "Sutter"
+					},
+					{
+						"id": 480034,
+						"title": "Side Judge",
+						"firstName": "Frank",
+						"lastName": "Steratore"
+					},
+					{
+						"id": 19222,
+						"title": "Down Judge",
+						"firstName": "Jim",
+						"lastName": "Mello"
+					},
+					{
+						"id": 23787,
+						"title": "Back Judge",
+						"firstName": "Grantis",
+						"lastName": "Bell"
+					},
+					{
+						"id": 19320,
+						"title": "Referee",
+						"firstName": "Craig",
+						"lastName": "Wrolstad"
+					}
+				],
+				"broadcasters": ["FOX"],
+				"weather": {
+					"type": "CLOUDY",
+					"description": "scattered clouds",
+					"wind": {
+						"speed": {
+							"milesPerHour": 12,
+							"kilometersPerHour": 19
+						},
+						"direction": {
+							"degrees": 114,
+							"label": "SE"
+						}
+					},
+					"temperature": {
+						"fahrenheit": 69,
+						"celsius": 21
+					},
+					"precipitation": {
+						"type": null,
+						"percent": null,
+						"amount": {
+							"millimeters": null,
+							"centimeters": null,
+							"inches": null,
+							"feet": null
+						}
+					},
+					"humidityPercent": 53
+				}
+			},
+			{
+				"id": 113873,
+				"week": 1,
+				"startTime": "2023-09-10T14:00:00.000Z",
+				"endedTime": "2023-09-10T22:20:00.000Z",
+				"awayTeam": {
+					"id": 74,
+					"abbreviation": "LV"
+				},
+				"homeTeam": {
+					"id": 72,
+					"abbreviation": "DEN"
+				},
+				"venue": {
+					"id": 52,
+					"name": "Empower Field at Mile High"
+				},
+				"venueAllegiance": "HOME",
+				"scheduleStatus": "NORMAL",
+				"originalStartTime": null,
+				"delayedOrPostponedReason": null,
+				"playedStatus": "COMPLETED",
+				"attendance": 64091,
+				"officials": [
+					{
+						"id": 37330,
+						"title": "Replay Official",
+						"firstName": "Mark",
+						"lastName": "Butterworth"
+					},
+					{
+						"id": 23340,
+						"title": "Field Judge",
+						"firstName": "Joe",
+						"lastName": "Blubaugh"
+					},
+					{
+						"id": 410824,
+						"title": "Umpire",
+						"firstName": "Alex",
+						"lastName": "Moore"
+					},
+					{
+						"id": 19136,
+						"title": "Line Judge",
+						"firstName": "Mark",
+						"lastName": "Perlman"
+					},
+					{
+						"id": 19135,
+						"title": "Side Judge",
+						"firstName": "Jimmy",
+						"lastName": "Buchanan"
+					},
+					{
+						"id": 479892,
+						"title": "Down Judge",
+						"firstName": "Dale",
+						"lastName": "Keller"
+					},
+					{
+						"id": 21939,
+						"title": "Back Judge",
+						"firstName": "Jimmy",
+						"lastName": "Russell"
+					},
+					{
+						"id": 20372,
+						"title": "Referee",
+						"firstName": "Bill",
+						"lastName": "Vinovich"
+					}
+				],
+				"broadcasters": ["CBS"],
+				"weather": {
+					"type": "HEAVY_RAIN",
+					"description": "heavy intensity rain",
+					"wind": {
+						"speed": {
+							"milesPerHour": 11,
+							"kilometersPerHour": 18
+						},
+						"direction": {
+							"degrees": 8,
+							"label": "NNE"
+						}
+					},
+					"temperature": {
+						"fahrenheit": 73,
+						"celsius": 23
+					},
+					"precipitation": {
+						"type": "RAIN",
+						"percent": null,
+						"amount": {
+							"millimeters": 7,
+							"centimeters": null,
+							"inches": null,
+							"feet": null
+						}
+					},
+					"humidityPercent": 41
+				}
+			},
+			{
+				"id": 113877,
+				"week": 1,
+				"startTime": "2023-09-10T04:00:00.000Z",
+				"endedTime": "2023-09-11T02:18:00.000Z",
+				"awayTeam": {
+					"id": 52,
+					"abbreviation": "DAL"
+				},
+				"homeTeam": {
+					"id": 53,
+					"abbreviation": "NYG"
+				},
+				"venue": {
+					"id": 63,
+					"name": "MetLife Stadium"
+				},
+				"venueAllegiance": "HOME",
+				"scheduleStatus": "NORMAL",
+				"originalStartTime": null,
+				"delayedOrPostponedReason": null,
+				"playedStatus": "COMPLETED",
+				"attendance": 66263,
+				"officials": [
+					{
+						"id": 37337,
+						"title": "Replay Official",
+						"firstName": "Roddy",
+						"lastName": "Ames"
+					},
+					{
+						"id": 21811,
+						"title": "Field Judge",
+						"firstName": "Mearl",
+						"lastName": "Robinson"
+					},
+					{
+						"id": 19318,
+						"title": "Umpire",
+						"firstName": "Roy",
+						"lastName": "Ellison"
+					},
+					{
+						"id": 479816,
+						"title": "Line Judge",
+						"firstName": "Brett",
+						"lastName": "Bergman"
+					},
+					{
+						"id": 20373,
+						"title": "Side Judge",
+						"firstName": "Jim",
+						"lastName": "Quirk"
+					},
+					{
+						"id": 22390,
+						"title": "Down Judge",
+						"firstName": "David",
+						"lastName": "Oliver"
+					},
+					{
+						"id": 19967,
+						"title": "Back Judge",
+						"firstName": "Gregory",
+						"lastName": "Steed"
+					},
+					{
+						"id": 19920,
+						"title": "Referee",
+						"firstName": "Adrian",
+						"lastName": "Hill"
+					}
+				],
+				"broadcasters": ["NBC"],
+				"weather": {
+					"type": "LIGHT_RAIN",
+					"description": "light rain",
+					"wind": {
+						"speed": {
+							"milesPerHour": 5,
+							"kilometersPerHour": 8
+						},
+						"direction": {
+							"degrees": 210,
+							"label": "SW"
+						}
+					},
+					"temperature": {
+						"fahrenheit": 74,
+						"celsius": 23
+					},
+					"precipitation": {
+						"type": "RAIN",
+						"percent": null,
+						"amount": {
+							"millimeters": 1,
+							"centimeters": null,
+							"inches": null,
+							"feet": null
+						}
+					},
+					"humidityPercent": 82
+				}
+			},
+			{
+				"id": 113879,
+				"week": 1,
+				"startTime": "2023-09-10T11:40:00.000Z",
+				"endedTime": "2023-09-10T19:10:00.000Z",
+				"awayTeam": {
+					"id": 76,
+					"abbreviation": "ARI"
+				},
+				"homeTeam": {
+					"id": 55,
+					"abbreviation": "WAS"
+				},
+				"venue": {
+					"id": 73,
+					"name": "FedEx Field"
+				},
+				"venueAllegiance": "HOME",
+				"scheduleStatus": "NORMAL",
+				"originalStartTime": null,
+				"delayedOrPostponedReason": null,
+				"playedStatus": "COMPLETED",
+				"attendance": 53048,
+				"officials": [
+					{
+						"id": 410690,
+						"title": "Replay Official",
+						"firstName": "Denise",
+						"lastName": "Crudup"
+					},
+					{
+						"id": 20375,
+						"title": "Field Judge",
+						"firstName": "John",
+						"lastName": "Jenkins"
+					},
+					{
+						"id": 23797,
+						"title": "Umpire",
+						"firstName": "Tab",
+						"lastName": "Slaughter"
+					},
+					{
+						"id": 408482,
+						"title": "Line Judge",
+						"firstName": "Robin",
+						"lastName": "DeLorenzo"
+					},
+					{
+						"id": 20091,
+						"title": "Side Judge",
+						"firstName": "Dale",
+						"lastName": "Shaw"
+					},
+					{
+						"id": 19088,
+						"title": "Down Judge",
+						"firstName": "Derick",
+						"lastName": "Bowers"
+					},
+					{
+						"id": 19279,
+						"title": "Back Judge",
+						"firstName": "Greg",
+						"lastName": "Meyer"
+					},
+					{
+						"id": 22158,
+						"title": "Referee",
+						"firstName": "Alan",
+						"lastName": "Eck"
+					}
+				],
+				"broadcasters": ["FOX"],
+				"weather": {
+					"type": "RAIN",
+					"description": "moderate rain",
+					"wind": {
+						"speed": {
+							"milesPerHour": 6,
+							"kilometersPerHour": 10
+						},
+						"direction": {
+							"degrees": 207,
+							"label": "SW"
+						}
+					},
+					"temperature": {
+						"fahrenheit": 78,
+						"celsius": 26
+					},
+					"precipitation": {
+						"type": "RAIN",
+						"percent": null,
+						"amount": {
+							"millimeters": 10,
+							"centimeters": null,
+							"inches": null,
+							"feet": null
+						}
+					},
+					"humidityPercent": 66
+				}
+			},
+			{
+				"id": 113880,
+				"week": 1,
+				"startTime": "2023-09-10T14:05:00.000Z",
+				"endedTime": "2023-09-10T19:05:00.000Z",
+				"awayTeam": {
+					"id": 57,
+					"abbreviation": "CIN"
+				},
+				"homeTeam": {
+					"id": 58,
+					"abbreviation": "CLE"
+				},
+				"venue": {
+					"id": 50,
+					"name": "FirstEnergy Stadium"
+				},
+				"venueAllegiance": "HOME",
+				"scheduleStatus": "NORMAL",
+				"originalStartTime": null,
+				"delayedOrPostponedReason": null,
+				"playedStatus": "COMPLETED",
+				"attendance": 60447,
+				"officials": [
+					{
+						"id": 37334,
+						"title": "Replay Official",
+						"firstName": "Chad",
+						"lastName": "Adams"
+					},
+					{
+						"id": 19880,
+						"title": "Field Judge",
+						"firstName": "Terry",
+						"lastName": "Brown"
+					},
+					{
+						"id": 480040,
+						"title": "Umpire",
+						"firstName": "Scott",
+						"lastName": "Campbell"
+					},
+					{
+						"id": 19093,
+						"title": "Line Judge",
+						"firstName": "Julian",
+						"lastName": "Mapp"
+					},
+					{
+						"id": 410754,
+						"title": "Side Judge",
+						"firstName": "Lo",
+						"lastName": "van Pham"
+					},
+					{
+						"id": 20089,
+						"title": "Down Judge",
+						"firstName": "Dana",
+						"lastName": "McKenzie"
+					},
+					{
+						"id": 21850,
+						"title": "Back Judge",
+						"firstName": "Jonah",
+						"lastName": "Monroe"
+					},
+					{
+						"id": 20426,
+						"title": "Referee",
+						"firstName": "Clete",
+						"lastName": "Blakeman"
+					}
+				],
+				"broadcasters": ["CBS"],
+				"weather": null
+			},
+			{
+				"id": 113881,
+				"week": 1,
+				"startTime": "2023-09-11T06:00:00.000Z",
+				"endedTime": "2023-09-12T02:15:00.000Z",
+				"awayTeam": {
+					"id": 48,
+					"abbreviation": "BUF"
+				},
+				"homeTeam": {
+					"id": 51,
+					"abbreviation": "NYJ"
+				},
+				"venue": {
+					"id": 63,
+					"name": "MetLife Stadium"
+				},
+				"venueAllegiance": "HOME",
+				"scheduleStatus": "NORMAL",
+				"originalStartTime": null,
+				"delayedOrPostponedReason": null,
+				"playedStatus": "COMPLETED",
+				"attendance": 95013,
+				"officials": [
+					{
+						"id": 37329,
+						"title": "Replay Official",
+						"firstName": "Kevin",
+						"lastName": "Brown"
+					},
+					{
+						"id": 21751,
+						"title": "Field Judge",
+						"firstName": "Nathan",
+						"lastName": "Jones"
+					},
+					{
+						"id": 410083,
+						"title": "Umpire",
+						"firstName": "Brandon",
+						"lastName": "Cruse"
+					},
+					{
+						"id": 23874,
+						"title": "Line Judge",
+						"firstName": "Thomas",
+						"lastName": "Eaton"
+					},
+					{
+						"id": 19280,
+						"title": "Side Judge",
+						"firstName": "Eugene",
+						"lastName": "Hall"
+					},
+					{
+						"id": 21477,
+						"title": "Down Judge",
+						"firstName": "Mike",
+						"lastName": "Carr"
+					},
+					{
+						"id": 477346,
+						"title": "Back Judge",
+						"firstName": "Martin",
+						"lastName": "Hankins"
+					},
+					{
+						"id": 19723,
+						"title": "Referee",
+						"firstName": "Carl",
+						"lastName": "Cheffers"
+					}
+				],
+				"broadcasters": ["ESPN", "ABC"],
+				"weather": {
+					"type": "RAIN",
+					"description": "moderate rain",
+					"wind": {
+						"speed": {
+							"milesPerHour": 5,
+							"kilometersPerHour": 8
+						},
+						"direction": {
+							"degrees": 14,
+							"label": "NNE"
+						}
+					},
+					"temperature": {
+						"fahrenheit": 78,
+						"celsius": 26
+					},
+					"precipitation": {
+						"type": "RAIN",
+						"percent": null,
+						"amount": {
+							"millimeters": 16,
+							"centimeters": null,
+							"inches": null,
+							"feet": null
+						}
+					},
+					"humidityPercent": 66
+				}
+			}
+		],
+		"teamStatReferences": [
+			{
+				"category": "Passing",
+				"fullName": "passAttempts",
+				"description": "Pass Attempts",
+				"abbreviation": "Att",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passCompletions",
+				"description": "Pass Completions",
+				"abbreviation": "Comp",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passPct",
+				"description": "Pass Percentage",
+				"abbreviation": "Pct",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passGrossYards",
+				"description": "Pass Gross Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passYardsPerAtt",
+				"description": "Pass Yards/Attempt",
+				"abbreviation": "Yards/Att",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passTD",
+				"description": "Pass Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passTDPct",
+				"description": "Pass Touchdown Percentage",
+				"abbreviation": "TD%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passInt",
+				"description": "Pass Interceptions",
+				"abbreviation": "Int",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passIntPct",
+				"description": "Pass Interception Percentage",
+				"abbreviation": "Int%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passLng",
+				"description": "Longest Pass",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "pass20Plus",
+				"description": "Pass 20+ Yards",
+				"abbreviation": "20+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "pass40Plus",
+				"description": "Pass 40+ Yards",
+				"abbreviation": "40+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passSacks",
+				"description": "Pass Sacks",
+				"abbreviation": "Sacks",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passSackY",
+				"description": "Pass Sack Yards Lost",
+				"abbreviation": "SackY",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "qBRating",
+				"description": "Quarterback Rating",
+				"abbreviation": "QBRating",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rushAttempts",
+				"description": "Rush Attempts",
+				"abbreviation": "Att",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rushYards",
+				"description": "Rush Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rushAverage",
+				"description": "Rush Average",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rushTD",
+				"description": "Rush Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rushLng",
+				"description": "Longest Rush",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rush1stDowns",
+				"description": "Rush 1st Downs",
+				"abbreviation": "1stDowns",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rush1stDownsPct",
+				"description": "Rush 1st Downs %",
+				"abbreviation": "1stDowns%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rush20Plus",
+				"description": "Rush 20+ Yards",
+				"abbreviation": "20+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rush40Plus",
+				"description": "Rush 40+ Yards",
+				"abbreviation": "40+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rushFumbles",
+				"description": "Rush Fumbles",
+				"abbreviation": "Fum",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "receptions",
+				"description": "Receptions",
+				"abbreviation": "Rec",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "recYards",
+				"description": "Reception Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "recAverage",
+				"description": "Reception Average",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "recTD",
+				"description": "Reception Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "recLng",
+				"description": "Longest Reception",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "rec1stDowns",
+				"description": "Reception 1st Downs",
+				"abbreviation": "1stDowns",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "rec20Plus",
+				"description": "Reception 20+ Yards",
+				"abbreviation": "20+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "rec40Plus",
+				"description": "Reception 40+ Yards",
+				"abbreviation": "40+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "recFumbles",
+				"description": "Reception Fumbles",
+				"abbreviation": "Fumbles",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Tackles",
+				"fullName": "tackleSolo",
+				"description": "Solo Tackles",
+				"abbreviation": "Solo",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Tackles",
+				"fullName": "tackleTotal",
+				"description": "Total Tackles",
+				"abbreviation": "Total",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Tackles",
+				"fullName": "tackleAst",
+				"description": "Assisted Tackles",
+				"abbreviation": "Ast",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Tackles",
+				"fullName": "sacks",
+				"description": "Sacks",
+				"abbreviation": "Sacks",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Tackles",
+				"fullName": "sackYds",
+				"description": "Sack Yards",
+				"abbreviation": "SackYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "interceptions",
+				"description": "Interceptions",
+				"abbreviation": "Int",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "intTD",
+				"description": "Interception Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "intYds",
+				"description": "Interception Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "intAverage",
+				"description": "Interception Average",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "intLng",
+				"description": "Longest Interception",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "passesDefended",
+				"description": "Passes Defended",
+				"abbreviation": "PD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "stuffs",
+				"description": "Stuffs",
+				"abbreviation": "Stuffs",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "stuffYds",
+				"description": "Stuff Yards",
+				"abbreviation": "StuffYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "kB",
+				"description": "Blocked Kicks",
+				"abbreviation": "KB",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumbles",
+				"description": "Fumbles",
+				"abbreviation": "Fum",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumLost",
+				"description": "Fumbles Lost",
+				"abbreviation": "Lost",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumForced",
+				"description": "Forced Fumbles",
+				"abbreviation": "Forced",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumOwnRec",
+				"description": "Own Fumbles Recovered",
+				"abbreviation": "OwnRec",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumOppRec",
+				"description": "Recovered By Opposition",
+				"abbreviation": "OppRec",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumRecYds",
+				"description": "Fumbles Recovered Yards",
+				"abbreviation": "RecYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumTotalRec",
+				"description": "Total Fumbles Recovered",
+				"abbreviation": "TotalRec",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumTD",
+				"description": "Fumble Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krRet",
+				"description": "Kick Returns",
+				"abbreviation": "Ret",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krYds",
+				"description": "Kick Return Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krAvg",
+				"description": "Kick Returns Average",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krLng",
+				"description": "Longest Kick Return",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krTD",
+				"description": "Kick Return Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "kr20Plus",
+				"description": "Kick Returns 20+ Yards",
+				"abbreviation": "20+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "kr40Plus",
+				"description": "Kick Returns 40+ Yards",
+				"abbreviation": "40+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krFC",
+				"description": "Kick Return Fair Catches",
+				"abbreviation": "FC",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krFum",
+				"description": "Kick Return Fumbles",
+				"abbreviation": "Fum",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prRet",
+				"description": "Punt Returns",
+				"abbreviation": "Ret",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prYds",
+				"description": "Punt Return Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prAvg",
+				"description": "Punt Returns Average",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prLng",
+				"description": "Longest Punt Return",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prTD",
+				"description": "Punt Return Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "pr20Plus",
+				"description": "Punt Returns 20+ Yards",
+				"abbreviation": "20+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "pr40Plus",
+				"description": "Punt Returns 40+ Yards",
+				"abbreviation": "40+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prFC",
+				"description": "Punt Return Fair Catches",
+				"abbreviation": "FC",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prFum",
+				"description": "Punt Return Fumbles",
+				"abbreviation": "Fum",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgBlk",
+				"description": "Field Goals Blocked",
+				"abbreviation": "Blk",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgMade",
+				"description": "Field Goals Made",
+				"abbreviation": "Made",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgAtt",
+				"description": "Field Goal Attempts",
+				"abbreviation": "Att",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgPct",
+				"description": "Field Goal %",
+				"abbreviation": "FG%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgMade1_19",
+				"description": "Field Goals Made 1-19 Yards",
+				"abbreviation": "Made1-19",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgAtt1_19",
+				"description": "Field Goal Attempts 1-19 Yards",
+				"abbreviation": "Att1-19",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fg1_19Pct",
+				"description": "Field Goal % 1-19 Yards",
+				"abbreviation": "1-19%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgMade20_29",
+				"description": "Field Goals Made 20-29 Yards",
+				"abbreviation": "Made20-29",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgAtt20_29",
+				"description": "Field Goal Att 20-29 Yards",
+				"abbreviation": "Att20-29",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fg20_29Pct",
+				"description": "Field Goal % 20-29 Yards",
+				"abbreviation": "20-29%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgMade30_39",
+				"description": "Field Goals Made 30-39 Yards",
+				"abbreviation": "Made30-39",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgAtt30_39",
+				"description": "Field Goal Att 30-39 Yards",
+				"abbreviation": "Att30-39",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fg30_39Pct",
+				"description": "Field Goal % 30-39 Yards",
+				"abbreviation": "30-39%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgMade40_49",
+				"description": "Field Goals Made 40-49 Yards",
+				"abbreviation": "Made40-49",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgAtt40_49",
+				"description": "Field Goal Att 40-49 Yards",
+				"abbreviation": "Att40-49",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fg40_49Pct",
+				"description": "Field Goal % 40-49 Yards",
+				"abbreviation": "40-49%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgMade50Plus",
+				"description": "Field Goals Made 50+ Yards",
+				"abbreviation": "Made50+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgAtt50Plus",
+				"description": "Field Goal Attempts 50+ Yards",
+				"abbreviation": "Att50+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fg50PlusPct",
+				"description": "Field Goal % 50+ Yards",
+				"abbreviation": "50+%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgLng",
+				"description": "Longest Field Goal",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "PAT",
+				"fullName": "xpBlk",
+				"description": "Extra Points Blocked",
+				"abbreviation": "Blk",
+				"type": "INTEGER"
+			},
+			{
+				"category": "PAT",
+				"fullName": "xpMade",
+				"description": "Extra Points Made",
+				"abbreviation": "Made",
+				"type": "INTEGER"
+			},
+			{
+				"category": "PAT",
+				"fullName": "xpAtt",
+				"description": "Extra Point Attempts",
+				"abbreviation": "Att",
+				"type": "INTEGER"
+			},
+			{
+				"category": "PAT",
+				"fullName": "xpPct",
+				"description": "Extra Points %",
+				"abbreviation": "Xp%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "PAT",
+				"fullName": "fgAndXpPts",
+				"description": "FG + XP Points",
+				"abbreviation": "FgXpPts",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "kickoffs",
+				"description": "Kickoffs",
+				"abbreviation": "KO",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koYds",
+				"description": "Kickoff Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koOOB",
+				"description": "Kickoffs Out-Of-Bounds",
+				"abbreviation": "OOB",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koAvg",
+				"description": "Kickoffs Average",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koTB",
+				"description": "Kickoff Touchbacks",
+				"abbreviation": "TB",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koRet",
+				"description": "Kickoff Returns",
+				"abbreviation": "Ret",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koRetYds",
+				"description": "Kickoff Returns Yards",
+				"abbreviation": "RetYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koRetAvgYds",
+				"description": "Kickoff Returns Average Yards",
+				"abbreviation": "RetAvgYds",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koTD",
+				"description": "Kickoff Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koOS",
+				"description": "Kickoffs Onside",
+				"abbreviation": "OS",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koOSR",
+				"description": "Kickoffs Onside Recovered",
+				"abbreviation": "OSR",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "punts",
+				"description": "Punts",
+				"abbreviation": "Punts",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntYds",
+				"description": "Punt Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntNetYds",
+				"description": "Punt Net Yards",
+				"abbreviation": "NetYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntLng",
+				"description": "Longest Punt",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntAvg",
+				"description": "Average Punt Yards",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntNetAvg",
+				"description": "Average Net Punt Yards",
+				"abbreviation": "NetAvg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntBlk",
+				"description": "Blocked Punts",
+				"abbreviation": "Blk",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntOOB",
+				"description": "Punts Out-of-Bounds",
+				"abbreviation": "OOB",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntDown",
+				"description": "Punts Downed",
+				"abbreviation": "Down",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntIn20",
+				"description": "Punts Inside 20 Yard Line",
+				"abbreviation": "In20",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntIn20Pct",
+				"description": "Punts Inside 20 Yard Line %",
+				"abbreviation": "In20%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntTB",
+				"description": "Punt Touchbacks",
+				"abbreviation": "TB",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntTBPct",
+				"description": "Punt Touchback %",
+				"abbreviation": "TB%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntFC",
+				"description": "Punt Fair Catches",
+				"abbreviation": "FC",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntRet",
+				"description": "Punt Returns",
+				"abbreviation": "Ret",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntRetYds",
+				"description": "Punt Return Yards",
+				"abbreviation": "RetYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntRetAvg",
+				"description": "Punt Average Return Yards",
+				"abbreviation": "RetAvg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "firstDownsTotal",
+				"description": "Total 1st Downs",
+				"abbreviation": "1stDownsTotal",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "firstDownsPass",
+				"description": "Passing 1st Downs",
+				"abbreviation": "1stDownsPass",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "firstDownsRush",
+				"description": "Rushing 1st Downs",
+				"abbreviation": "1stDownsRush",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "firstDownsPenalty",
+				"description": "Penalty 1stDowns",
+				"abbreviation": "1stDownsPen",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "thirdDowns",
+				"description": "3rd Downs Made",
+				"abbreviation": "3rdDowns",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "thirdDownsAtt",
+				"description": "3rd Downs Attempted",
+				"abbreviation": "3rdDownsAtt",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "thirdDownsPct",
+				"description": "3rd Downs %",
+				"abbreviation": "3rdDownsPct",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "fourthDowns",
+				"description": "4th Downs Made",
+				"abbreviation": "4thDowns",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "fourthDownsAtt",
+				"description": "4th Downs Attempted",
+				"abbreviation": "4thDownsAtt",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "fourthDownsPct",
+				"description": "4th Downs %",
+				"abbreviation": "4thDownsPct",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "penalties",
+				"description": "Penalties",
+				"abbreviation": "Penalties",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "penaltyYds",
+				"description": "Penalty Yards",
+				"abbreviation": "PenaltyYards",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "offensePlays",
+				"description": "Offense Plays",
+				"abbreviation": "OffensePlays",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "offenseYds",
+				"description": "Offense Total Yards",
+				"abbreviation": "OffenseYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "offenseAvgYds",
+				"description": "Offense Average Yards",
+				"abbreviation": "OffenseAvgYds",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "totalTD",
+				"description": "Total Touchdowns",
+				"abbreviation": "TotalTD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "wins",
+				"description": "Wins",
+				"abbreviation": "W",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "losses",
+				"description": "Losses",
+				"abbreviation": "L",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "ties",
+				"description": "Ties",
+				"abbreviation": "T",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "oTWins",
+				"description": "Overtime Wins",
+				"abbreviation": "OTW",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "oTLosses",
+				"description": "Overtime Losses",
+				"abbreviation": "OTL",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "winPct",
+				"description": "Win %",
+				"abbreviation": "Win %",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "pointsFor",
+				"description": "Points For",
+				"abbreviation": "PF",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "pointsAgainst",
+				"description": "Points Against",
+				"abbreviation": "PA",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "pointDifferential",
+				"description": "Point Differential",
+				"abbreviation": "PtDiff",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "safeties",
+				"description": "Safeties",
+				"abbreviation": "Sfty",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passNetYards",
+				"description": "Pass Net Yards",
+				"abbreviation": "NetYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passAvg",
+				"description": "Pass Avg Yards",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "2PT",
+				"fullName": "twoPtAtt",
+				"description": "2PT Conversion Attempts",
+				"abbreviation": "2PTAtt",
+				"type": "INTEGER"
+			},
+			{
+				"category": "2PT",
+				"fullName": "twoPtMade",
+				"description": "2PT Conversions Made",
+				"abbreviation": "2PTMade",
+				"type": "INTEGER"
+			},
+			{
+				"category": "2PT",
+				"fullName": "twoPtPassAtt",
+				"description": "2PT Conversion Pass Attempts",
+				"abbreviation": "2PTPassAtt",
+				"type": "INTEGER"
+			},
+			{
+				"category": "2PT",
+				"fullName": "twoPtPassMade",
+				"description": "2PT Conversion Passes Made",
+				"abbreviation": "2PTPassMade",
+				"type": "INTEGER"
+			},
+			{
+				"category": "2PT",
+				"fullName": "twoPtRushAtt",
+				"description": "2PT Conversion Rush Attempts",
+				"abbreviation": "2PTRushAtt",
+				"type": "INTEGER"
+			},
+			{
+				"category": "2PT",
+				"fullName": "twoPtRushMade",
+				"description": "2PT Conversion Rushes Made",
+				"abbreviation": "2PTRushMade",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Tackles",
+				"fullName": "tacklesForLoss",
+				"description": "Tackles For a Loss",
+				"abbreviation": "TFL",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Snap Counts",
+				"fullName": "offenseSnaps",
+				"description": "Offense Snaps",
+				"abbreviation": "OffSnaps",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Snap Counts",
+				"fullName": "defenseSnaps",
+				"description": "Defense Snaps",
+				"abbreviation": "DefSnaps",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Snap Counts",
+				"fullName": "specialTeamSnaps",
+				"description": "Special Team Snaps",
+				"abbreviation": "SpecTeamSnaps",
+				"type": "INTEGER"
+			}
+		]
+	}
+}

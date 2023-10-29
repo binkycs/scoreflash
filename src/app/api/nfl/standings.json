@@ -1,0 +1,8875 @@
+{
+	"lastUpdatedOn": "2023-10-29T15:26:41.038Z",
+	"teams": [
+		{
+			"team": {
+				"id": 76,
+				"city": "Arizona",
+				"name": "Cardinals",
+				"abbreviation": "ARI",
+				"homeVenue": {
+					"id": 43,
+					"name": "State Farm Stadium"
+				},
+				"teamColoursHex": ["#97233f", "#000000", "#ffb612"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "AZCardinals"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/u9fltoslqdsyao8cpm0k"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 230,
+					"passCompletions": 143,
+					"passPct": 62.2,
+					"passGrossYards": 1365,
+					"passNetYards": 1266,
+					"passAvg": 5.9,
+					"passYardsPerAtt": 5.2,
+					"passTD": 6,
+					"passTDPct": 2.6,
+					"passInt": 3,
+					"passIntPct": 1.3,
+					"passLng": 237,
+					"pass20Plus": 13,
+					"pass40Plus": 2,
+					"passSacks": 15,
+					"passSackY": 99,
+					"qbRating": 81.9
+				},
+				"rushing": {
+					"rushAttempts": 186,
+					"rushYards": 973,
+					"rushAverage": 5.2,
+					"rushTD": 6,
+					"rushLng": 199,
+					"rush1stDowns": 45,
+					"rush1stDownsPct": 24.2,
+					"rush20Plus": 10,
+					"rush40Plus": 3,
+					"rushFumbles": 4
+				},
+				"receiving": {
+					"receptions": 143,
+					"recYards": 1372,
+					"recAverage": 9.6,
+					"recTD": 6,
+					"recLng": 237,
+					"rec1stDowns": 71,
+					"rec20Plus": 13,
+					"rec40Plus": 2,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 315,
+					"tackleTotal": 483,
+					"tackleAst": 168,
+					"sacks": 20,
+					"sackYds": 144,
+					"tacklesForLoss": 25
+				},
+				"interceptions": {
+					"interceptions": 5,
+					"intTD": 0,
+					"intYds": 38,
+					"intAverage": 7.6,
+					"intLng": 38,
+					"passesDefended": 26,
+					"stuffs": 126,
+					"stuffYds": 194,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 7,
+					"fumLost": 4,
+					"fumForced": 5,
+					"fumOwnRec": 3,
+					"fumOppRec": 5,
+					"fumRecYds": -14,
+					"fumTotalRec": 8,
+					"fumTD": 1
+				},
+				"kickoffReturns": {
+					"krRet": 5,
+					"krYds": 88,
+					"krAvg": 17.6,
+					"krLng": 75,
+					"krTD": 0,
+					"kr20Plus": 1,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 12,
+					"prYds": 89,
+					"prAvg": 7.4,
+					"prLng": 95,
+					"prTD": 0,
+					"pr20Plus": 1,
+					"pr40Plus": 0,
+					"prFC": 5,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 13,
+					"fgAtt": 15,
+					"fgPct": 86.7,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 2,
+					"fgAtt20_29": 2,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 5,
+					"fgAtt30_39": 6,
+					"fg30_39Pct": 83.3,
+					"fgMade40_49": 3,
+					"fgAtt40_49": 3,
+					"fg40_49Pct": 100.0,
+					"fgMade50Plus": 3,
+					"fgAtt50Plus": 4,
+					"fg50PlusPct": 75.0,
+					"fgLng": 297
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 8,
+					"xpAtt": 9,
+					"xpPct": 88.9,
+					"fgAndXpPts": 47
+				},
+				"kickoffs": {
+					"kickoffs": 32,
+					"koYds": 2086,
+					"koOOB": 0,
+					"koAvg": 65.2,
+					"koTB": 28,
+					"koRet": 3,
+					"koRetYds": 63,
+					"koRetAvgYds": 21.0,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 25,
+					"puntYds": 1184,
+					"puntNetYds": 922,
+					"puntLng": 379,
+					"puntAvg": 47.4,
+					"puntNetAvg": 36.9,
+					"puntBlk": 0,
+					"puntOOB": 1,
+					"puntDown": 2,
+					"puntIn20": 3,
+					"puntIn20Pct": 12.0,
+					"puntTB": 1,
+					"puntTBPct": 4.0,
+					"puntFC": 3,
+					"puntRet": 18,
+					"puntRetYds": 262,
+					"puntRetAvg": 14.6
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 130,
+					"firstDownsPass": 70,
+					"firstDownsRush": 46,
+					"firstDownsPenalty": 14,
+					"thirdDowns": 36,
+					"thirdDownsAtt": 91,
+					"thirdDownsPct": 39.6,
+					"fourthDowns": 3,
+					"fourthDownsAtt": 13,
+					"fourthDownsPct": 23.1,
+					"penalties": 48,
+					"penaltyYds": 415,
+					"offensePlays": 431,
+					"offenseYds": 2239,
+					"offenseAvgYds": 5.2,
+					"totalTD": 13
+				},
+				"standings": {
+					"wins": 1,
+					"losses": 6,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.143,
+					"pointsFor": 127,
+					"pointsAgainst": 182,
+					"pointDifferential": -55
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 4,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 3,
+					"twoPtRushMade": 1
+				},
+				"snapCounts": {
+					"offenseSnaps": 392,
+					"defenseSnaps": 414,
+					"specialTeamSnaps": 157
+				}
+			},
+			"overallRank": {
+				"rank": 34,
+				"gamesBack": 5.0
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 15,
+				"gamesBack": 5.0
+			},
+			"divisionRank": {
+				"divisionName": "NFC West",
+				"rank": 4,
+				"gamesBack": 4.0
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 15
+			}
+		},
+		{
+			"team": {
+				"id": 68,
+				"city": "Atlanta",
+				"name": "Falcons",
+				"abbreviation": "ATL",
+				"homeVenue": {
+					"id": 62,
+					"name": "Mercedes-Benz Stadium"
+				},
+				"teamColoursHex": ["#a71930", "#000000", "#a5acaf"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "AtlantaFalcons"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/d8m7hzpsbrl6pnqht8op"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 229,
+					"passCompletions": 150,
+					"passPct": 65.5,
+					"passGrossYards": 1652,
+					"passNetYards": 1517,
+					"passAvg": 7.2,
+					"passYardsPerAtt": 6.1,
+					"passTD": 6,
+					"passTDPct": 2.6,
+					"passInt": 6,
+					"passIntPct": 2.6,
+					"passLng": 250,
+					"pass20Plus": 20,
+					"pass40Plus": 3,
+					"passSacks": 20,
+					"passSackY": 135,
+					"qbRating": 84.5
+				},
+				"rushing": {
+					"rushAttempts": 216,
+					"rushYards": 870,
+					"rushAverage": 4.0,
+					"rushTD": 5,
+					"rushLng": 135,
+					"rush1stDowns": 55,
+					"rush1stDownsPct": 25.5,
+					"rush20Plus": 4,
+					"rush40Plus": 0,
+					"rushFumbles": 4
+				},
+				"receiving": {
+					"receptions": 150,
+					"recYards": 1656,
+					"recAverage": 11.0,
+					"recTD": 6,
+					"recLng": 250,
+					"rec1stDowns": 81,
+					"rec20Plus": 20,
+					"rec40Plus": 3,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 248,
+					"tackleTotal": 438,
+					"tackleAst": 190,
+					"sacks": 13,
+					"sackYds": 91,
+					"tacklesForLoss": 20
+				},
+				"interceptions": {
+					"interceptions": 4,
+					"intTD": 0,
+					"intYds": 7,
+					"intAverage": 1.8,
+					"intLng": 7,
+					"passesDefended": 39,
+					"stuffs": 147,
+					"stuffYds": 145,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 9,
+					"fumLost": 7,
+					"fumForced": 5,
+					"fumOwnRec": 2,
+					"fumOppRec": 2,
+					"fumRecYds": -3,
+					"fumTotalRec": 4,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 6,
+					"krYds": 106,
+					"krAvg": 17.7,
+					"krLng": 81,
+					"krTD": 0,
+					"kr20Plus": 2,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 12,
+					"prYds": 65,
+					"prAvg": 5.4,
+					"prLng": 63,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 10,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 13,
+					"fgAtt": 14,
+					"fgPct": 92.9,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 4,
+					"fgAtt20_29": 4,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 4,
+					"fgAtt30_39": 4,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 4,
+					"fgAtt40_49": 5,
+					"fg40_49Pct": 80.0,
+					"fgMade50Plus": 1,
+					"fgAtt50Plus": 1,
+					"fg50PlusPct": 100.0,
+					"fgLng": 271
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 8,
+					"xpAtt": 9,
+					"xpPct": 88.9,
+					"fgAndXpPts": 47
+				},
+				"kickoffs": {
+					"kickoffs": 29,
+					"koYds": 1885,
+					"koOOB": 0,
+					"koAvg": 65.0,
+					"koTB": 23,
+					"koRet": 5,
+					"koRetYds": 118,
+					"koRetAvgYds": 23.6,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 30,
+					"puntYds": 1422,
+					"puntNetYds": 1283,
+					"puntLng": 369,
+					"puntAvg": 47.4,
+					"puntNetAvg": 42.8,
+					"puntBlk": 0,
+					"puntOOB": 6,
+					"puntDown": 2,
+					"puntIn20": 12,
+					"puntIn20Pct": 40.0,
+					"puntTB": 1,
+					"puntTBPct": 3.3,
+					"puntFC": 10,
+					"puntRet": 11,
+					"puntRetYds": 139,
+					"puntRetAvg": 12.6
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 144,
+					"firstDownsPass": 81,
+					"firstDownsRush": 54,
+					"firstDownsPenalty": 9,
+					"thirdDowns": 38,
+					"thirdDownsAtt": 94,
+					"thirdDownsPct": 40.4,
+					"fourthDowns": 4,
+					"fourthDownsAtt": 9,
+					"fourthDownsPct": 44.4,
+					"penalties": 39,
+					"penaltyYds": 373,
+					"offensePlays": 465,
+					"offenseYds": 2387,
+					"offenseAvgYds": 5.1,
+					"totalTD": 11
+				},
+				"standings": {
+					"wins": 4,
+					"losses": 3,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.571,
+					"pointsFor": 115,
+					"pointsAgainst": 133,
+					"pointDifferential": -18
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 2,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 1,
+					"twoPtRushAtt": 1,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 419,
+					"defenseSnaps": 372,
+					"specialTeamSnaps": 155
+				}
+			},
+			"overallRank": {
+				"rank": 15,
+				"gamesBack": 2.0
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 6,
+				"gamesBack": 2.0
+			},
+			"divisionRank": {
+				"divisionName": "NFC South",
+				"rank": 1,
+				"gamesBack": 0.0
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 6
+			}
+		},
+		{
+			"team": {
+				"id": 56,
+				"city": "Baltimore",
+				"name": "Ravens",
+				"abbreviation": "BAL",
+				"homeVenue": {
+					"id": 45,
+					"name": "M&T Bank Stadium"
+				},
+				"teamColoursHex": ["#241773", "#000000", "#9e7c0c", "#c60c30"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Ravens"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/ucsdijmddsqcj1i9tddd"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 201,
+					"passCompletions": 142,
+					"passPct": 70.6,
+					"passGrossYards": 1610,
+					"passNetYards": 1523,
+					"passAvg": 8.0,
+					"passYardsPerAtt": 7.0,
+					"passTD": 8,
+					"passTDPct": 4.0,
+					"passInt": 3,
+					"passIntPct": 1.5,
+					"passLng": 310,
+					"pass20Plus": 26,
+					"pass40Plus": 4,
+					"passSacks": 16,
+					"passSackY": 87,
+					"qbRating": 101.4
+				},
+				"rushing": {
+					"rushAttempts": 230,
+					"rushYards": 1015,
+					"rushAverage": 4.4,
+					"rushTD": 11,
+					"rushLng": 137,
+					"rush1stDowns": 60,
+					"rush1stDownsPct": 26.1,
+					"rush20Plus": 5,
+					"rush40Plus": 0,
+					"rushFumbles": 4
+				},
+				"receiving": {
+					"receptions": 142,
+					"recYards": 1610,
+					"recAverage": 11.3,
+					"recTD": 8,
+					"recLng": 308,
+					"rec1stDowns": 70,
+					"rec20Plus": 26,
+					"rec40Plus": 4,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 295,
+					"tackleTotal": 448,
+					"tackleAst": 153,
+					"sacks": 29,
+					"sackYds": 250,
+					"tacklesForLoss": 16
+				},
+				"interceptions": {
+					"interceptions": 6,
+					"intTD": 0,
+					"intYds": 148,
+					"intAverage": 24.7,
+					"intLng": 112,
+					"passesDefended": 49,
+					"stuffs": 176,
+					"stuffYds": 297,
+					"kB": 0,
+					"safeties": 1
+				},
+				"fumbles": {
+					"fumbles": 13,
+					"fumLost": 7,
+					"fumForced": 5,
+					"fumOwnRec": 4,
+					"fumOppRec": 3,
+					"fumRecYds": 2,
+					"fumTotalRec": 7,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 6,
+					"krYds": 123,
+					"krAvg": 20.5,
+					"krLng": 105,
+					"krTD": 0,
+					"kr20Plus": 4,
+					"kr40Plus": 0,
+					"krFC": 1,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 13,
+					"prYds": 198,
+					"prAvg": 15.2,
+					"prLng": 139,
+					"prTD": 0,
+					"pr20Plus": 3,
+					"pr40Plus": 1,
+					"prFC": 12,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 12,
+					"fgAtt": 14,
+					"fgPct": 85.7,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 5,
+					"fgAtt20_29": 5,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 3,
+					"fgAtt30_39": 3,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 3,
+					"fgAtt40_49": 3,
+					"fg40_49Pct": 100.0,
+					"fgMade50Plus": 1,
+					"fgAtt50Plus": 3,
+					"fg50PlusPct": 33.3,
+					"fgLng": 229
+				},
+				"extraPointAttempt": {
+					"xpBlk": 1,
+					"xpMade": 17,
+					"xpAtt": 18,
+					"xpPct": 94.4,
+					"fgAndXpPts": 53
+				},
+				"kickoffs": {
+					"kickoffs": 38,
+					"koYds": 2424,
+					"koOOB": 0,
+					"koAvg": 63.8,
+					"koTB": 33,
+					"koRet": 4,
+					"koRetYds": 84,
+					"koRetAvgYds": 21.0,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 31,
+					"puntYds": 1437,
+					"puntNetYds": 1201,
+					"puntLng": 419,
+					"puntAvg": 46.4,
+					"puntNetAvg": 38.7,
+					"puntBlk": 1,
+					"puntOOB": 4,
+					"puntDown": 3,
+					"puntIn20": 13,
+					"puntIn20Pct": 41.9,
+					"puntTB": 1,
+					"puntTBPct": 3.2,
+					"puntFC": 9,
+					"puntRet": 13,
+					"puntRetYds": 236,
+					"puntRetAvg": 18.2
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 142,
+					"firstDownsPass": 70,
+					"firstDownsRush": 60,
+					"firstDownsPenalty": 12,
+					"thirdDowns": 44,
+					"thirdDownsAtt": 95,
+					"thirdDownsPct": 46.3,
+					"fourthDowns": 2,
+					"fourthDownsAtt": 5,
+					"fourthDownsPct": 40.0,
+					"penalties": 43,
+					"penaltyYds": 412,
+					"offensePlays": 447,
+					"offenseYds": 2538,
+					"offenseAvgYds": 5.7,
+					"totalTD": 19
+				},
+				"standings": {
+					"wins": 5,
+					"losses": 2,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.714,
+					"pointsFor": 171,
+					"pointsAgainst": 97,
+					"pointDifferential": 74
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 1,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 1,
+					"twoPtRushMade": 1
+				},
+				"snapCounts": {
+					"offenseSnaps": 470,
+					"defenseSnaps": 486,
+					"specialTeamSnaps": 191
+				}
+			},
+			"overallRank": {
+				"rank": 3,
+				"gamesBack": 1.0
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 2,
+				"gamesBack": 1.0
+			},
+			"divisionRank": {
+				"divisionName": "AFC North",
+				"rank": 1,
+				"gamesBack": 0.0
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 2
+			}
+		},
+		{
+			"team": {
+				"id": 48,
+				"city": "Buffalo",
+				"name": "Bills",
+				"abbreviation": "BUF",
+				"homeVenue": {
+					"id": 46,
+					"name": "New Era Field"
+				},
+				"teamColoursHex": ["#00338d", "#c60c30"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "BuffaloBills"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/giphcy6ie9mxbnldntsf"
+			},
+			"stats": {
+				"gamesPlayed": 8,
+				"passing": {
+					"passAttempts": 286,
+					"passCompletions": 205,
+					"passPct": 71.7,
+					"passGrossYards": 2165,
+					"passNetYards": 2110,
+					"passAvg": 7.6,
+					"passYardsPerAtt": 7.1,
+					"passTD": 17,
+					"passTDPct": 5.9,
+					"passInt": 8,
+					"passIntPct": 2.8,
+					"passLng": 290,
+					"pass20Plus": 21,
+					"pass40Plus": 5,
+					"passSacks": 12,
+					"passSackY": 55,
+					"qbRating": 101.5
+				},
+				"rushing": {
+					"rushAttempts": 212,
+					"rushYards": 905,
+					"rushAverage": 4.3,
+					"rushTD": 9,
+					"rushLng": 172,
+					"rush1stDowns": 62,
+					"rush1stDownsPct": 29.2,
+					"rush20Plus": 5,
+					"rush40Plus": 0,
+					"rushFumbles": 3
+				},
+				"receiving": {
+					"receptions": 205,
+					"recYards": 2169,
+					"recAverage": 10.6,
+					"recTD": 17,
+					"recLng": 290,
+					"rec1stDowns": 107,
+					"rec20Plus": 21,
+					"rec40Plus": 5,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 339,
+					"tackleTotal": 501,
+					"tackleAst": 162,
+					"sacks": 28,
+					"sackYds": 169,
+					"tacklesForLoss": 19
+				},
+				"interceptions": {
+					"interceptions": 8,
+					"intTD": 1,
+					"intYds": 74,
+					"intAverage": 9.2,
+					"intLng": 71,
+					"passesDefended": 43,
+					"stuffs": 160,
+					"stuffYds": 225,
+					"kB": 1,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 6,
+					"fumLost": 4,
+					"fumForced": 9,
+					"fumOwnRec": 1,
+					"fumOppRec": 6,
+					"fumRecYds": 5,
+					"fumTotalRec": 7,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 7,
+					"krYds": 151,
+					"krAvg": 21.6,
+					"krLng": 98,
+					"krTD": 0,
+					"kr20Plus": 4,
+					"kr40Plus": 1,
+					"krFC": 2,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 11,
+					"prYds": 99,
+					"prAvg": 9.0,
+					"prLng": 74,
+					"prTD": 0,
+					"pr20Plus": 3,
+					"pr40Plus": 0,
+					"prFC": 12,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 11,
+					"fgAtt": 14,
+					"fgPct": 78.6,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 1,
+					"fgAtt20_29": 1,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 6,
+					"fgAtt30_39": 6,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 1,
+					"fgAtt40_49": 2,
+					"fg40_49Pct": 50.0,
+					"fgMade50Plus": 3,
+					"fgAtt50Plus": 5,
+					"fg50PlusPct": 60.0,
+					"fgLng": 259
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 25,
+					"xpAtt": 25,
+					"xpPct": 100.0,
+					"fgAndXpPts": 58
+				},
+				"kickoffs": {
+					"kickoffs": 46,
+					"koYds": 2890,
+					"koOOB": 1,
+					"koAvg": 62.8,
+					"koTB": 30,
+					"koRet": 14,
+					"koRetYds": 289,
+					"koRetAvgYds": 20.6,
+					"koTD": 0,
+					"koOS": 1,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 21,
+					"puntYds": 978,
+					"puntNetYds": 865,
+					"puntLng": 438,
+					"puntAvg": 46.6,
+					"puntNetAvg": 41.2,
+					"puntBlk": 0,
+					"puntOOB": 3,
+					"puntDown": 2,
+					"puntIn20": 9,
+					"puntIn20Pct": 42.9,
+					"puntTB": 2,
+					"puntTBPct": 9.5,
+					"puntFC": 5,
+					"puntRet": 8,
+					"puntRetYds": 113,
+					"puntRetAvg": 14.1
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 181,
+					"firstDownsPass": 107,
+					"firstDownsRush": 61,
+					"firstDownsPenalty": 13,
+					"thirdDowns": 49,
+					"thirdDownsAtt": 100,
+					"thirdDownsPct": 49.0,
+					"fourthDowns": 5,
+					"fourthDownsAtt": 9,
+					"fourthDownsPct": 55.6,
+					"penalties": 55,
+					"penaltyYds": 427,
+					"offensePlays": 510,
+					"offenseYds": 3015,
+					"offenseAvgYds": 5.9,
+					"totalTD": 27
+				},
+				"standings": {
+					"wins": 5,
+					"losses": 3,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 1,
+					"winPct": 0.625,
+					"pointsFor": 222,
+					"pointsAgainst": 136,
+					"pointDifferential": 86
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 2,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 2,
+					"twoPtPassMade": 1,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 394,
+					"defenseSnaps": 378,
+					"specialTeamSnaps": 144
+				}
+			},
+			"overallRank": {
+				"rank": 9,
+				"gamesBack": 1.5
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 5,
+				"gamesBack": 1.5
+			},
+			"divisionRank": {
+				"divisionName": "AFC East",
+				"rank": 2,
+				"gamesBack": 0.5
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 5
+			}
+		},
+		{
+			"team": {
+				"id": 69,
+				"city": "Carolina",
+				"name": "Panthers",
+				"abbreviation": "CAR",
+				"homeVenue": {
+					"id": 47,
+					"name": "Bank of America Stadium"
+				},
+				"teamColoursHex": ["#0085ca", "#101820", "#bfc0bf"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Panthers"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/ervfzgrqdpnc7lh5gqwq"
+			},
+			"stats": {
+				"gamesPlayed": 6,
+				"passing": {
+					"passAttempts": 241,
+					"passCompletions": 150,
+					"passPct": 62.2,
+					"passGrossYards": 1335,
+					"passNetYards": 1180,
+					"passAvg": 5.5,
+					"passYardsPerAtt": 4.5,
+					"passTD": 8,
+					"passTDPct": 3.3,
+					"passInt": 4,
+					"passIntPct": 1.7,
+					"passLng": 163,
+					"pass20Plus": 12,
+					"pass40Plus": 1,
+					"passSacks": 19,
+					"passSackY": 155,
+					"qbRating": 81.2
+				},
+				"rushing": {
+					"rushAttempts": 144,
+					"rushYards": 588,
+					"rushAverage": 4.1,
+					"rushTD": 2,
+					"rushLng": 99,
+					"rush1stDowns": 36,
+					"rush1stDownsPct": 25.0,
+					"rush20Plus": 2,
+					"rush40Plus": 0,
+					"rushFumbles": 3
+				},
+				"receiving": {
+					"receptions": 150,
+					"recYards": 1343,
+					"recAverage": 9.0,
+					"recTD": 8,
+					"recLng": 163,
+					"rec1stDowns": 73,
+					"rec20Plus": 12,
+					"rec40Plus": 1,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 227,
+					"tackleTotal": 376,
+					"tackleAst": 149,
+					"sacks": 14,
+					"sackYds": 97,
+					"tacklesForLoss": 11
+				},
+				"interceptions": {
+					"interceptions": 5,
+					"intTD": 2,
+					"intYds": 202,
+					"intAverage": 40.4,
+					"intLng": 171,
+					"passesDefended": 25,
+					"stuffs": 123,
+					"stuffYds": 157,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 6,
+					"fumLost": 4,
+					"fumForced": 1,
+					"fumOwnRec": 2,
+					"fumOppRec": 0,
+					"fumRecYds": 0,
+					"fumTotalRec": 2,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 6,
+					"krYds": 167,
+					"krAvg": 27.8,
+					"krLng": 122,
+					"krTD": 0,
+					"kr20Plus": 6,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 13,
+					"prYds": 85,
+					"prAvg": 6.5,
+					"prLng": 54,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 4,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 9,
+					"fgAtt": 11,
+					"fgPct": 81.8,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 1,
+					"fgAtt20_29": 1,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 2,
+					"fgAtt30_39": 2,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 3,
+					"fgAtt40_49": 4,
+					"fg40_49Pct": 75.0,
+					"fgMade50Plus": 3,
+					"fgAtt50Plus": 4,
+					"fg50PlusPct": 75.0,
+					"fgLng": 233
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 11,
+					"xpAtt": 11,
+					"xpPct": 100.0,
+					"fgAndXpPts": 38
+				},
+				"kickoffs": {
+					"kickoffs": 26,
+					"koYds": 1461,
+					"koOOB": 0,
+					"koAvg": 56.2,
+					"koTB": 15,
+					"koRet": 11,
+					"koRetYds": 179,
+					"koRetAvgYds": 16.3,
+					"koTD": 0,
+					"koOS": 4,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 27,
+					"puntYds": 1283,
+					"puntNetYds": 1181,
+					"puntLng": 340,
+					"puntAvg": 47.5,
+					"puntNetAvg": 43.7,
+					"puntBlk": 0,
+					"puntOOB": 1,
+					"puntDown": 5,
+					"puntIn20": 10,
+					"puntIn20Pct": 37.0,
+					"puntTB": 1,
+					"puntTBPct": 3.7,
+					"puntFC": 10,
+					"puntRet": 10,
+					"puntRetYds": 102,
+					"puntRetAvg": 10.2
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 124,
+					"firstDownsPass": 73,
+					"firstDownsRush": 36,
+					"firstDownsPenalty": 15,
+					"thirdDowns": 34,
+					"thirdDownsAtt": 86,
+					"thirdDownsPct": 39.5,
+					"fourthDowns": 4,
+					"fourthDownsAtt": 12,
+					"fourthDownsPct": 33.3,
+					"penalties": 44,
+					"penaltyYds": 319,
+					"offensePlays": 404,
+					"offenseYds": 1768,
+					"offenseAvgYds": 4.4,
+					"totalTD": 12
+				},
+				"standings": {
+					"wins": 0,
+					"losses": 6,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.0,
+					"pointsFor": 112,
+					"pointsAgainst": 186,
+					"pointDifferential": -74
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 1,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 1,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 428,
+					"defenseSnaps": 379,
+					"specialTeamSnaps": 167
+				}
+			},
+			"overallRank": {
+				"rank": 35,
+				"gamesBack": 5.5
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 16,
+				"gamesBack": 5.5
+			},
+			"divisionRank": {
+				"divisionName": "NFC South",
+				"rank": 4,
+				"gamesBack": 3.5
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 16
+			}
+		},
+		{
+			"team": {
+				"id": 60,
+				"city": "Chicago",
+				"name": "Bears",
+				"abbreviation": "CHI",
+				"homeVenue": {
+					"id": 48,
+					"name": "Soldier Field"
+				},
+				"teamColoursHex": ["#0b162a", "#c83803"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "ChicagoBears"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/ra0poq2ivwyahbaq86d2"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 205,
+					"passCompletions": 131,
+					"passPct": 63.9,
+					"passGrossYards": 1446,
+					"passNetYards": 1281,
+					"passAvg": 7.1,
+					"passYardsPerAtt": 5.5,
+					"passTD": 12,
+					"passTDPct": 5.9,
+					"passInt": 7,
+					"passIntPct": 3.4,
+					"passLng": 228,
+					"pass20Plus": 22,
+					"pass40Plus": 2,
+					"passSacks": 27,
+					"passSackY": 165,
+					"qbRating": 90.0
+				},
+				"rushing": {
+					"rushAttempts": 208,
+					"rushYards": 989,
+					"rushAverage": 4.8,
+					"rushTD": 5,
+					"rushLng": 148,
+					"rush1stDowns": 58,
+					"rush1stDownsPct": 27.9,
+					"rush20Plus": 5,
+					"rush40Plus": 0,
+					"rushFumbles": 2
+				},
+				"receiving": {
+					"receptions": 131,
+					"recYards": 1460,
+					"recAverage": 11.1,
+					"recTD": 12,
+					"recLng": 228,
+					"rec1stDowns": 71,
+					"rec20Plus": 22,
+					"rec40Plus": 2,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 277,
+					"tackleTotal": 461,
+					"tackleAst": 184,
+					"sacks": 10,
+					"sackYds": 68,
+					"tacklesForLoss": 11
+				},
+				"interceptions": {
+					"interceptions": 6,
+					"intTD": 1,
+					"intYds": 81,
+					"intAverage": 13.5,
+					"intLng": 81,
+					"passesDefended": 30,
+					"stuffs": 134,
+					"stuffYds": 138,
+					"kB": 2,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 9,
+					"fumLost": 4,
+					"fumForced": 6,
+					"fumOwnRec": 4,
+					"fumOppRec": 2,
+					"fumRecYds": -8,
+					"fumTotalRec": 6,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 10,
+					"krYds": 223,
+					"krAvg": 22.3,
+					"krLng": 113,
+					"krTD": 0,
+					"kr20Plus": 7,
+					"kr40Plus": 1,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 6,
+					"prYds": 53,
+					"prAvg": 8.8,
+					"prLng": 39,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 8,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 11,
+					"fgAtt": 11,
+					"fgPct": 100.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 4,
+					"fgAtt20_29": 4,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 2,
+					"fgAtt30_39": 2,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 2,
+					"fgAtt40_49": 2,
+					"fg40_49Pct": 100.0,
+					"fgMade50Plus": 3,
+					"fgAtt50Plus": 3,
+					"fg50PlusPct": 100.0,
+					"fgLng": 270
+				},
+				"extraPointAttempt": {
+					"xpBlk": 1,
+					"xpMade": 15,
+					"xpAtt": 16,
+					"xpPct": 93.8,
+					"fgAndXpPts": 48
+				},
+				"kickoffs": {
+					"kickoffs": 36,
+					"koYds": 2297,
+					"koOOB": 0,
+					"koAvg": 63.8,
+					"koTB": 30,
+					"koRet": 5,
+					"koRetYds": 106,
+					"koRetAvgYds": 21.2,
+					"koTD": 0,
+					"koOS": 1,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 26,
+					"puntYds": 1190,
+					"puntNetYds": 998,
+					"puntLng": 367,
+					"puntAvg": 45.8,
+					"puntNetAvg": 38.4,
+					"puntBlk": 0,
+					"puntOOB": 3,
+					"puntDown": 5,
+					"puntIn20": 8,
+					"puntIn20Pct": 30.8,
+					"puntTB": 1,
+					"puntTBPct": 3.8,
+					"puntFC": 3,
+					"puntRet": 14,
+					"puntRetYds": 192,
+					"puntRetAvg": 13.7
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 132,
+					"firstDownsPass": 70,
+					"firstDownsRush": 57,
+					"firstDownsPenalty": 5,
+					"thirdDowns": 40,
+					"thirdDownsAtt": 92,
+					"thirdDownsPct": 43.5,
+					"fourthDowns": 4,
+					"fourthDownsAtt": 10,
+					"fourthDownsPct": 40.0,
+					"penalties": 45,
+					"penaltyYds": 386,
+					"offensePlays": 440,
+					"offenseYds": 2270,
+					"offenseAvgYds": 5.2,
+					"totalTD": 18
+				},
+				"standings": {
+					"wins": 2,
+					"losses": 5,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.286,
+					"pointsFor": 158,
+					"pointsAgainst": 188,
+					"pointDifferential": -30
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 2,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 1,
+					"twoPtRushMade": 1
+				},
+				"snapCounts": {
+					"offenseSnaps": 380,
+					"defenseSnaps": 383,
+					"specialTeamSnaps": 162
+				}
+			},
+			"overallRank": {
+				"rank": 32,
+				"gamesBack": 4.0
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 14,
+				"gamesBack": 4.0
+			},
+			"divisionRank": {
+				"divisionName": "NFC North",
+				"rank": 4,
+				"gamesBack": 3.0
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 14
+			}
+		},
+		{
+			"team": {
+				"id": 57,
+				"city": "Cincinnati",
+				"name": "Bengals",
+				"abbreviation": "CIN",
+				"homeVenue": {
+					"id": 49,
+					"name": "Paul Brown Stadium"
+				},
+				"teamColoursHex": ["#fb4f14", "#000000"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Bengals"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/okxpteoliyayufypqalq"
+			},
+			"stats": {
+				"gamesPlayed": 6,
+				"passing": {
+					"passAttempts": 233,
+					"passCompletions": 147,
+					"passPct": 63.1,
+					"passGrossYards": 1230,
+					"passNetYards": 1119,
+					"passAvg": 5.3,
+					"passYardsPerAtt": 4.5,
+					"passTD": 7,
+					"passTDPct": 3.0,
+					"passInt": 4,
+					"passIntPct": 1.7,
+					"passLng": 198,
+					"pass20Plus": 7,
+					"pass40Plus": 2,
+					"passSacks": 14,
+					"passSackY": 111,
+					"qbRating": 79.5
+				},
+				"rushing": {
+					"rushAttempts": 121,
+					"rushYards": 419,
+					"rushAverage": 3.5,
+					"rushTD": 1,
+					"rushLng": 78,
+					"rush1stDowns": 26,
+					"rush1stDownsPct": 21.5,
+					"rush20Plus": 1,
+					"rush40Plus": 0,
+					"rushFumbles": 0
+				},
+				"receiving": {
+					"receptions": 147,
+					"recYards": 1231,
+					"recAverage": 8.4,
+					"recTD": 7,
+					"recLng": 198,
+					"rec1stDowns": 65,
+					"rec20Plus": 7,
+					"rec40Plus": 2,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 265,
+					"tackleTotal": 392,
+					"tackleAst": 127,
+					"sacks": 19,
+					"sackYds": 123,
+					"tacklesForLoss": 10
+				},
+				"interceptions": {
+					"interceptions": 8,
+					"intTD": 1,
+					"intYds": 55,
+					"intAverage": 6.9,
+					"intLng": 55,
+					"passesDefended": 36,
+					"stuffs": 124,
+					"stuffYds": 163,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 3,
+					"fumLost": 1,
+					"fumForced": 3,
+					"fumOwnRec": 1,
+					"fumOppRec": 2,
+					"fumRecYds": 0,
+					"fumTotalRec": 3,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 4,
+					"krYds": 97,
+					"krAvg": 24.2,
+					"krLng": 79,
+					"krTD": 0,
+					"kr20Plus": 3,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 14,
+					"prYds": 221,
+					"prAvg": 15.8,
+					"prLng": 146,
+					"prTD": 1,
+					"pr20Plus": 3,
+					"pr40Plus": 1,
+					"prFC": 3,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 10,
+					"fgAtt": 12,
+					"fgPct": 83.3,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 2,
+					"fgAtt20_29": 2,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 0,
+					"fgAtt30_39": 0,
+					"fg30_39Pct": 0.0,
+					"fgMade40_49": 5,
+					"fgAtt40_49": 5,
+					"fg40_49Pct": 100.0,
+					"fgMade50Plus": 3,
+					"fgAtt50Plus": 5,
+					"fg50PlusPct": 60.0,
+					"fgLng": 236
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 10,
+					"xpAtt": 10,
+					"xpPct": 100.0,
+					"fgAndXpPts": 40
+				},
+				"kickoffs": {
+					"kickoffs": 25,
+					"koYds": 1601,
+					"koOOB": 0,
+					"koAvg": 64.0,
+					"koTB": 21,
+					"koRet": 3,
+					"koRetYds": 53,
+					"koRetAvgYds": 17.7,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 32,
+					"puntYds": 1415,
+					"puntNetYds": 1302,
+					"puntLng": 317,
+					"puntAvg": 44.2,
+					"puntNetAvg": 40.7,
+					"puntBlk": 0,
+					"puntOOB": 4,
+					"puntDown": 1,
+					"puntIn20": 6,
+					"puntIn20Pct": 18.8,
+					"puntTB": 2,
+					"puntTBPct": 6.2,
+					"puntFC": 12,
+					"puntRet": 13,
+					"puntRetYds": 113,
+					"puntRetAvg": 8.7
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 100,
+					"firstDownsPass": 65,
+					"firstDownsRush": 26,
+					"firstDownsPenalty": 9,
+					"thirdDowns": 27,
+					"thirdDownsAtt": 81,
+					"thirdDownsPct": 33.3,
+					"fourthDowns": 2,
+					"fourthDownsAtt": 7,
+					"fourthDownsPct": 28.6,
+					"penalties": 30,
+					"penaltyYds": 222,
+					"offensePlays": 368,
+					"offenseYds": 1538,
+					"offenseAvgYds": 4.2,
+					"totalTD": 10
+				},
+				"standings": {
+					"wins": 3,
+					"losses": 3,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.5,
+					"pointsFor": 100,
+					"pointsAgainst": 127,
+					"pointDifferential": -27
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 382,
+					"defenseSnaps": 401,
+					"specialTeamSnaps": 158
+				}
+			},
+			"overallRank": {
+				"rank": 19,
+				"gamesBack": 2.5
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 10,
+				"gamesBack": 2.5
+			},
+			"divisionRank": {
+				"divisionName": "AFC North",
+				"rank": 4,
+				"gamesBack": 1.5
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 10
+			}
+		},
+		{
+			"team": {
+				"id": 58,
+				"city": "Cleveland",
+				"name": "Browns",
+				"abbreviation": "CLE",
+				"homeVenue": {
+					"id": 50,
+					"name": "FirstEnergy Stadium"
+				},
+				"teamColoursHex": ["#311d00", "#ff3c00", "#ffffff"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Browns"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/grxy59mqoflnksp2kocc"
+			},
+			"stats": {
+				"gamesPlayed": 6,
+				"passing": {
+					"passAttempts": 209,
+					"passCompletions": 118,
+					"passPct": 56.5,
+					"passGrossYards": 1174,
+					"passNetYards": 1030,
+					"passAvg": 5.6,
+					"passYardsPerAtt": 4.5,
+					"passTD": 4,
+					"passTDPct": 1.9,
+					"passInt": 9,
+					"passIntPct": 4.3,
+					"passLng": 209,
+					"pass20Plus": 11,
+					"pass40Plus": 2,
+					"passSacks": 20,
+					"passSackY": 144,
+					"qbRating": 61.0
+				},
+				"rushing": {
+					"rushAttempts": 198,
+					"rushYards": 885,
+					"rushAverage": 4.5,
+					"rushTD": 7,
+					"rushLng": 229,
+					"rush1stDowns": 49,
+					"rush1stDownsPct": 24.7,
+					"rush20Plus": 3,
+					"rush40Plus": 3,
+					"rushFumbles": 4
+				},
+				"receiving": {
+					"receptions": 118,
+					"recYards": 1178,
+					"recAverage": 10.0,
+					"recTD": 4,
+					"recLng": 209,
+					"rec1stDowns": 54,
+					"rec20Plus": 11,
+					"rec40Plus": 2,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 224,
+					"tackleTotal": 334,
+					"tackleAst": 110,
+					"sacks": 19,
+					"sackYds": 134,
+					"tacklesForLoss": 27
+				},
+				"interceptions": {
+					"interceptions": 3,
+					"intTD": 0,
+					"intYds": 34,
+					"intAverage": 11.3,
+					"intLng": 34,
+					"passesDefended": 32,
+					"stuffs": 147,
+					"stuffYds": 225,
+					"kB": 1,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 12,
+					"fumLost": 5,
+					"fumForced": 6,
+					"fumOwnRec": 6,
+					"fumOppRec": 5,
+					"fumRecYds": 5,
+					"fumTotalRec": 11,
+					"fumTD": 1
+				},
+				"kickoffReturns": {
+					"krRet": 5,
+					"krYds": 114,
+					"krAvg": 22.8,
+					"krLng": 73,
+					"krTD": 0,
+					"kr20Plus": 4,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 16,
+					"prYds": 116,
+					"prAvg": 7.2,
+					"prLng": 34,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 9,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 16,
+					"fgAtt": 18,
+					"fgPct": 88.9,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 1,
+					"fgAtt20_29": 1,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 1,
+					"fgAtt30_39": 1,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 7,
+					"fgAtt40_49": 9,
+					"fg40_49Pct": 77.8,
+					"fgMade50Plus": 7,
+					"fgAtt50Plus": 7,
+					"fg50PlusPct": 100.0,
+					"fgLng": 311
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 8,
+					"xpAtt": 8,
+					"xpPct": 100.0,
+					"fgAndXpPts": 56
+				},
+				"kickoffs": {
+					"kickoffs": 33,
+					"koYds": 2105,
+					"koOOB": 0,
+					"koAvg": 63.8,
+					"koTB": 21,
+					"koRet": 10,
+					"koRetYds": 193,
+					"koRetAvgYds": 19.3,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 32,
+					"puntYds": 1571,
+					"puntNetYds": 1422,
+					"puntLng": 378,
+					"puntAvg": 49.1,
+					"puntNetAvg": 44.4,
+					"puntBlk": 0,
+					"puntOOB": 7,
+					"puntDown": 2,
+					"puntIn20": 12,
+					"puntIn20Pct": 37.5,
+					"puntTB": 2,
+					"puntTBPct": 6.2,
+					"puntFC": 7,
+					"puntRet": 14,
+					"puntRetYds": 149,
+					"puntRetAvg": 10.6
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 113,
+					"firstDownsPass": 54,
+					"firstDownsRush": 47,
+					"firstDownsPenalty": 12,
+					"thirdDowns": 26,
+					"thirdDownsAtt": 89,
+					"thirdDownsPct": 29.2,
+					"fourthDowns": 5,
+					"fourthDownsAtt": 7,
+					"fourthDownsPct": 71.4,
+					"penalties": 42,
+					"penaltyYds": 351,
+					"offensePlays": 427,
+					"offenseYds": 1915,
+					"offenseAvgYds": 4.5,
+					"totalTD": 12
+				},
+				"standings": {
+					"wins": 4,
+					"losses": 2,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.667,
+					"pointsFor": 134,
+					"pointsAgainst": 115,
+					"pointDifferential": 19
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 4,
+					"twoPtMade": 3,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 4,
+					"twoPtRushMade": 3
+				},
+				"snapCounts": {
+					"offenseSnaps": 452,
+					"defenseSnaps": 348,
+					"specialTeamSnaps": 185
+				}
+			},
+			"overallRank": {
+				"rank": 11,
+				"gamesBack": 1.5
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 7,
+				"gamesBack": 1.5
+			},
+			"divisionRank": {
+				"divisionName": "AFC North",
+				"rank": 3,
+				"gamesBack": 0.5
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 7
+			}
+		},
+		{
+			"team": {
+				"id": 52,
+				"city": "Dallas",
+				"name": "Cowboys",
+				"abbreviation": "DAL",
+				"homeVenue": {
+					"id": 51,
+					"name": "AT&T Stadium"
+				},
+				"teamColoursHex": [
+					"#003594",
+					"#041e42",
+					"#869397",
+					"#7f9695",
+					"#ffffff"
+				],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "dallascowboys"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/ieid8hoygzdlmzo0tnf6"
+			},
+			"stats": {
+				"gamesPlayed": 6,
+				"passing": {
+					"passAttempts": 195,
+					"passCompletions": 136,
+					"passPct": 69.7,
+					"passGrossYards": 1361,
+					"passNetYards": 1261,
+					"passAvg": 7.0,
+					"passYardsPerAtt": 6.0,
+					"passTD": 6,
+					"passTDPct": 3.1,
+					"passInt": 4,
+					"passIntPct": 2.1,
+					"passLng": 232,
+					"pass20Plus": 18,
+					"pass40Plus": 2,
+					"passSacks": 15,
+					"passSackY": 100,
+					"qbRating": 91.0
+				},
+				"rushing": {
+					"rushAttempts": 182,
+					"rushYards": 718,
+					"rushAverage": 3.9,
+					"rushTD": 5,
+					"rushLng": 154,
+					"rush1stDowns": 41,
+					"rush1stDownsPct": 22.5,
+					"rush20Plus": 3,
+					"rush40Plus": 1,
+					"rushFumbles": 2
+				},
+				"receiving": {
+					"receptions": 136,
+					"recYards": 1371,
+					"recAverage": 10.1,
+					"recTD": 6,
+					"recLng": 230,
+					"rec1stDowns": 67,
+					"rec20Plus": 18,
+					"rec40Plus": 2,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 231,
+					"tackleTotal": 353,
+					"tackleAst": 122,
+					"sacks": 16,
+					"sackYds": 96,
+					"tacklesForLoss": 17
+				},
+				"interceptions": {
+					"interceptions": 8,
+					"intTD": 2,
+					"intYds": 126,
+					"intAverage": 15.8,
+					"intLng": 108,
+					"passesDefended": 36,
+					"stuffs": 130,
+					"stuffYds": 151,
+					"kB": 1,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 6,
+					"fumLost": 2,
+					"fumForced": 6,
+					"fumOwnRec": 3,
+					"fumOppRec": 4,
+					"fumRecYds": 8,
+					"fumTotalRec": 7,
+					"fumTD": 1
+				},
+				"kickoffReturns": {
+					"krRet": 6,
+					"krYds": 89,
+					"krAvg": 14.8,
+					"krLng": 43,
+					"krTD": 0,
+					"kr20Plus": 2,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 8,
+					"prYds": 55,
+					"prAvg": 6.9,
+					"prLng": 98,
+					"prTD": 0,
+					"pr20Plus": 1,
+					"pr40Plus": 1,
+					"prFC": 11,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 16,
+					"fgAtt": 16,
+					"fgPct": 100.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 7,
+					"fgAtt20_29": 7,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 6,
+					"fgAtt30_39": 6,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 1,
+					"fgAtt40_49": 1,
+					"fg40_49Pct": 100.0,
+					"fgMade50Plus": 2,
+					"fgAtt50Plus": 2,
+					"fg50PlusPct": 100.0,
+					"fgLng": 264
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 12,
+					"xpAtt": 13,
+					"xpPct": 92.3,
+					"fgAndXpPts": 60
+				},
+				"kickoffs": {
+					"kickoffs": 36,
+					"koYds": 2344,
+					"koOOB": 0,
+					"koAvg": 65.1,
+					"koTB": 35,
+					"koRet": 1,
+					"koRetYds": 28,
+					"koRetAvgYds": 28.0,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 19,
+					"puntYds": 978,
+					"puntNetYds": 842,
+					"puntLng": 330,
+					"puntAvg": 51.5,
+					"puntNetAvg": 44.3,
+					"puntBlk": 0,
+					"puntOOB": 0,
+					"puntDown": 2,
+					"puntIn20": 6,
+					"puntIn20Pct": 31.6,
+					"puntTB": 1,
+					"puntTBPct": 5.3,
+					"puntFC": 5,
+					"puntRet": 11,
+					"puntRetYds": 136,
+					"puntRetAvg": 12.4
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 120,
+					"firstDownsPass": 67,
+					"firstDownsRush": 41,
+					"firstDownsPenalty": 12,
+					"thirdDowns": 41,
+					"thirdDownsAtt": 86,
+					"thirdDownsPct": 47.7,
+					"fourthDowns": 2,
+					"fourthDownsAtt": 7,
+					"fourthDownsPct": 28.6,
+					"penalties": 46,
+					"penaltyYds": 357,
+					"offensePlays": 392,
+					"offenseYds": 1979,
+					"offenseAvgYds": 5.0,
+					"totalTD": 14
+				},
+				"standings": {
+					"wins": 4,
+					"losses": 2,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.667,
+					"pointsFor": 154,
+					"pointsAgainst": 100,
+					"pointDifferential": 54
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 2,
+					"twoPtMade": 2,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 1,
+					"twoPtRushAtt": 1,
+					"twoPtRushMade": 1
+				},
+				"snapCounts": {
+					"offenseSnaps": 409,
+					"defenseSnaps": 377,
+					"specialTeamSnaps": 155
+				}
+			},
+			"overallRank": {
+				"rank": 12,
+				"gamesBack": 1.5
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 5,
+				"gamesBack": 1.5
+			},
+			"divisionRank": {
+				"divisionName": "NFC East",
+				"rank": 2,
+				"gamesBack": 1.5
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 5
+			}
+		},
+		{
+			"team": {
+				"id": 72,
+				"city": "Denver",
+				"name": "Broncos",
+				"abbreviation": "DEN",
+				"homeVenue": {
+					"id": 52,
+					"name": "Broncos Stadium at Mile High"
+				},
+				"teamColoursHex": ["#fb4f14", "#002244"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Broncos"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/t0p7m5cjdjy18rnzzqbx"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 214,
+					"passCompletions": 142,
+					"passPct": 66.4,
+					"passGrossYards": 1499,
+					"passNetYards": 1396,
+					"passAvg": 7.0,
+					"passYardsPerAtt": 6.0,
+					"passTD": 13,
+					"passTDPct": 6.1,
+					"passInt": 4,
+					"passIntPct": 1.9,
+					"passLng": 258,
+					"pass20Plus": 20,
+					"pass40Plus": 5,
+					"passSacks": 20,
+					"passSackY": 103,
+					"qbRating": 99.0
+				},
+				"rushing": {
+					"rushAttempts": 154,
+					"rushYards": 781,
+					"rushAverage": 5.1,
+					"rushTD": 1,
+					"rushLng": 153,
+					"rush1stDowns": 42,
+					"rush1stDownsPct": 27.3,
+					"rush20Plus": 7,
+					"rush40Plus": 0,
+					"rushFumbles": 2
+				},
+				"receiving": {
+					"receptions": 142,
+					"recYards": 1503,
+					"recAverage": 10.6,
+					"recTD": 13,
+					"recLng": 258,
+					"rec1stDowns": 64,
+					"rec20Plus": 20,
+					"rec40Plus": 5,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 310,
+					"tackleTotal": 480,
+					"tackleAst": 170,
+					"sacks": 14,
+					"sackYds": 100,
+					"tacklesForLoss": 16
+				},
+				"interceptions": {
+					"interceptions": 5,
+					"intTD": 0,
+					"intYds": 25,
+					"intAverage": 5.0,
+					"intLng": 25,
+					"passesDefended": 25,
+					"stuffs": 116,
+					"stuffYds": 143,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 8,
+					"fumLost": 7,
+					"fumForced": 6,
+					"fumOwnRec": 0,
+					"fumOppRec": 2,
+					"fumRecYds": 25,
+					"fumTotalRec": 2,
+					"fumTD": 1
+				},
+				"kickoffReturns": {
+					"krRet": 5,
+					"krYds": 176,
+					"krAvg": 35.2,
+					"krLng": 129,
+					"krTD": 1,
+					"kr20Plus": 4,
+					"kr40Plus": 1,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 6,
+					"prYds": 111,
+					"prAvg": 18.5,
+					"prLng": 99,
+					"prTD": 0,
+					"pr20Plus": 2,
+					"pr40Plus": 1,
+					"prFC": 5,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 12,
+					"fgAtt": 13,
+					"fgPct": 92.3,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 5,
+					"fgAtt20_29": 5,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 5,
+					"fgAtt30_39": 5,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 0,
+					"fgAtt40_49": 0,
+					"fg40_49Pct": 0.0,
+					"fgMade50Plus": 2,
+					"fgAtt50Plus": 3,
+					"fg50PlusPct": 66.7,
+					"fgLng": 213
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 12,
+					"xpAtt": 13,
+					"xpPct": 92.3,
+					"fgAndXpPts": 48
+				},
+				"kickoffs": {
+					"kickoffs": 35,
+					"koYds": 2178,
+					"koOOB": 0,
+					"koAvg": 62.2,
+					"koTB": 32,
+					"koRet": 2,
+					"koRetYds": 20,
+					"koRetAvgYds": 10.0,
+					"koTD": 0,
+					"koOS": 2,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 26,
+					"puntYds": 1147,
+					"puntNetYds": 1011,
+					"puntLng": 345,
+					"puntAvg": 44.1,
+					"puntNetAvg": 38.9,
+					"puntBlk": 0,
+					"puntOOB": 2,
+					"puntDown": 3,
+					"puntIn20": 7,
+					"puntIn20Pct": 26.9,
+					"puntTB": 0,
+					"puntTBPct": 0.0,
+					"puntFC": 8,
+					"puntRet": 11,
+					"puntRetYds": 136,
+					"puntRetAvg": 12.4
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 126,
+					"firstDownsPass": 64,
+					"firstDownsRush": 42,
+					"firstDownsPenalty": 20,
+					"thirdDowns": 31,
+					"thirdDownsAtt": 78,
+					"thirdDownsPct": 39.7,
+					"fourthDowns": 2,
+					"fourthDownsAtt": 5,
+					"fourthDownsPct": 40.0,
+					"penalties": 48,
+					"penaltyYds": 351,
+					"offensePlays": 388,
+					"offenseYds": 2177,
+					"offenseAvgYds": 5.6,
+					"totalTD": 16
+				},
+				"standings": {
+					"wins": 2,
+					"losses": 5,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.286,
+					"pointsFor": 148,
+					"pointsAgainst": 217,
+					"pointDifferential": -69
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 3,
+					"twoPtMade": 2,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 2,
+					"twoPtRushMade": 2
+				},
+				"snapCounts": {
+					"offenseSnaps": 355,
+					"defenseSnaps": 413,
+					"specialTeamSnaps": 164
+				}
+			},
+			"overallRank": {
+				"rank": 30,
+				"gamesBack": 4.0
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 16,
+				"gamesBack": 4.0
+			},
+			"divisionRank": {
+				"divisionName": "AFC West",
+				"rank": 4,
+				"gamesBack": 4.0
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 16
+			}
+		},
+		{
+			"team": {
+				"id": 61,
+				"city": "Detroit",
+				"name": "Lions",
+				"abbreviation": "DET",
+				"homeVenue": {
+					"id": 53,
+					"name": "Ford Field"
+				},
+				"teamColoursHex": ["#0076b6", "#b0b7bc", "#000000", "#ffffff"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Lions"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/ocvxwnapdvwevupe4tpr"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 256,
+					"passCompletions": 174,
+					"passPct": 68.0,
+					"passGrossYards": 1902,
+					"passNetYards": 1810,
+					"passAvg": 7.4,
+					"passYardsPerAtt": 6.7,
+					"passTD": 11,
+					"passTDPct": 4.3,
+					"passInt": 4,
+					"passIntPct": 1.6,
+					"passLng": 250,
+					"pass20Plus": 32,
+					"pass40Plus": 2,
+					"passSacks": 15,
+					"passSackY": 92,
+					"qbRating": 97.5
+				},
+				"rushing": {
+					"rushAttempts": 201,
+					"rushYards": 829,
+					"rushAverage": 4.1,
+					"rushTD": 10,
+					"rushLng": 166,
+					"rush1stDowns": 47,
+					"rush1stDownsPct": 23.4,
+					"rush20Plus": 2,
+					"rush40Plus": 2,
+					"rushFumbles": 3
+				},
+				"receiving": {
+					"receptions": 174,
+					"recYards": 1902,
+					"recAverage": 10.9,
+					"recTD": 11,
+					"recLng": 250,
+					"rec1stDowns": 90,
+					"rec20Plus": 32,
+					"rec40Plus": 3,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 286,
+					"tackleTotal": 404,
+					"tackleAst": 118,
+					"sacks": 15,
+					"sackYds": 121,
+					"tacklesForLoss": 14
+				},
+				"interceptions": {
+					"interceptions": 6,
+					"intTD": 1,
+					"intYds": 101,
+					"intAverage": 16.8,
+					"intLng": 81,
+					"passesDefended": 40,
+					"stuffs": 147,
+					"stuffYds": 176,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 7,
+					"fumLost": 3,
+					"fumForced": 3,
+					"fumOwnRec": 4,
+					"fumOppRec": 3,
+					"fumRecYds": -7,
+					"fumTotalRec": 7,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 6,
+					"krYds": 129,
+					"krAvg": 21.5,
+					"krLng": 91,
+					"krTD": 0,
+					"kr20Plus": 3,
+					"kr40Plus": 0,
+					"krFC": 1,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 13,
+					"prYds": 138,
+					"prAvg": 10.6,
+					"prLng": 96,
+					"prTD": 0,
+					"pr20Plus": 1,
+					"pr40Plus": 0,
+					"prFC": 10,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 7,
+					"fgAtt": 8,
+					"fgPct": 87.5,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 1,
+					"fgAtt20_29": 1,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 6,
+					"fgAtt30_39": 6,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 0,
+					"fgAtt40_49": 0,
+					"fg40_49Pct": 0.0,
+					"fgMade50Plus": 0,
+					"fgAtt50Plus": 1,
+					"fg50PlusPct": 0.0,
+					"fgLng": 148
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 21,
+					"xpAtt": 21,
+					"xpPct": 100.0,
+					"fgAndXpPts": 42
+				},
+				"kickoffs": {
+					"kickoffs": 36,
+					"koYds": 2265,
+					"koOOB": 0,
+					"koAvg": 62.9,
+					"koTB": 19,
+					"koRet": 17,
+					"koRetYds": 360,
+					"koRetAvgYds": 21.2,
+					"koTD": 0,
+					"koOS": 1,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 26,
+					"puntYds": 1179,
+					"puntNetYds": 1101,
+					"puntLng": 392,
+					"puntAvg": 45.3,
+					"puntNetAvg": 42.3,
+					"puntBlk": 0,
+					"puntOOB": 1,
+					"puntDown": 5,
+					"puntIn20": 16,
+					"puntIn20Pct": 61.5,
+					"puntTB": 1,
+					"puntTBPct": 3.8,
+					"puntFC": 10,
+					"puntRet": 8,
+					"puntRetYds": 78,
+					"puntRetAvg": 9.8
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 147,
+					"firstDownsPass": 90,
+					"firstDownsRush": 48,
+					"firstDownsPenalty": 9,
+					"thirdDowns": 40,
+					"thirdDownsAtt": 99,
+					"thirdDownsPct": 40.4,
+					"fourthDowns": 6,
+					"fourthDownsAtt": 15,
+					"fourthDownsPct": 40.0,
+					"penalties": 41,
+					"penaltyYds": 403,
+					"offensePlays": 472,
+					"offenseYds": 2639,
+					"offenseAvgYds": 5.6,
+					"totalTD": 22
+				},
+				"standings": {
+					"wins": 5,
+					"losses": 2,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.714,
+					"pointsFor": 174,
+					"pointsAgainst": 151,
+					"pointDifferential": 23
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 1,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 486,
+					"defenseSnaps": 448,
+					"specialTeamSnaps": 185
+				}
+			},
+			"overallRank": {
+				"rank": 4,
+				"gamesBack": 1.0
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 2,
+				"gamesBack": 1.0
+			},
+			"divisionRank": {
+				"divisionName": "NFC North",
+				"rank": 1,
+				"gamesBack": 0.0
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 3
+			}
+		},
+		{
+			"team": {
+				"id": 62,
+				"city": "Green Bay",
+				"name": "Packers",
+				"abbreviation": "GB",
+				"homeVenue": {
+					"id": 54,
+					"name": "Lambeau Field"
+				},
+				"teamColoursHex": ["#203731", "#ffb612"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "packers"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/gppfvr7n8gljgjaqux2x"
+			},
+			"stats": {
+				"gamesPlayed": 6,
+				"passing": {
+					"passAttempts": 194,
+					"passCompletions": 112,
+					"passPct": 57.7,
+					"passGrossYards": 1277,
+					"passNetYards": 1194,
+					"passAvg": 6.6,
+					"passYardsPerAtt": 5.9,
+					"passTD": 10,
+					"passTDPct": 5.2,
+					"passInt": 7,
+					"passIntPct": 3.6,
+					"passLng": 263,
+					"pass20Plus": 14,
+					"pass40Plus": 3,
+					"passSacks": 10,
+					"passSackY": 83,
+					"qbRating": 79.8
+				},
+				"rushing": {
+					"rushAttempts": 145,
+					"rushYards": 545,
+					"rushAverage": 3.8,
+					"rushTD": 4,
+					"rushLng": 108,
+					"rush1stDowns": 30,
+					"rush1stDownsPct": 20.7,
+					"rush20Plus": 3,
+					"rush40Plus": 0,
+					"rushFumbles": 3
+				},
+				"receiving": {
+					"receptions": 112,
+					"recYards": 1277,
+					"recAverage": 11.4,
+					"recTD": 10,
+					"recLng": 263,
+					"rec1stDowns": 62,
+					"rec20Plus": 14,
+					"rec40Plus": 3,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 282,
+					"tackleTotal": 445,
+					"tackleAst": 163,
+					"sacks": 16,
+					"sackYds": 103,
+					"tacklesForLoss": 18
+				},
+				"interceptions": {
+					"interceptions": 4,
+					"intTD": 1,
+					"intYds": 65,
+					"intAverage": 16.2,
+					"intLng": 65,
+					"passesDefended": 25,
+					"stuffs": 126,
+					"stuffYds": 160,
+					"kB": 1,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 5,
+					"fumLost": 0,
+					"fumForced": 1,
+					"fumOwnRec": 4,
+					"fumOppRec": 1,
+					"fumRecYds": -1,
+					"fumTotalRec": 5,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 10,
+					"krYds": 250,
+					"krAvg": 25.0,
+					"krLng": 123,
+					"krTD": 0,
+					"kr20Plus": 10,
+					"kr40Plus": 1,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 11,
+					"prYds": 111,
+					"prAvg": 10.1,
+					"prLng": 90,
+					"prTD": 0,
+					"pr20Plus": 2,
+					"pr40Plus": 0,
+					"prFC": 5,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 8,
+					"fgAtt": 9,
+					"fgPct": 88.9,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 2,
+					"fgAtt20_29": 2,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 4,
+					"fgAtt30_39": 4,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 0,
+					"fgAtt40_49": 1,
+					"fg40_49Pct": 0.0,
+					"fgMade50Plus": 2,
+					"fgAtt50Plus": 2,
+					"fg50PlusPct": 100.0,
+					"fgLng": 239
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 12,
+					"xpAtt": 12,
+					"xpPct": 100.0,
+					"fgAndXpPts": 36
+				},
+				"kickoffs": {
+					"kickoffs": 28,
+					"koYds": 1768,
+					"koOOB": 1,
+					"koAvg": 63.1,
+					"koTB": 18,
+					"koRet": 9,
+					"koRetYds": 192,
+					"koRetAvgYds": 21.3,
+					"koTD": 0,
+					"koOS": 1,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 25,
+					"puntYds": 1199,
+					"puntNetYds": 1040,
+					"puntLng": 342,
+					"puntAvg": 48.0,
+					"puntNetAvg": 41.6,
+					"puntBlk": 0,
+					"puntOOB": 0,
+					"puntDown": 1,
+					"puntIn20": 7,
+					"puntIn20Pct": 28.0,
+					"puntTB": 4,
+					"puntTBPct": 16.0,
+					"puntFC": 10,
+					"puntRet": 10,
+					"puntRetYds": 159,
+					"puntRetAvg": 15.9
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 106,
+					"firstDownsPass": 62,
+					"firstDownsRush": 30,
+					"firstDownsPenalty": 14,
+					"thirdDowns": 33,
+					"thirdDownsAtt": 80,
+					"thirdDownsPct": 41.2,
+					"fourthDowns": 6,
+					"fourthDownsAtt": 11,
+					"fourthDownsPct": 54.5,
+					"penalties": 41,
+					"penaltyYds": 325,
+					"offensePlays": 349,
+					"offenseYds": 1739,
+					"offenseAvgYds": 5.0,
+					"totalTD": 15
+				},
+				"standings": {
+					"wins": 2,
+					"losses": 4,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.333,
+					"pointsFor": 130,
+					"pointsAgainst": 132,
+					"pointDifferential": -2
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 3,
+					"twoPtMade": 2,
+					"twoPtPassAtt": 2,
+					"twoPtPassMade": 2,
+					"twoPtRushAtt": 1,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 304,
+					"defenseSnaps": 356,
+					"specialTeamSnaps": 134
+				}
+			},
+			"overallRank": {
+				"rank": 29,
+				"gamesBack": 3.5
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 12,
+				"gamesBack": 3.5
+			},
+			"divisionRank": {
+				"divisionName": "NFC North",
+				"rank": 3,
+				"gamesBack": 2.5
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 12
+			}
+		},
+		{
+			"team": {
+				"id": 64,
+				"city": "Houston",
+				"name": "Texans",
+				"abbreviation": "HOU",
+				"homeVenue": {
+					"id": 55,
+					"name": "NRG Stadium"
+				},
+				"teamColoursHex": ["#03202f", "#a71930"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "HoustonTexans"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/bpx88i8nw4nnabuq0oob"
+			},
+			"stats": {
+				"gamesPlayed": 6,
+				"passing": {
+					"passAttempts": 214,
+					"passCompletions": 128,
+					"passPct": 59.8,
+					"passGrossYards": 1666,
+					"passNetYards": 1551,
+					"passAvg": 7.8,
+					"passYardsPerAtt": 6.8,
+					"passTD": 10,
+					"passTDPct": 4.7,
+					"passInt": 1,
+					"passIntPct": 0.5,
+					"passLng": 241,
+					"pass20Plus": 25,
+					"pass40Plus": 4,
+					"passSacks": 13,
+					"passSackY": 115,
+					"qbRating": 98.0
+				},
+				"rushing": {
+					"rushAttempts": 167,
+					"rushYards": 533,
+					"rushAverage": 3.2,
+					"rushTD": 1,
+					"rushLng": 80,
+					"rush1stDowns": 27,
+					"rush1stDownsPct": 16.2,
+					"rush20Plus": 0,
+					"rush40Plus": 0,
+					"rushFumbles": 2
+				},
+				"receiving": {
+					"receptions": 128,
+					"recYards": 1670,
+					"recAverage": 13.0,
+					"recTD": 10,
+					"recLng": 241,
+					"rec1stDowns": 78,
+					"rec20Plus": 25,
+					"rec40Plus": 4,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 271,
+					"tackleTotal": 415,
+					"tackleAst": 144,
+					"sacks": 9,
+					"sackYds": 55,
+					"tacklesForLoss": 19
+				},
+				"interceptions": {
+					"interceptions": 4,
+					"intTD": 0,
+					"intYds": 33,
+					"intAverage": 8.2,
+					"intLng": 33,
+					"passesDefended": 26,
+					"stuffs": 109,
+					"stuffYds": 109,
+					"kB": 1,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 6,
+					"fumLost": 2,
+					"fumForced": 8,
+					"fumOwnRec": 4,
+					"fumOppRec": 5,
+					"fumRecYds": 15,
+					"fumTotalRec": 9,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 6,
+					"krYds": 189,
+					"krAvg": 31.5,
+					"krLng": 93,
+					"krTD": 0,
+					"kr20Plus": 3,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 9,
+					"prYds": 77,
+					"prAvg": 8.6,
+					"prLng": 51,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 9,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 17,
+					"fgAtt": 18,
+					"fgPct": 94.4,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 6,
+					"fgAtt20_29": 6,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 9,
+					"fgAtt30_39": 9,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 2,
+					"fgAtt40_49": 2,
+					"fg40_49Pct": 100.0,
+					"fgMade50Plus": 0,
+					"fgAtt50Plus": 1,
+					"fg50PlusPct": 0.0,
+					"fgLng": 213
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 12,
+					"xpAtt": 12,
+					"xpPct": 100.0,
+					"fgAndXpPts": 63
+				},
+				"kickoffs": {
+					"kickoffs": 32,
+					"koYds": 2068,
+					"koOOB": 0,
+					"koAvg": 64.6,
+					"koTB": 20,
+					"koRet": 10,
+					"koRetYds": 226,
+					"koRetAvgYds": 22.6,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 25,
+					"puntYds": 1061,
+					"puntNetYds": 1042,
+					"puntLng": 306,
+					"puntAvg": 42.4,
+					"puntNetAvg": 41.7,
+					"puntBlk": 0,
+					"puntOOB": 4,
+					"puntDown": 4,
+					"puntIn20": 7,
+					"puntIn20Pct": 28.0,
+					"puntTB": 3,
+					"puntTBPct": 12.0,
+					"puntFC": 10,
+					"puntRet": 4,
+					"puntRetYds": 19,
+					"puntRetAvg": 4.8
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 117,
+					"firstDownsPass": 78,
+					"firstDownsRush": 27,
+					"firstDownsPenalty": 12,
+					"thirdDowns": 39,
+					"thirdDownsAtt": 88,
+					"thirdDownsPct": 44.3,
+					"fourthDowns": 3,
+					"fourthDownsAtt": 7,
+					"fourthDownsPct": 42.9,
+					"penalties": 36,
+					"penaltyYds": 300,
+					"offensePlays": 394,
+					"offenseYds": 2084,
+					"offenseAvgYds": 5.3,
+					"totalTD": 11
+				},
+				"standings": {
+					"wins": 3,
+					"losses": 3,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.5,
+					"pointsFor": 135,
+					"pointsAgainst": 113,
+					"pointDifferential": 22
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 409,
+					"defenseSnaps": 412,
+					"specialTeamSnaps": 163
+				}
+			},
+			"overallRank": {
+				"rank": 16,
+				"gamesBack": 2.5
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 8,
+				"gamesBack": 2.5
+			},
+			"divisionRank": {
+				"divisionName": "AFC South",
+				"rank": 2,
+				"gamesBack": 1.5
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 8
+			}
+		},
+		{
+			"team": {
+				"id": 65,
+				"city": "Indianapolis",
+				"name": "Colts",
+				"abbreviation": "IND",
+				"homeVenue": {
+					"id": 56,
+					"name": "Lucas Oil Stadium"
+				},
+				"teamColoursHex": ["#002c5f", "#a2aaad"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Colts"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/ketwqeuschqzjsllbid5"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 245,
+					"passCompletions": 155,
+					"passPct": 63.3,
+					"passGrossYards": 1764,
+					"passNetYards": 1660,
+					"passAvg": 7.2,
+					"passYardsPerAtt": 6.3,
+					"passTD": 8,
+					"passTDPct": 3.3,
+					"passInt": 5,
+					"passIntPct": 2.0,
+					"passLng": 312,
+					"pass20Plus": 26,
+					"pass40Plus": 6,
+					"passSacks": 19,
+					"passSackY": 104,
+					"qbRating": 87.2
+				},
+				"rushing": {
+					"rushAttempts": 206,
+					"rushYards": 868,
+					"rushAverage": 4.2,
+					"rushTD": 11,
+					"rushLng": 166,
+					"rush1stDowns": 46,
+					"rush1stDownsPct": 22.3,
+					"rush20Plus": 6,
+					"rush40Plus": 1,
+					"rushFumbles": 3
+				},
+				"receiving": {
+					"receptions": 155,
+					"recYards": 1764,
+					"recAverage": 11.4,
+					"recTD": 8,
+					"recLng": 312,
+					"rec1stDowns": 81,
+					"rec20Plus": 26,
+					"rec40Plus": 6,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 336,
+					"tackleTotal": 496,
+					"tackleAst": 160,
+					"sacks": 20,
+					"sackYds": 149,
+					"tacklesForLoss": 12
+				},
+				"interceptions": {
+					"interceptions": 6,
+					"intTD": 0,
+					"intYds": 44,
+					"intAverage": 7.3,
+					"intLng": 44,
+					"passesDefended": 37,
+					"stuffs": 176,
+					"stuffYds": 243,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 12,
+					"fumLost": 7,
+					"fumForced": 8,
+					"fumOwnRec": 3,
+					"fumOppRec": 4,
+					"fumRecYds": 17,
+					"fumTotalRec": 7,
+					"fumTD": 1
+				},
+				"kickoffReturns": {
+					"krRet": 4,
+					"krYds": 76,
+					"krAvg": 19.0,
+					"krLng": 59,
+					"krTD": 0,
+					"kr20Plus": 1,
+					"kr40Plus": 0,
+					"krFC": 5,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 13,
+					"prYds": 137,
+					"prAvg": 10.5,
+					"prLng": 95,
+					"prTD": 0,
+					"pr20Plus": 2,
+					"pr40Plus": 0,
+					"prFC": 10,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 1,
+					"fgMade": 12,
+					"fgAtt": 14,
+					"fgPct": 85.7,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 3,
+					"fgAtt20_29": 3,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 2,
+					"fgAtt30_39": 2,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 2,
+					"fgAtt40_49": 3,
+					"fg40_49Pct": 66.7,
+					"fgMade50Plus": 5,
+					"fgAtt50Plus": 6,
+					"fg50PlusPct": 83.3,
+					"fgLng": 222
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 18,
+					"xpAtt": 18,
+					"xpPct": 100.0,
+					"fgAndXpPts": 54
+				},
+				"kickoffs": {
+					"kickoffs": 40,
+					"koYds": 2563,
+					"koOOB": 0,
+					"koAvg": 64.1,
+					"koTB": 29,
+					"koRet": 8,
+					"koRetYds": 188,
+					"koRetAvgYds": 23.5,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 30,
+					"puntYds": 1399,
+					"puntNetYds": 1192,
+					"puntLng": 364,
+					"puntAvg": 46.6,
+					"puntNetAvg": 39.7,
+					"puntBlk": 0,
+					"puntOOB": 3,
+					"puntDown": 6,
+					"puntIn20": 11,
+					"puntIn20Pct": 36.7,
+					"puntTB": 0,
+					"puntTBPct": 0.0,
+					"puntFC": 4,
+					"puntRet": 17,
+					"puntRetYds": 207,
+					"puntRetAvg": 12.2
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 134,
+					"firstDownsPass": 81,
+					"firstDownsRush": 45,
+					"firstDownsPenalty": 8,
+					"thirdDowns": 40,
+					"thirdDownsAtt": 101,
+					"thirdDownsPct": 39.6,
+					"fourthDowns": 5,
+					"fourthDownsAtt": 15,
+					"fourthDownsPct": 33.3,
+					"penalties": 48,
+					"penaltyYds": 356,
+					"offensePlays": 470,
+					"offenseYds": 2528,
+					"offenseAvgYds": 5.4,
+					"totalTD": 20
+				},
+				"standings": {
+					"wins": 3,
+					"losses": 4,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.429,
+					"pointsFor": 178,
+					"pointsAgainst": 191,
+					"pointDifferential": -13
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 2,
+					"twoPtMade": 2,
+					"twoPtPassAtt": 2,
+					"twoPtPassMade": 2,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 491,
+					"defenseSnaps": 507,
+					"specialTeamSnaps": 213
+				}
+			},
+			"overallRank": {
+				"rank": 22,
+				"gamesBack": 3.0
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 11,
+				"gamesBack": 3.0
+			},
+			"divisionRank": {
+				"divisionName": "AFC South",
+				"rank": 3,
+				"gamesBack": 2.0
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 11
+			}
+		},
+		{
+			"team": {
+				"id": 66,
+				"city": "Jacksonville",
+				"name": "Jaguars",
+				"abbreviation": "JAX",
+				"homeVenue": {
+					"id": 57,
+					"name": "TIAA Bank Field"
+				},
+				"teamColoursHex": ["#101820", "#d7a22a", "#9f792c", "#006778"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Jaguars"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/qycbib6ivrm9dqaexryk"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 243,
+					"passCompletions": 165,
+					"passPct": 67.9,
+					"passGrossYards": 1664,
+					"passNetYards": 1560,
+					"passAvg": 6.8,
+					"passYardsPerAtt": 6.0,
+					"passTD": 8,
+					"passTDPct": 3.3,
+					"passInt": 3,
+					"passIntPct": 1.2,
+					"passLng": 237,
+					"pass20Plus": 19,
+					"pass40Plus": 2,
+					"passSacks": 16,
+					"passSackY": 104,
+					"qbRating": 93.0
+				},
+				"rushing": {
+					"rushAttempts": 207,
+					"rushYards": 794,
+					"rushAverage": 3.8,
+					"rushTD": 9,
+					"rushLng": 165,
+					"rush1stDowns": 46,
+					"rush1stDownsPct": 22.2,
+					"rush20Plus": 7,
+					"rush40Plus": 0,
+					"rushFumbles": 1
+				},
+				"receiving": {
+					"receptions": 165,
+					"recYards": 1667,
+					"recAverage": 10.1,
+					"recTD": 8,
+					"recLng": 237,
+					"rec1stDowns": 79,
+					"rec20Plus": 19,
+					"rec40Plus": 2,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 292,
+					"tackleTotal": 440,
+					"tackleAst": 148,
+					"sacks": 13,
+					"sackYds": 71,
+					"tacklesForLoss": 22
+				},
+				"interceptions": {
+					"interceptions": 9,
+					"intTD": 2,
+					"intYds": 148,
+					"intAverage": 16.4,
+					"intLng": 127,
+					"passesDefended": 50,
+					"stuffs": 167,
+					"stuffYds": 134,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 15,
+					"fumLost": 7,
+					"fumForced": 8,
+					"fumOwnRec": 5,
+					"fumOppRec": 7,
+					"fumRecYds": -14,
+					"fumTotalRec": 12,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 6,
+					"krYds": 155,
+					"krAvg": 25.8,
+					"krLng": 116,
+					"krTD": 0,
+					"kr20Plus": 4,
+					"kr40Plus": 1,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 11,
+					"prYds": 100,
+					"prAvg": 9.1,
+					"prLng": 87,
+					"prTD": 0,
+					"pr20Plus": 1,
+					"pr40Plus": 1,
+					"prFC": 9,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 1,
+					"fgMade": 13,
+					"fgAtt": 15,
+					"fgPct": 86.7,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 1,
+					"fgAtt20_29": 1,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 3,
+					"fgAtt30_39": 3,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 7,
+					"fgAtt40_49": 8,
+					"fg40_49Pct": 87.5,
+					"fgMade50Plus": 2,
+					"fgAtt50Plus": 3,
+					"fg50PlusPct": 66.7,
+					"fgLng": 321
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 18,
+					"xpAtt": 18,
+					"xpPct": 100.0,
+					"fgAndXpPts": 57
+				},
+				"kickoffs": {
+					"kickoffs": 38,
+					"koYds": 2441,
+					"koOOB": 0,
+					"koAvg": 64.2,
+					"koTB": 31,
+					"koRet": 3,
+					"koRetYds": 47,
+					"koRetAvgYds": 15.7,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 29,
+					"puntYds": 1389,
+					"puntNetYds": 1335,
+					"puntLng": 398,
+					"puntAvg": 47.9,
+					"puntNetAvg": 46.0,
+					"puntBlk": 0,
+					"puntOOB": 5,
+					"puntDown": 2,
+					"puntIn20": 18,
+					"puntIn20Pct": 62.1,
+					"puntTB": 2,
+					"puntTBPct": 6.9,
+					"puntFC": 10,
+					"puntRet": 7,
+					"puntRetYds": 54,
+					"puntRetAvg": 7.7
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 140,
+					"firstDownsPass": 79,
+					"firstDownsRush": 45,
+					"firstDownsPenalty": 16,
+					"thirdDowns": 32,
+					"thirdDownsAtt": 94,
+					"thirdDownsPct": 34.0,
+					"fourthDowns": 4,
+					"fourthDownsAtt": 11,
+					"fourthDownsPct": 36.4,
+					"penalties": 33,
+					"penaltyYds": 252,
+					"offensePlays": 466,
+					"offenseYds": 2354,
+					"offenseAvgYds": 5.1,
+					"totalTD": 19
+				},
+				"standings": {
+					"wins": 5,
+					"losses": 2,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.714,
+					"pointsFor": 173,
+					"pointsAgainst": 146,
+					"pointDifferential": 27
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 1,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 1,
+					"twoPtRushMade": 1
+				},
+				"snapCounts": {
+					"offenseSnaps": 484,
+					"defenseSnaps": 481,
+					"specialTeamSnaps": 189
+				}
+			},
+			"overallRank": {
+				"rank": 6,
+				"gamesBack": 1.0
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 3,
+				"gamesBack": 1.0
+			},
+			"divisionRank": {
+				"divisionName": "AFC South",
+				"rank": 1,
+				"gamesBack": 0.0
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 3
+			}
+		},
+		{
+			"team": {
+				"id": 73,
+				"city": "Kansas City",
+				"name": "Chiefs",
+				"abbreviation": "KC",
+				"homeVenue": {
+					"id": 58,
+					"name": "Arrowhead Stadium"
+				},
+				"teamColoursHex": ["#e31837", "#ffb81c"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Chiefs"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/ujshjqvmnxce8m4obmvs"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 272,
+					"passCompletions": 188,
+					"passPct": 69.1,
+					"passGrossYards": 2048,
+					"passNetYards": 1998,
+					"passAvg": 7.5,
+					"passYardsPerAtt": 7.2,
+					"passTD": 15,
+					"passTDPct": 5.5,
+					"passInt": 8,
+					"passIntPct": 2.9,
+					"passLng": 285,
+					"pass20Plus": 24,
+					"pass40Plus": 5,
+					"passSacks": 7,
+					"passSackY": 50,
+					"qbRating": 97.2
+				},
+				"rushing": {
+					"rushAttempts": 186,
+					"rushYards": 779,
+					"rushAverage": 4.2,
+					"rushTD": 4,
+					"rushLng": 162,
+					"rush1stDowns": 49,
+					"rush1stDownsPct": 26.3,
+					"rush20Plus": 3,
+					"rush40Plus": 1,
+					"rushFumbles": 2
+				},
+				"receiving": {
+					"receptions": 188,
+					"recYards": 2077,
+					"recAverage": 11.0,
+					"recTD": 15,
+					"recLng": 285,
+					"rec1stDowns": 97,
+					"rec20Plus": 24,
+					"rec40Plus": 5,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 267,
+					"tackleTotal": 401,
+					"tackleAst": 134,
+					"sacks": 22,
+					"sackYds": 128,
+					"tacklesForLoss": 20
+				},
+				"interceptions": {
+					"interceptions": 5,
+					"intTD": 0,
+					"intYds": 41,
+					"intAverage": 8.2,
+					"intLng": 36,
+					"passesDefended": 44,
+					"stuffs": 144,
+					"stuffYds": 153,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 8,
+					"fumLost": 3,
+					"fumForced": 6,
+					"fumOwnRec": 4,
+					"fumOppRec": 6,
+					"fumRecYds": 1,
+					"fumTotalRec": 10,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 2,
+					"krYds": 34,
+					"krAvg": 17.0,
+					"krLng": 34,
+					"krTD": 0,
+					"kr20Plus": 1,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 15,
+					"prYds": 135,
+					"prAvg": 9.0,
+					"prLng": 129,
+					"prTD": 0,
+					"pr20Plus": 3,
+					"pr40Plus": 1,
+					"prFC": 8,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 15,
+					"fgAtt": 15,
+					"fgPct": 100.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 2,
+					"fgAtt20_29": 2,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 9,
+					"fgAtt30_39": 9,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 2,
+					"fgAtt40_49": 2,
+					"fg40_49Pct": 100.0,
+					"fgMade50Plus": 2,
+					"fgAtt50Plus": 2,
+					"fg50PlusPct": 100.0,
+					"fgLng": 290
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 19,
+					"xpAtt": 19,
+					"xpPct": 100.0,
+					"fgAndXpPts": 64
+				},
+				"kickoffs": {
+					"kickoffs": 39,
+					"koYds": 2551,
+					"koOOB": 0,
+					"koAvg": 65.4,
+					"koTB": 38,
+					"koRet": 1,
+					"koRetYds": 22,
+					"koRetAvgYds": 22.0,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 21,
+					"puntYds": 1012,
+					"puntNetYds": 947,
+					"puntLng": 392,
+					"puntAvg": 48.2,
+					"puntNetAvg": 45.1,
+					"puntBlk": 0,
+					"puntOOB": 1,
+					"puntDown": 4,
+					"puntIn20": 8,
+					"puntIn20Pct": 38.1,
+					"puntTB": 1,
+					"puntTBPct": 4.8,
+					"puntFC": 7,
+					"puntRet": 7,
+					"puntRetYds": 65,
+					"puntRetAvg": 9.3
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 159,
+					"firstDownsPass": 97,
+					"firstDownsRush": 50,
+					"firstDownsPenalty": 12,
+					"thirdDowns": 46,
+					"thirdDownsAtt": 93,
+					"thirdDownsPct": 49.5,
+					"fourthDowns": 2,
+					"fourthDownsAtt": 3,
+					"fourthDownsPct": 66.7,
+					"penalties": 46,
+					"penaltyYds": 393,
+					"offensePlays": 465,
+					"offenseYds": 2777,
+					"offenseAvgYds": 6.0,
+					"totalTD": 19
+				},
+				"standings": {
+					"wins": 6,
+					"losses": 1,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.857,
+					"pointsFor": 178,
+					"pointsAgainst": 105,
+					"pointDifferential": 73
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 416,
+					"defenseSnaps": 371,
+					"specialTeamSnaps": 145
+				}
+			},
+			"overallRank": {
+				"rank": 1,
+				"gamesBack": 0.0
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 1,
+				"gamesBack": 0.0
+			},
+			"divisionRank": {
+				"divisionName": "AFC West",
+				"rank": 1,
+				"gamesBack": 0.0
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 1
+			}
+		},
+		{
+			"team": {
+				"id": 74,
+				"city": "Las Vegas",
+				"name": "Raiders",
+				"abbreviation": "LV",
+				"homeVenue": {
+					"id": 161,
+					"name": "Allegiant Stadium"
+				},
+				"teamColoursHex": ["#000000", "#a5acaf"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Raiders"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/y2saimpyifuahldhzetn"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 241,
+					"passCompletions": 157,
+					"passPct": 65.1,
+					"passGrossYards": 1623,
+					"passNetYards": 1509,
+					"passAvg": 6.7,
+					"passYardsPerAtt": 5.9,
+					"passTD": 8,
+					"passTDPct": 3.3,
+					"passInt": 12,
+					"passIntPct": 5.0,
+					"passLng": 185,
+					"pass20Plus": 13,
+					"pass40Plus": 1,
+					"passSacks": 16,
+					"passSackY": 114,
+					"qbRating": 74.7
+				},
+				"rushing": {
+					"rushAttempts": 162,
+					"rushYards": 480,
+					"rushAverage": 3.0,
+					"rushTD": 3,
+					"rushLng": 116,
+					"rush1stDowns": 29,
+					"rush1stDownsPct": 17.9,
+					"rush20Plus": 2,
+					"rush40Plus": 0,
+					"rushFumbles": 2
+				},
+				"receiving": {
+					"receptions": 157,
+					"recYards": 1623,
+					"recAverage": 10.3,
+					"recTD": 8,
+					"recLng": 185,
+					"rec1stDowns": 86,
+					"rec20Plus": 13,
+					"rec40Plus": 1,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 288,
+					"tackleTotal": 460,
+					"tackleAst": 172,
+					"sacks": 15,
+					"sackYds": 85,
+					"tacklesForLoss": 15
+				},
+				"interceptions": {
+					"interceptions": 5,
+					"intTD": 0,
+					"intYds": 61,
+					"intAverage": 12.2,
+					"intLng": 57,
+					"passesDefended": 25,
+					"stuffs": 129,
+					"stuffYds": 157,
+					"kB": 1,
+					"safeties": 1
+				},
+				"fumbles": {
+					"fumbles": 6,
+					"fumLost": 3,
+					"fumForced": 1,
+					"fumOwnRec": 3,
+					"fumOppRec": 0,
+					"fumRecYds": 0,
+					"fumTotalRec": 3,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 5,
+					"krYds": 143,
+					"krAvg": 28.6,
+					"krLng": 118,
+					"krTD": 0,
+					"kr20Plus": 5,
+					"kr40Plus": 1,
+					"krFC": 1,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 9,
+					"prYds": 82,
+					"prAvg": 9.1,
+					"prLng": 54,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 3,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 1,
+					"fgMade": 11,
+					"fgAtt": 14,
+					"fgPct": 78.6,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 7,
+					"fgAtt20_29": 7,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 2,
+					"fgAtt30_39": 2,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 2,
+					"fgAtt40_49": 3,
+					"fg40_49Pct": 66.7,
+					"fgMade50Plus": 0,
+					"fgAtt50Plus": 2,
+					"fg50PlusPct": 0.0,
+					"fgLng": 222
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 9,
+					"xpAtt": 9,
+					"xpPct": 100.0,
+					"fgAndXpPts": 42
+				},
+				"kickoffs": {
+					"kickoffs": 29,
+					"koYds": 1862,
+					"koOOB": 0,
+					"koAvg": 64.2,
+					"koTB": 21,
+					"koRet": 8,
+					"koRetYds": 186,
+					"koRetAvgYds": 23.2,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 22,
+					"puntYds": 1103,
+					"puntNetYds": 1049,
+					"puntLng": 387,
+					"puntAvg": 50.1,
+					"puntNetAvg": 47.7,
+					"puntBlk": 0,
+					"puntOOB": 3,
+					"puntDown": 2,
+					"puntIn20": 13,
+					"puntIn20Pct": 59.1,
+					"puntTB": 1,
+					"puntTBPct": 4.5,
+					"puntFC": 9,
+					"puntRet": 6,
+					"puntRetYds": 54,
+					"puntRetAvg": 9.0
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 134,
+					"firstDownsPass": 86,
+					"firstDownsRush": 29,
+					"firstDownsPenalty": 19,
+					"thirdDowns": 28,
+					"thirdDownsAtt": 80,
+					"thirdDownsPct": 35.0,
+					"fourthDowns": 8,
+					"fourthDownsAtt": 9,
+					"fourthDownsPct": 88.9,
+					"penalties": 40,
+					"penaltyYds": 352,
+					"offensePlays": 419,
+					"offenseYds": 1989,
+					"offenseAvgYds": 4.7,
+					"totalTD": 11
+				},
+				"standings": {
+					"wins": 3,
+					"losses": 4,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.429,
+					"pointsFor": 112,
+					"pointsAgainst": 161,
+					"pointDifferential": -49
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 2,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 2,
+					"twoPtPassMade": 1,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 378,
+					"defenseSnaps": 387,
+					"specialTeamSnaps": 144
+				}
+			},
+			"overallRank": {
+				"rank": 25,
+				"gamesBack": 3.0
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 12,
+				"gamesBack": 3.0
+			},
+			"divisionRank": {
+				"divisionName": "AFC West",
+				"rank": 2,
+				"gamesBack": 3.0
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 12
+			}
+		},
+		{
+			"team": {
+				"id": 75,
+				"city": "Los Angeles",
+				"name": "Chargers",
+				"abbreviation": "LAC",
+				"homeVenue": {
+					"id": 162,
+					"name": "SoFi Stadium"
+				},
+				"teamColoursHex": ["#002a5e", "#ffc20e", "#0080c6"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Chargers"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/lu22ddatqbdknq4wuazd"
+			},
+			"stats": {
+				"gamesPlayed": 6,
+				"passing": {
+					"passAttempts": 213,
+					"passCompletions": 143,
+					"passPct": 67.1,
+					"passGrossYards": 1641,
+					"passNetYards": 1514,
+					"passAvg": 7.7,
+					"passYardsPerAtt": 6.6,
+					"passTD": 11,
+					"passTDPct": 5.2,
+					"passInt": 4,
+					"passIntPct": 1.9,
+					"passLng": 266,
+					"pass20Plus": 27,
+					"pass40Plus": 4,
+					"passSacks": 15,
+					"passSackY": 127,
+					"qbRating": 99.5
+				},
+				"rushing": {
+					"rushAttempts": 162,
+					"rushYards": 671,
+					"rushAverage": 4.1,
+					"rushTD": 6,
+					"rushLng": 191,
+					"rush1stDowns": 36,
+					"rush1stDownsPct": 22.2,
+					"rush20Plus": 1,
+					"rush40Plus": 3,
+					"rushFumbles": 0
+				},
+				"receiving": {
+					"receptions": 143,
+					"recYards": 1641,
+					"recAverage": 11.5,
+					"recTD": 11,
+					"recLng": 266,
+					"rec1stDowns": 75,
+					"rec20Plus": 27,
+					"rec40Plus": 4,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 279,
+					"tackleTotal": 371,
+					"tackleAst": 92,
+					"sacks": 22,
+					"sackYds": 149,
+					"tacklesForLoss": 9
+				},
+				"interceptions": {
+					"interceptions": 4,
+					"intTD": 0,
+					"intYds": 17,
+					"intAverage": 4.2,
+					"intLng": 17,
+					"passesDefended": 31,
+					"stuffs": 133,
+					"stuffYds": 197,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 5,
+					"fumLost": 1,
+					"fumForced": 4,
+					"fumOwnRec": 2,
+					"fumOppRec": 6,
+					"fumRecYds": 4,
+					"fumTotalRec": 8,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 2,
+					"krYds": 39,
+					"krAvg": 19.5,
+					"krLng": 39,
+					"krTD": 0,
+					"kr20Plus": 1,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 10,
+					"prYds": 122,
+					"prAvg": 12.2,
+					"prLng": 61,
+					"prTD": 0,
+					"pr20Plus": 2,
+					"pr40Plus": 0,
+					"prFC": 4,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 8,
+					"fgAtt": 9,
+					"fgPct": 88.9,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 3,
+					"fgAtt20_29": 3,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 3,
+					"fgAtt30_39": 3,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 0,
+					"fgAtt40_49": 0,
+					"fg40_49Pct": 0.0,
+					"fgMade50Plus": 2,
+					"fgAtt50Plus": 3,
+					"fg50PlusPct": 66.7,
+					"fgLng": 195
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 16,
+					"xpAtt": 16,
+					"xpPct": 100.0,
+					"fgAndXpPts": 40
+				},
+				"kickoffs": {
+					"kickoffs": 30,
+					"koYds": 1952,
+					"koOOB": 0,
+					"koAvg": 65.1,
+					"koTB": 28,
+					"koRet": 2,
+					"koRetYds": 61,
+					"koRetAvgYds": 30.5,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 26,
+					"puntYds": 1115,
+					"puntNetYds": 1033,
+					"puntLng": 324,
+					"puntAvg": 42.9,
+					"puntNetAvg": 39.7,
+					"puntBlk": 0,
+					"puntOOB": 2,
+					"puntDown": 5,
+					"puntIn20": 10,
+					"puntIn20Pct": 38.5,
+					"puntTB": 1,
+					"puntTBPct": 3.8,
+					"puntFC": 12,
+					"puntRet": 5,
+					"puntRetYds": 82,
+					"puntRetAvg": 16.4
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 123,
+					"firstDownsPass": 75,
+					"firstDownsRush": 36,
+					"firstDownsPenalty": 12,
+					"thirdDowns": 32,
+					"thirdDownsAtt": 82,
+					"thirdDownsPct": 39.0,
+					"fourthDowns": 7,
+					"fourthDownsAtt": 11,
+					"fourthDownsPct": 63.6,
+					"penalties": 39,
+					"penaltyYds": 363,
+					"offensePlays": 390,
+					"offenseYds": 2185,
+					"offenseAvgYds": 5.6,
+					"totalTD": 17
+				},
+				"standings": {
+					"wins": 2,
+					"losses": 4,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.333,
+					"pointsFor": 144,
+					"pointsAgainst": 155,
+					"pointDifferential": -11
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 1,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 1,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 353,
+					"defenseSnaps": 351,
+					"specialTeamSnaps": 136
+				}
+			},
+			"overallRank": {
+				"rank": 28,
+				"gamesBack": 3.5
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 14,
+				"gamesBack": 3.5
+			},
+			"divisionRank": {
+				"divisionName": "AFC West",
+				"rank": 3,
+				"gamesBack": 3.5
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 14
+			}
+		},
+		{
+			"team": {
+				"id": 77,
+				"city": "Los Angeles",
+				"name": "Rams",
+				"abbreviation": "LA",
+				"homeVenue": {
+					"id": 162,
+					"name": "SoFi Stadium"
+				},
+				"teamColoursHex": ["#002244", "#866d4b", "#ffffff"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "RamsNFL"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/rvmujtvvqlhlviuwafzg"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 256,
+					"passCompletions": 153,
+					"passPct": 59.8,
+					"passGrossYards": 1908,
+					"passNetYards": 1772,
+					"passAvg": 7.5,
+					"passYardsPerAtt": 6.5,
+					"passTD": 7,
+					"passTDPct": 2.7,
+					"passInt": 6,
+					"passIntPct": 2.3,
+					"passLng": 267,
+					"pass20Plus": 31,
+					"pass40Plus": 3,
+					"passSacks": 18,
+					"passSackY": 136,
+					"qbRating": 82.3
+				},
+				"rushing": {
+					"rushAttempts": 184,
+					"rushYards": 784,
+					"rushAverage": 4.3,
+					"rushTD": 8,
+					"rushLng": 123,
+					"rush1stDowns": 46,
+					"rush1stDownsPct": 25.0,
+					"rush20Plus": 4,
+					"rush40Plus": 0,
+					"rushFumbles": 1
+				},
+				"receiving": {
+					"receptions": 153,
+					"recYards": 1903,
+					"recAverage": 12.4,
+					"recTD": 7,
+					"recLng": 267,
+					"rec1stDowns": 90,
+					"rec20Plus": 31,
+					"rec40Plus": 3,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 267,
+					"tackleTotal": 458,
+					"tackleAst": 191,
+					"sacks": 12,
+					"sackYds": 85,
+					"tacklesForLoss": 15
+				},
+				"interceptions": {
+					"interceptions": 3,
+					"intTD": 0,
+					"intYds": 0,
+					"intAverage": 0.0,
+					"intLng": 0,
+					"passesDefended": 31,
+					"stuffs": 153,
+					"stuffYds": 144,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 3,
+					"fumLost": 1,
+					"fumForced": 4,
+					"fumOwnRec": 2,
+					"fumOppRec": 2,
+					"fumRecYds": 0,
+					"fumTotalRec": 4,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 4,
+					"krYds": 56,
+					"krAvg": 14.0,
+					"krLng": 56,
+					"krTD": 0,
+					"kr20Plus": 1,
+					"kr40Plus": 0,
+					"krFC": 4,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 10,
+					"prYds": 66,
+					"prAvg": 6.6,
+					"prLng": 68,
+					"prTD": 0,
+					"pr20Plus": 1,
+					"pr40Plus": 0,
+					"prFC": 9,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 1,
+					"fgMade": 17,
+					"fgAtt": 23,
+					"fgPct": 73.9,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 3,
+					"fgAtt20_29": 3,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 4,
+					"fgAtt30_39": 4,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 7,
+					"fgAtt40_49": 9,
+					"fg40_49Pct": 77.8,
+					"fgMade50Plus": 3,
+					"fgAtt50Plus": 7,
+					"fg50PlusPct": 42.9,
+					"fgLng": 282
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 12,
+					"xpAtt": 13,
+					"xpPct": 92.3,
+					"fgAndXpPts": 63
+				},
+				"kickoffs": {
+					"kickoffs": 37,
+					"koYds": 2331,
+					"koOOB": 0,
+					"koAvg": 63.0,
+					"koTB": 33,
+					"koRet": 4,
+					"koRetYds": 65,
+					"koRetAvgYds": 16.2,
+					"koTD": 0,
+					"koOS": 1,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 24,
+					"puntYds": 1191,
+					"puntNetYds": 1037,
+					"puntLng": 408,
+					"puntAvg": 49.6,
+					"puntNetAvg": 43.2,
+					"puntBlk": 0,
+					"puntOOB": 3,
+					"puntDown": 0,
+					"puntIn20": 10,
+					"puntIn20Pct": 41.7,
+					"puntTB": 2,
+					"puntTBPct": 8.3,
+					"puntFC": 6,
+					"puntRet": 13,
+					"puntRetYds": 154,
+					"puntRetAvg": 11.8
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 150,
+					"firstDownsPass": 90,
+					"firstDownsRush": 46,
+					"firstDownsPenalty": 14,
+					"thirdDowns": 44,
+					"thirdDownsAtt": 99,
+					"thirdDownsPct": 44.4,
+					"fourthDowns": 6,
+					"fourthDownsAtt": 8,
+					"fourthDownsPct": 75.0,
+					"penalties": 41,
+					"penaltyYds": 368,
+					"offensePlays": 458,
+					"offenseYds": 2556,
+					"offenseAvgYds": 5.6,
+					"totalTD": 15
+				},
+				"standings": {
+					"wins": 3,
+					"losses": 4,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.429,
+					"pointsFor": 155,
+					"pointsAgainst": 141,
+					"pointDifferential": 14
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 1,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 1,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 411,
+					"defenseSnaps": 404,
+					"specialTeamSnaps": 161
+				}
+			},
+			"overallRank": {
+				"rank": 21,
+				"gamesBack": 3.0
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 9,
+				"gamesBack": 3.0
+			},
+			"divisionRank": {
+				"divisionName": "NFC West",
+				"rank": 3,
+				"gamesBack": 2.0
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 9
+			}
+		},
+		{
+			"team": {
+				"id": 49,
+				"city": "Miami",
+				"name": "Dolphins",
+				"abbreviation": "MIA",
+				"homeVenue": {
+					"id": 59,
+					"name": "Hard Rock Stadium"
+				},
+				"teamColoursHex": ["#008e97", "#fc4c02", "#005778"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "MiamiDolphins"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/lits6p8ycthy9to70bnt"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 236,
+					"passCompletions": 169,
+					"passPct": 71.6,
+					"passGrossYards": 2159,
+					"passNetYards": 2100,
+					"passAvg": 9.1,
+					"passYardsPerAtt": 8.5,
+					"passTD": 16,
+					"passTDPct": 6.8,
+					"passInt": 7,
+					"passIntPct": 3.0,
+					"passLng": 315,
+					"pass20Plus": 28,
+					"pass40Plus": 7,
+					"passSacks": 10,
+					"passSackY": 59,
+					"qbRating": 110.1
+				},
+				"rushing": {
+					"rushAttempts": 180,
+					"rushYards": 1136,
+					"rushAverage": 6.3,
+					"rushTD": 15,
+					"rushLng": 323,
+					"rush1stDowns": 52,
+					"rush1stDownsPct": 28.9,
+					"rush20Plus": 7,
+					"rush40Plus": 7,
+					"rushFumbles": 7
+				},
+				"receiving": {
+					"receptions": 169,
+					"recYards": 2222,
+					"recAverage": 13.1,
+					"recTD": 16,
+					"recLng": 315,
+					"rec1stDowns": 108,
+					"rec20Plus": 28,
+					"rec40Plus": 7,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 333,
+					"tackleTotal": 508,
+					"tackleAst": 175,
+					"sacks": 24,
+					"sackYds": 164,
+					"tacklesForLoss": 20
+				},
+				"interceptions": {
+					"interceptions": 3,
+					"intTD": 1,
+					"intYds": 27,
+					"intAverage": 9.0,
+					"intLng": 27,
+					"passesDefended": 38,
+					"stuffs": 144,
+					"stuffYds": 219,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 12,
+					"fumLost": 3,
+					"fumForced": 5,
+					"fumOwnRec": 8,
+					"fumOppRec": 4,
+					"fumRecYds": 6,
+					"fumTotalRec": 12,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 9,
+					"krYds": 221,
+					"krAvg": 24.6,
+					"krLng": 85,
+					"krTD": 0,
+					"kr20Plus": 9,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 8,
+					"prYds": 73,
+					"prAvg": 9.1,
+					"prLng": 96,
+					"prTD": 0,
+					"pr20Plus": 2,
+					"pr40Plus": 0,
+					"prFC": 12,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 1,
+					"fgMade": 6,
+					"fgAtt": 8,
+					"fgPct": 75.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 2,
+					"fgAtt20_29": 2,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 0,
+					"fgAtt30_39": 0,
+					"fg30_39Pct": 0.0,
+					"fgMade40_49": 4,
+					"fgAtt40_49": 5,
+					"fg40_49Pct": 80.0,
+					"fgMade50Plus": 0,
+					"fgAtt50Plus": 1,
+					"fg50PlusPct": 0.0,
+					"fgLng": 148
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 30,
+					"xpAtt": 31,
+					"xpPct": 96.8,
+					"fgAndXpPts": 48
+				},
+				"kickoffs": {
+					"kickoffs": 43,
+					"koYds": 2804,
+					"koOOB": 0,
+					"koAvg": 65.2,
+					"koTB": 35,
+					"koRet": 8,
+					"koRetYds": 260,
+					"koRetAvgYds": 32.5,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 17,
+					"puntYds": 766,
+					"puntNetYds": 730,
+					"puntLng": 356,
+					"puntAvg": 45.1,
+					"puntNetAvg": 42.9,
+					"puntBlk": 0,
+					"puntOOB": 4,
+					"puntDown": 1,
+					"puntIn20": 3,
+					"puntIn20Pct": 17.6,
+					"puntTB": 1,
+					"puntTBPct": 5.9,
+					"puntFC": 6,
+					"puntRet": 5,
+					"puntRetYds": 36,
+					"puntRetAvg": 7.2
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 159,
+					"firstDownsPass": 103,
+					"firstDownsRush": 50,
+					"firstDownsPenalty": 6,
+					"thirdDowns": 35,
+					"thirdDownsAtt": 75,
+					"thirdDownsPct": 46.7,
+					"fourthDowns": 2,
+					"fourthDownsAtt": 9,
+					"fourthDownsPct": 22.2,
+					"penalties": 45,
+					"penaltyYds": 375,
+					"offensePlays": 422,
+					"offenseYds": 3236,
+					"offenseAvgYds": 7.7,
+					"totalTD": 32
+				},
+				"standings": {
+					"wins": 5,
+					"losses": 2,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.714,
+					"pointsFor": 240,
+					"pointsAgainst": 187,
+					"pointDifferential": 53
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 1,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 389,
+					"defenseSnaps": 416,
+					"specialTeamSnaps": 176
+				}
+			},
+			"overallRank": {
+				"rank": 7,
+				"gamesBack": 1.0
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 4,
+				"gamesBack": 1.0
+			},
+			"divisionRank": {
+				"divisionName": "AFC East",
+				"rank": 1,
+				"gamesBack": 0.0
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 4
+			}
+		},
+		{
+			"team": {
+				"id": 63,
+				"city": "Minnesota",
+				"name": "Vikings",
+				"abbreviation": "MIN",
+				"homeVenue": {
+					"id": 141,
+					"name": "US Bank Stadium"
+				},
+				"teamColoursHex": ["#4f2683", "#ffc62f"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Vikings"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/teguylrnqqmfcwxvcmmz"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 280,
+					"passCompletions": 193,
+					"passPct": 68.9,
+					"passGrossYards": 2057,
+					"passNetYards": 1960,
+					"passAvg": 7.3,
+					"passYardsPerAtt": 6.6,
+					"passTD": 16,
+					"passTDPct": 5.7,
+					"passInt": 5,
+					"passIntPct": 1.8,
+					"passLng": 294,
+					"pass20Plus": 28,
+					"pass40Plus": 4,
+					"passSacks": 15,
+					"passSackY": 97,
+					"qbRating": 101.7
+				},
+				"rushing": {
+					"rushAttempts": 134,
+					"rushYards": 524,
+					"rushAverage": 3.9,
+					"rushTD": 0,
+					"rushLng": 84,
+					"rush1stDowns": 22,
+					"rush1stDownsPct": 16.4,
+					"rush20Plus": 0,
+					"rush40Plus": 0,
+					"rushFumbles": 4
+				},
+				"receiving": {
+					"receptions": 193,
+					"recYards": 2057,
+					"recAverage": 10.7,
+					"recTD": 16,
+					"recLng": 294,
+					"rec1stDowns": 100,
+					"rec20Plus": 29,
+					"rec40Plus": 4,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 315,
+					"tackleTotal": 523,
+					"tackleAst": 208,
+					"sacks": 19,
+					"sackYds": 135,
+					"tacklesForLoss": 18
+				},
+				"interceptions": {
+					"interceptions": 5,
+					"intTD": 0,
+					"intYds": 46,
+					"intAverage": 9.2,
+					"intLng": 39,
+					"passesDefended": 32,
+					"stuffs": 127,
+					"stuffYds": 174,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 13,
+					"fumLost": 9,
+					"fumForced": 10,
+					"fumOwnRec": 3,
+					"fumOppRec": 4,
+					"fumRecYds": 92,
+					"fumTotalRec": 7,
+					"fumTD": 2
+				},
+				"kickoffReturns": {
+					"krRet": 5,
+					"krYds": 111,
+					"krAvg": 22.2,
+					"krLng": 76,
+					"krTD": 0,
+					"kr20Plus": 3,
+					"kr40Plus": 0,
+					"krFC": 1,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 14,
+					"prYds": 85,
+					"prAvg": 6.1,
+					"prLng": 69,
+					"prTD": 0,
+					"pr20Plus": 1,
+					"pr40Plus": 0,
+					"prFC": 5,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 9,
+					"fgAtt": 11,
+					"fgPct": 81.8,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 5,
+					"fgAtt20_29": 5,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 0,
+					"fgAtt30_39": 0,
+					"fg30_39Pct": 0.0,
+					"fgMade40_49": 1,
+					"fgAtt40_49": 1,
+					"fg40_49Pct": 100.0,
+					"fgMade50Plus": 3,
+					"fgAtt50Plus": 5,
+					"fg50PlusPct": 60.0,
+					"fgLng": 195
+				},
+				"extraPointAttempt": {
+					"xpBlk": 1,
+					"xpMade": 16,
+					"xpAtt": 18,
+					"xpPct": 88.9,
+					"fgAndXpPts": 43
+				},
+				"kickoffs": {
+					"kickoffs": 34,
+					"koYds": 2163,
+					"koOOB": 0,
+					"koAvg": 63.6,
+					"koTB": 26,
+					"koRet": 8,
+					"koRetYds": 225,
+					"koRetAvgYds": 28.1,
+					"koTD": 0,
+					"koOS": 1,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 22,
+					"puntYds": 1120,
+					"puntNetYds": 1023,
+					"puntLng": 388,
+					"puntAvg": 50.9,
+					"puntNetAvg": 46.5,
+					"puntBlk": 0,
+					"puntOOB": 3,
+					"puntDown": 2,
+					"puntIn20": 4,
+					"puntIn20Pct": 18.2,
+					"puntTB": 4,
+					"puntTBPct": 18.2,
+					"puntFC": 3,
+					"puntRet": 10,
+					"puntRetYds": 97,
+					"puntRetAvg": 9.7
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 140,
+					"firstDownsPass": 99,
+					"firstDownsRush": 23,
+					"firstDownsPenalty": 18,
+					"thirdDowns": 34,
+					"thirdDownsAtt": 86,
+					"thirdDownsPct": 39.5,
+					"fourthDowns": 8,
+					"fourthDownsAtt": 12,
+					"fourthDownsPct": 66.7,
+					"penalties": 35,
+					"penaltyYds": 291,
+					"offensePlays": 429,
+					"offenseYds": 2484,
+					"offenseAvgYds": 5.8,
+					"totalTD": 18
+				},
+				"standings": {
+					"wins": 3,
+					"losses": 4,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.429,
+					"pointsFor": 151,
+					"pointsAgainst": 152,
+					"pointDifferential": -1
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 381,
+					"defenseSnaps": 415,
+					"specialTeamSnaps": 154
+				}
+			},
+			"overallRank": {
+				"rank": 23,
+				"gamesBack": 3.0
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 8,
+				"gamesBack": 3.0
+			},
+			"divisionRank": {
+				"divisionName": "NFC North",
+				"rank": 2,
+				"gamesBack": 2.0
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 8
+			}
+		},
+		{
+			"team": {
+				"id": 50,
+				"city": "New England",
+				"name": "Patriots",
+				"abbreviation": "NE",
+				"homeVenue": {
+					"id": 61,
+					"name": "Gillette Stadium"
+				},
+				"teamColoursHex": ["#002244", "#c60c30", "#b0b7bc"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Patriots"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/moyfxx3dq5pio4aiftnc"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 249,
+					"passCompletions": 161,
+					"passPct": 64.7,
+					"passGrossYards": 1559,
+					"passNetYards": 1462,
+					"passAvg": 6.3,
+					"passYardsPerAtt": 5.5,
+					"passTD": 7,
+					"passTDPct": 2.8,
+					"passInt": 7,
+					"passIntPct": 2.8,
+					"passLng": 282,
+					"pass20Plus": 15,
+					"pass40Plus": 3,
+					"passSacks": 15,
+					"passSackY": 97,
+					"qbRating": 79.7
+				},
+				"rushing": {
+					"rushAttempts": 171,
+					"rushYards": 598,
+					"rushAverage": 3.5,
+					"rushTD": 4,
+					"rushLng": 95,
+					"rush1stDowns": 40,
+					"rush1stDownsPct": 23.4,
+					"rush20Plus": 1,
+					"rush40Plus": 0,
+					"rushFumbles": 1
+				},
+				"receiving": {
+					"receptions": 161,
+					"recYards": 1618,
+					"recAverage": 10.0,
+					"recTD": 7,
+					"recLng": 282,
+					"rec1stDowns": 69,
+					"rec20Plus": 15,
+					"rec40Plus": 3,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 299,
+					"tackleTotal": 469,
+					"tackleAst": 170,
+					"sacks": 13,
+					"sackYds": 95,
+					"tacklesForLoss": 14
+				},
+				"interceptions": {
+					"interceptions": 3,
+					"intTD": 0,
+					"intYds": 1,
+					"intAverage": 0.3,
+					"intLng": 1,
+					"passesDefended": 28,
+					"stuffs": 135,
+					"stuffYds": 145,
+					"kB": 1,
+					"safeties": 1
+				},
+				"fumbles": {
+					"fumbles": 7,
+					"fumLost": 5,
+					"fumForced": 5,
+					"fumOwnRec": 0,
+					"fumOppRec": 2,
+					"fumRecYds": -5,
+					"fumTotalRec": 2,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 6,
+					"krYds": 138,
+					"krAvg": 23.0,
+					"krLng": 100,
+					"krTD": 0,
+					"kr20Plus": 3,
+					"kr40Plus": 1,
+					"krFC": 1,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 14,
+					"prYds": 110,
+					"prAvg": 7.9,
+					"prLng": 94,
+					"prTD": 0,
+					"pr20Plus": 2,
+					"pr40Plus": 0,
+					"prFC": 9,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 8,
+					"fgAtt": 12,
+					"fgPct": 66.7,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 2,
+					"fgAtt20_29": 2,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 1,
+					"fgAtt30_39": 1,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 4,
+					"fgAtt40_49": 6,
+					"fg40_49Pct": 66.7,
+					"fgMade50Plus": 1,
+					"fgAtt50Plus": 3,
+					"fg50PlusPct": 33.3,
+					"fgLng": 221
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 9,
+					"xpAtt": 9,
+					"xpPct": 100.0,
+					"fgAndXpPts": 33
+				},
+				"kickoffs": {
+					"kickoffs": 27,
+					"koYds": 1673,
+					"koOOB": 0,
+					"koAvg": 62.0,
+					"koTB": 19,
+					"koRet": 7,
+					"koRetYds": 142,
+					"koRetAvgYds": 20.3,
+					"koTD": 0,
+					"koOS": 1,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 35,
+					"puntYds": 1566,
+					"puntNetYds": 1399,
+					"puntLng": 397,
+					"puntAvg": 44.7,
+					"puntNetAvg": 40.0,
+					"puntBlk": 0,
+					"puntOOB": 7,
+					"puntDown": 1,
+					"puntIn20": 17,
+					"puntIn20Pct": 48.6,
+					"puntTB": 1,
+					"puntTBPct": 2.9,
+					"puntFC": 11,
+					"puntRet": 15,
+					"puntRetYds": 167,
+					"puntRetAvg": 11.1
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 120,
+					"firstDownsPass": 69,
+					"firstDownsRush": 40,
+					"firstDownsPenalty": 11,
+					"thirdDowns": 35,
+					"thirdDownsAtt": 98,
+					"thirdDownsPct": 35.7,
+					"fourthDowns": 2,
+					"fourthDownsAtt": 10,
+					"fourthDownsPct": 20.0,
+					"penalties": 47,
+					"penaltyYds": 356,
+					"offensePlays": 435,
+					"offenseYds": 2060,
+					"offenseAvgYds": 4.7,
+					"totalTD": 11
+				},
+				"standings": {
+					"wins": 2,
+					"losses": 5,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.286,
+					"pointsFor": 101,
+					"pointsAgainst": 177,
+					"pointDifferential": -76
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 2,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 1,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 395,
+					"defenseSnaps": 404,
+					"specialTeamSnaps": 167
+				}
+			},
+			"overallRank": {
+				"rank": 31,
+				"gamesBack": 4.0
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 15,
+				"gamesBack": 4.0
+			},
+			"divisionRank": {
+				"divisionName": "AFC East",
+				"rank": 4,
+				"gamesBack": 3.0
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 15
+			}
+		},
+		{
+			"team": {
+				"id": 70,
+				"city": "New Orleans",
+				"name": "Saints",
+				"abbreviation": "NO",
+				"homeVenue": {
+					"id": 142,
+					"name": "Mercedes-Benz Superdome"
+				},
+				"teamColoursHex": ["#d3bc8d", "#101820"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Saints"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/grhjkahghjkk17v43hdx"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 275,
+					"passCompletions": 176,
+					"passPct": 64.0,
+					"passGrossYards": 1726,
+					"passNetYards": 1595,
+					"passAvg": 6.3,
+					"passYardsPerAtt": 5.4,
+					"passTD": 6,
+					"passTDPct": 2.2,
+					"passInt": 5,
+					"passIntPct": 1.8,
+					"passLng": 243,
+					"pass20Plus": 18,
+					"pass40Plus": 5,
+					"passSacks": 20,
+					"passSackY": 131,
+					"qbRating": 81.3
+				},
+				"rushing": {
+					"rushAttempts": 199,
+					"rushYards": 687,
+					"rushAverage": 3.5,
+					"rushTD": 4,
+					"rushLng": 104,
+					"rush1stDowns": 44,
+					"rush1stDownsPct": 22.1,
+					"rush20Plus": 0,
+					"rush40Plus": 0,
+					"rushFumbles": 2
+				},
+				"receiving": {
+					"receptions": 176,
+					"recYards": 1726,
+					"recAverage": 9.8,
+					"recTD": 6,
+					"recLng": 243,
+					"rec1stDowns": 80,
+					"rec20Plus": 18,
+					"rec40Plus": 5,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 248,
+					"tackleTotal": 409,
+					"tackleAst": 161,
+					"sacks": 13,
+					"sackYds": 97,
+					"tacklesForLoss": 12
+				},
+				"interceptions": {
+					"interceptions": 8,
+					"intTD": 1,
+					"intYds": 42,
+					"intAverage": 5.2,
+					"intLng": 42,
+					"passesDefended": 46,
+					"stuffs": 158,
+					"stuffYds": 155,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 6,
+					"fumLost": 4,
+					"fumForced": 2,
+					"fumOwnRec": 2,
+					"fumOppRec": 4,
+					"fumRecYds": 0,
+					"fumTotalRec": 6,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 13,
+					"krYds": 265,
+					"krAvg": 20.4,
+					"krLng": 128,
+					"krTD": 0,
+					"kr20Plus": 6,
+					"kr40Plus": 0,
+					"krFC": 1,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 9,
+					"prYds": 165,
+					"prAvg": 18.3,
+					"prLng": 160,
+					"prTD": 1,
+					"pr20Plus": 3,
+					"pr40Plus": 1,
+					"prFC": 15,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 16,
+					"fgAtt": 20,
+					"fgPct": 80.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 5,
+					"fgAtt20_29": 6,
+					"fg20_29Pct": 83.3,
+					"fgMade30_39": 4,
+					"fgAtt30_39": 4,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 4,
+					"fgAtt40_49": 5,
+					"fg40_49Pct": 80.0,
+					"fgMade50Plus": 3,
+					"fgAtt50Plus": 5,
+					"fg50PlusPct": 60.0,
+					"fgLng": 293
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 11,
+					"xpAtt": 11,
+					"xpPct": 100.0,
+					"fgAndXpPts": 59
+				},
+				"kickoffs": {
+					"kickoffs": 35,
+					"koYds": 2286,
+					"koOOB": 0,
+					"koAvg": 65.3,
+					"koTB": 31,
+					"koRet": 4,
+					"koRetYds": 86,
+					"koRetAvgYds": 21.5,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 35,
+					"puntYds": 1505,
+					"puntNetYds": 1425,
+					"puntLng": 362,
+					"puntAvg": 43.0,
+					"puntNetAvg": 40.7,
+					"puntBlk": 0,
+					"puntOOB": 5,
+					"puntDown": 4,
+					"puntIn20": 14,
+					"puntIn20Pct": 40.0,
+					"puntTB": 2,
+					"puntTBPct": 5.7,
+					"puntFC": 9,
+					"puntRet": 13,
+					"puntRetYds": 80,
+					"puntRetAvg": 6.2
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 135,
+					"firstDownsPass": 80,
+					"firstDownsRush": 44,
+					"firstDownsPenalty": 11,
+					"thirdDowns": 37,
+					"thirdDownsAtt": 110,
+					"thirdDownsPct": 33.6,
+					"fourthDowns": 6,
+					"fourthDownsAtt": 11,
+					"fourthDownsPct": 54.5,
+					"penalties": 46,
+					"penaltyYds": 440,
+					"offensePlays": 494,
+					"offenseYds": 2282,
+					"offenseAvgYds": 4.6,
+					"totalTD": 12
+				},
+				"standings": {
+					"wins": 3,
+					"losses": 4,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.429,
+					"pointsFor": 133,
+					"pointsAgainst": 127,
+					"pointDifferential": 6
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 1,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 1,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 512,
+					"defenseSnaps": 446,
+					"specialTeamSnaps": 219
+				}
+			},
+			"overallRank": {
+				"rank": 26,
+				"gamesBack": 3.0
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 11,
+				"gamesBack": 3.0
+			},
+			"divisionRank": {
+				"divisionName": "NFC South",
+				"rank": 3,
+				"gamesBack": 1.0
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 10
+			}
+		},
+		{
+			"team": {
+				"id": 53,
+				"city": "New York",
+				"name": "Giants",
+				"abbreviation": "NYG",
+				"homeVenue": {
+					"id": 63,
+					"name": "MetLife Stadium"
+				},
+				"teamColoursHex": ["#0b2265", "#a71930", "#a5acaf"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Ginats"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/t6mhdmgizi6qhndh8b9p"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 231,
+					"passCompletions": 157,
+					"passPct": 68.0,
+					"passGrossYards": 1455,
+					"passNetYards": 1250,
+					"passAvg": 6.3,
+					"passYardsPerAtt": 4.7,
+					"passTD": 4,
+					"passTDPct": 1.7,
+					"passInt": 6,
+					"passIntPct": 2.6,
+					"passLng": 227,
+					"pass20Plus": 19,
+					"pass40Plus": 2,
+					"passSacks": 37,
+					"passSackY": 205,
+					"qbRating": 79.9
+				},
+				"rushing": {
+					"rushAttempts": 190,
+					"rushYards": 699,
+					"rushAverage": 3.7,
+					"rushTD": 3,
+					"rushLng": 124,
+					"rush1stDowns": 38,
+					"rush1stDownsPct": 20.0,
+					"rush20Plus": 2,
+					"rush40Plus": 0,
+					"rushFumbles": 4
+				},
+				"receiving": {
+					"receptions": 157,
+					"recYards": 1455,
+					"recAverage": 9.3,
+					"recTD": 4,
+					"recLng": 216,
+					"rec1stDowns": 66,
+					"rec20Plus": 19,
+					"rec40Plus": 2,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 277,
+					"tackleTotal": 422,
+					"tackleAst": 145,
+					"sacks": 11,
+					"sackYds": 81,
+					"tacklesForLoss": 20
+				},
+				"interceptions": {
+					"interceptions": 4,
+					"intTD": 1,
+					"intYds": 120,
+					"intAverage": 30.0,
+					"intLng": 113,
+					"passesDefended": 32,
+					"stuffs": 132,
+					"stuffYds": 127,
+					"kB": 1,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 13,
+					"fumLost": 4,
+					"fumForced": 4,
+					"fumOwnRec": 9,
+					"fumOppRec": 2,
+					"fumRecYds": -17,
+					"fumTotalRec": 11,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 5,
+					"krYds": 79,
+					"krAvg": 15.8,
+					"krLng": 82,
+					"krTD": 0,
+					"kr20Plus": 2,
+					"kr40Plus": 0,
+					"krFC": 1,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 10,
+					"prYds": 38,
+					"prAvg": 3.8,
+					"prLng": 39,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 9,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 1,
+					"fgMade": 10,
+					"fgAtt": 14,
+					"fgPct": 71.4,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 2,
+					"fgAtt20_29": 2,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 2,
+					"fgAtt30_39": 3,
+					"fg30_39Pct": 66.7,
+					"fgMade40_49": 3,
+					"fgAtt40_49": 5,
+					"fg40_49Pct": 60.0,
+					"fgMade50Plus": 3,
+					"fgAtt50Plus": 4,
+					"fg50PlusPct": 75.0,
+					"fgLng": 240
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 7,
+					"xpAtt": 7,
+					"xpPct": 100.0,
+					"fgAndXpPts": 37
+				},
+				"kickoffs": {
+					"kickoffs": 25,
+					"koYds": 1623,
+					"koOOB": 0,
+					"koAvg": 64.9,
+					"koTB": 21,
+					"koRet": 4,
+					"koRetYds": 112,
+					"koRetAvgYds": 28.0,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 33,
+					"puntYds": 1610,
+					"puntNetYds": 1485,
+					"puntLng": 396,
+					"puntAvg": 48.8,
+					"puntNetAvg": 45.0,
+					"puntBlk": 0,
+					"puntOOB": 1,
+					"puntDown": 3,
+					"puntIn20": 13,
+					"puntIn20Pct": 39.4,
+					"puntTB": 1,
+					"puntTBPct": 3.0,
+					"puntFC": 14,
+					"puntRet": 13,
+					"puntRetYds": 125,
+					"puntRetAvg": 9.6
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 118,
+					"firstDownsPass": 66,
+					"firstDownsRush": 38,
+					"firstDownsPenalty": 14,
+					"thirdDowns": 41,
+					"thirdDownsAtt": 108,
+					"thirdDownsPct": 38.0,
+					"fourthDowns": 8,
+					"fourthDownsAtt": 14,
+					"fourthDownsPct": 57.1,
+					"penalties": 46,
+					"penaltyYds": 377,
+					"offensePlays": 458,
+					"offenseYds": 1949,
+					"offenseAvgYds": 4.3,
+					"totalTD": 8
+				},
+				"standings": {
+					"wins": 2,
+					"losses": 5,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.286,
+					"pointsFor": 85,
+					"pointsAgainst": 174,
+					"pointDifferential": -89
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 1,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 412,
+					"defenseSnaps": 376,
+					"specialTeamSnaps": 150
+				}
+			},
+			"overallRank": {
+				"rank": 33,
+				"gamesBack": 4.0
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 13,
+				"gamesBack": 4.0
+			},
+			"divisionRank": {
+				"divisionName": "NFC East",
+				"rank": 4,
+				"gamesBack": 4.0
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 13
+			}
+		},
+		{
+			"team": {
+				"id": 51,
+				"city": "New York",
+				"name": "Jets",
+				"abbreviation": "NYJ",
+				"homeVenue": {
+					"id": 63,
+					"name": "MetLife Stadium"
+				},
+				"teamColoursHex": ["#125740", "#000000", "#ffffff"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "nyjets"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/ekijosiae96gektbo4iw"
+			},
+			"stats": {
+				"gamesPlayed": 6,
+				"passing": {
+					"passAttempts": 183,
+					"passCompletions": 110,
+					"passPct": 60.1,
+					"passGrossYards": 1097,
+					"passNetYards": 957,
+					"passAvg": 6.0,
+					"passYardsPerAtt": 4.7,
+					"passTD": 4,
+					"passTDPct": 2.2,
+					"passInt": 5,
+					"passIntPct": 2.7,
+					"passLng": 230,
+					"pass20Plus": 13,
+					"pass40Plus": 1,
+					"passSacks": 20,
+					"passSackY": 140,
+					"qbRating": 73.1
+				},
+				"rushing": {
+					"rushAttempts": 135,
+					"rushYards": 705,
+					"rushAverage": 5.2,
+					"rushTD": 3,
+					"rushLng": 239,
+					"rush1stDowns": 31,
+					"rush1stDownsPct": 23.0,
+					"rush20Plus": 1,
+					"rush40Plus": 3,
+					"rushFumbles": 5
+				},
+				"receiving": {
+					"receptions": 110,
+					"recYards": 1097,
+					"recAverage": 10.0,
+					"recTD": 4,
+					"recLng": 230,
+					"rec1stDowns": 50,
+					"rec20Plus": 13,
+					"rec40Plus": 1,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 285,
+					"tackleTotal": 401,
+					"tackleAst": 116,
+					"sacks": 13,
+					"sackYds": 76,
+					"tacklesForLoss": 16
+				},
+				"interceptions": {
+					"interceptions": 8,
+					"intTD": 0,
+					"intYds": 58,
+					"intAverage": 7.2,
+					"intLng": 46,
+					"passesDefended": 33,
+					"stuffs": 134,
+					"stuffYds": 137,
+					"kB": 0,
+					"safeties": 2
+				},
+				"fumbles": {
+					"fumbles": 9,
+					"fumLost": 3,
+					"fumForced": 5,
+					"fumOwnRec": 4,
+					"fumOppRec": 5,
+					"fumRecYds": 35,
+					"fumTotalRec": 9,
+					"fumTD": 1
+				},
+				"kickoffReturns": {
+					"krRet": 6,
+					"krYds": 143,
+					"krAvg": 23.8,
+					"krLng": 100,
+					"krTD": 0,
+					"kr20Plus": 5,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 10,
+					"prYds": 137,
+					"prAvg": 13.7,
+					"prLng": 115,
+					"prTD": 1,
+					"pr20Plus": 1,
+					"pr40Plus": 1,
+					"prFC": 7,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 15,
+					"fgAtt": 16,
+					"fgPct": 93.8,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 4,
+					"fgAtt20_29": 4,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 6,
+					"fgAtt30_39": 6,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 4,
+					"fgAtt40_49": 4,
+					"fg40_49Pct": 100.0,
+					"fgMade50Plus": 1,
+					"fgAtt50Plus": 2,
+					"fg50PlusPct": 50.0,
+					"fgLng": 252
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 6,
+					"xpAtt": 6,
+					"xpPct": 100.0,
+					"fgAndXpPts": 51
+				},
+				"kickoffs": {
+					"kickoffs": 30,
+					"koYds": 1935,
+					"koOOB": 0,
+					"koAvg": 64.5,
+					"koTB": 27,
+					"koRet": 1,
+					"koRetYds": 11,
+					"koRetAvgYds": 11.0,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 29,
+					"puntYds": 1389,
+					"puntNetYds": 1327,
+					"puntLng": 327,
+					"puntAvg": 47.9,
+					"puntNetAvg": 45.8,
+					"puntBlk": 0,
+					"puntOOB": 3,
+					"puntDown": 2,
+					"puntIn20": 13,
+					"puntIn20Pct": 44.8,
+					"puntTB": 2,
+					"puntTBPct": 6.9,
+					"puntFC": 12,
+					"puntRet": 9,
+					"puntRetYds": 62,
+					"puntRetAvg": 6.9
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 90,
+					"firstDownsPass": 50,
+					"firstDownsRush": 32,
+					"firstDownsPenalty": 8,
+					"thirdDowns": 18,
+					"thirdDownsAtt": 72,
+					"thirdDownsPct": 25.0,
+					"fourthDowns": 2,
+					"fourthDownsAtt": 4,
+					"fourthDownsPct": 50.0,
+					"penalties": 35,
+					"penaltyYds": 235,
+					"offensePlays": 338,
+					"offenseYds": 1662,
+					"offenseAvgYds": 4.9,
+					"totalTD": 9
+				},
+				"standings": {
+					"wins": 3,
+					"losses": 3,
+					"ties": 0,
+					"otWins": 1,
+					"otLosses": 0,
+					"winPct": 0.5,
+					"pointsFor": 113,
+					"pointsAgainst": 119,
+					"pointDifferential": -6
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 2,
+					"twoPtMade": 2,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 1,
+					"twoPtRushAtt": 1,
+					"twoPtRushMade": 1
+				},
+				"snapCounts": {
+					"offenseSnaps": 353,
+					"defenseSnaps": 431,
+					"specialTeamSnaps": 165
+				}
+			},
+			"overallRank": {
+				"rank": 17,
+				"gamesBack": 2.5
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 9,
+				"gamesBack": 2.5
+			},
+			"divisionRank": {
+				"divisionName": "AFC East",
+				"rank": 3,
+				"gamesBack": 1.5
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 9
+			}
+		},
+		{
+			"team": {
+				"id": 54,
+				"city": "Philadelphia",
+				"name": "Eagles",
+				"abbreviation": "PHI",
+				"homeVenue": {
+					"id": 65,
+					"name": "Lincoln Financial Field"
+				},
+				"teamColoursHex": [
+					"#004c54",
+					"#a5acaf",
+					"#acc0c6",
+					"#000000",
+					"#565a5c"
+				],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Eagles"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/puhrqgj71gobgdkdo6uq"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 254,
+					"passCompletions": 169,
+					"passPct": 66.5,
+					"passGrossYards": 1821,
+					"passNetYards": 1726,
+					"passAvg": 7.2,
+					"passYardsPerAtt": 6.4,
+					"passTD": 9,
+					"passTDPct": 3.5,
+					"passInt": 8,
+					"passIntPct": 3.1,
+					"passLng": 319,
+					"pass20Plus": 24,
+					"pass40Plus": 6,
+					"passSacks": 17,
+					"passSackY": 95,
+					"qbRating": 86.1
+				},
+				"rushing": {
+					"rushAttempts": 235,
+					"rushYards": 999,
+					"rushAverage": 4.3,
+					"rushTD": 9,
+					"rushLng": 163,
+					"rush1stDowns": 79,
+					"rush1stDownsPct": 33.6,
+					"rush20Plus": 4,
+					"rush40Plus": 1,
+					"rushFumbles": 2
+				},
+				"receiving": {
+					"receptions": 169,
+					"recYards": 1851,
+					"recAverage": 11.0,
+					"recTD": 9,
+					"recLng": 319,
+					"rec1stDowns": 79,
+					"rec20Plus": 24,
+					"rec40Plus": 6,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 255,
+					"tackleTotal": 384,
+					"tackleAst": 129,
+					"sacks": 24,
+					"sackYds": 145,
+					"tacklesForLoss": 17
+				},
+				"interceptions": {
+					"interceptions": 3,
+					"intTD": 1,
+					"intYds": 86,
+					"intAverage": 28.7,
+					"intLng": 86,
+					"passesDefended": 42,
+					"stuffs": 157,
+					"stuffYds": 202,
+					"kB": 0,
+					"safeties": 1
+				},
+				"fumbles": {
+					"fumbles": 5,
+					"fumLost": 3,
+					"fumForced": 10,
+					"fumOwnRec": 2,
+					"fumOppRec": 5,
+					"fumRecYds": 9,
+					"fumTotalRec": 7,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 5,
+					"krYds": 103,
+					"krAvg": 20.6,
+					"krLng": 79,
+					"krTD": 0,
+					"kr20Plus": 2,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 14,
+					"prYds": 195,
+					"prAvg": 13.9,
+					"prLng": 134,
+					"prTD": 0,
+					"pr20Plus": 4,
+					"pr40Plus": 1,
+					"prFC": 6,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 17,
+					"fgAtt": 19,
+					"fgPct": 89.5,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 5,
+					"fgAtt20_29": 5,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 5,
+					"fgAtt30_39": 6,
+					"fg30_39Pct": 83.3,
+					"fgMade40_49": 3,
+					"fgAtt40_49": 3,
+					"fg40_49Pct": 100.0,
+					"fgMade50Plus": 4,
+					"fgAtt50Plus": 5,
+					"fg50PlusPct": 80.0,
+					"fgLng": 267
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 17,
+					"xpAtt": 18,
+					"xpPct": 94.4,
+					"fgAndXpPts": 68
+				},
+				"kickoffs": {
+					"kickoffs": 39,
+					"koYds": 2522,
+					"koOOB": 0,
+					"koAvg": 64.7,
+					"koTB": 32,
+					"koRet": 7,
+					"koRetYds": 196,
+					"koRetAvgYds": 28.0,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 16,
+					"puntYds": 686,
+					"puntNetYds": 616,
+					"puntLng": 326,
+					"puntAvg": 42.9,
+					"puntNetAvg": 38.5,
+					"puntBlk": 0,
+					"puntOOB": 0,
+					"puntDown": 3,
+					"puntIn20": 6,
+					"puntIn20Pct": 37.5,
+					"puntTB": 0,
+					"puntTBPct": 0.0,
+					"puntFC": 6,
+					"puntRet": 7,
+					"puntRetYds": 70,
+					"puntRetAvg": 10.0
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 169,
+					"firstDownsPass": 79,
+					"firstDownsRush": 73,
+					"firstDownsPenalty": 17,
+					"thirdDowns": 48,
+					"thirdDownsAtt": 103,
+					"thirdDownsPct": 46.6,
+					"fourthDowns": 16,
+					"fourthDownsAtt": 20,
+					"fourthDownsPct": 80.0,
+					"penalties": 34,
+					"penaltyYds": 276,
+					"offensePlays": 496,
+					"offenseYds": 2725,
+					"offenseAvgYds": 5.5,
+					"totalTD": 19
+				},
+				"standings": {
+					"wins": 6,
+					"losses": 1,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.857,
+					"pointsFor": 186,
+					"pointsAgainst": 141,
+					"pointDifferential": 45
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 1,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 1,
+					"twoPtRushMade": 1
+				},
+				"snapCounts": {
+					"offenseSnaps": 443,
+					"defenseSnaps": 384,
+					"specialTeamSnaps": 151
+				}
+			},
+			"overallRank": {
+				"rank": 2,
+				"gamesBack": 0.0
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 1,
+				"gamesBack": 0.0
+			},
+			"divisionRank": {
+				"divisionName": "NFC East",
+				"rank": 1,
+				"gamesBack": 0.0
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 1
+			}
+		},
+		{
+			"team": {
+				"id": 59,
+				"city": "Pittsburgh",
+				"name": "Steelers",
+				"abbreviation": "PIT",
+				"homeVenue": {
+					"id": 66,
+					"name": "Heinz Field"
+				},
+				"teamColoursHex": [
+					"#ffb612",
+					"#101820",
+					"#003087",
+					"#c60c30",
+					"#a5acaf"
+				],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "steelers"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/xujg9t3t4u5nmjgr54wx"
+			},
+			"stats": {
+				"gamesPlayed": 6,
+				"passing": {
+					"passAttempts": 189,
+					"passCompletions": 115,
+					"passPct": 60.8,
+					"passGrossYards": 1275,
+					"passNetYards": 1153,
+					"passAvg": 6.7,
+					"passYardsPerAtt": 5.6,
+					"passTD": 5,
+					"passTDPct": 2.6,
+					"passInt": 4,
+					"passIntPct": 2.1,
+					"passLng": 286,
+					"pass20Plus": 18,
+					"pass40Plus": 3,
+					"passSacks": 16,
+					"passSackY": 122,
+					"qbRating": 80.9
+				},
+				"rushing": {
+					"rushAttempts": 146,
+					"rushYards": 488,
+					"rushAverage": 3.3,
+					"rushTD": 3,
+					"rushLng": 114,
+					"rush1stDowns": 31,
+					"rush1stDownsPct": 21.2,
+					"rush20Plus": 3,
+					"rush40Plus": 0,
+					"rushFumbles": 2
+				},
+				"receiving": {
+					"receptions": 115,
+					"recYards": 1286,
+					"recAverage": 11.2,
+					"recTD": 5,
+					"recLng": 286,
+					"rec1stDowns": 50,
+					"rec20Plus": 18,
+					"rec40Plus": 3,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 275,
+					"tackleTotal": 412,
+					"tackleAst": 137,
+					"sacks": 19,
+					"sackYds": 115,
+					"tacklesForLoss": 16
+				},
+				"interceptions": {
+					"interceptions": 6,
+					"intTD": 1,
+					"intYds": 54,
+					"intAverage": 9.0,
+					"intLng": 54,
+					"passesDefended": 43,
+					"stuffs": 147,
+					"stuffYds": 153,
+					"kB": 0,
+					"safeties": 1
+				},
+				"fumbles": {
+					"fumbles": 5,
+					"fumLost": 2,
+					"fumForced": 11,
+					"fumOwnRec": 2,
+					"fumOppRec": 6,
+					"fumRecYds": 35,
+					"fumTotalRec": 8,
+					"fumTD": 1
+				},
+				"kickoffReturns": {
+					"krRet": 10,
+					"krYds": 218,
+					"krAvg": 21.8,
+					"krLng": 100,
+					"krTD": 0,
+					"kr20Plus": 7,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 10,
+					"prYds": 52,
+					"prAvg": 5.2,
+					"prLng": 52,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 4,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 11,
+					"fgAtt": 11,
+					"fgPct": 100.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 2,
+					"fgAtt20_29": 2,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 1,
+					"fgAtt30_39": 1,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 4,
+					"fgAtt40_49": 4,
+					"fg40_49Pct": 100.0,
+					"fgMade50Plus": 4,
+					"fgAtt50Plus": 4,
+					"fg50PlusPct": 100.0,
+					"fgLng": 240
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 8,
+					"xpAtt": 8,
+					"xpPct": 100.0,
+					"fgAndXpPts": 41
+				},
+				"kickoffs": {
+					"kickoffs": 27,
+					"koYds": 1745,
+					"koOOB": 0,
+					"koAvg": 64.6,
+					"koTB": 25,
+					"koRet": 2,
+					"koRetYds": 47,
+					"koRetAvgYds": 23.5,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 35,
+					"puntYds": 1610,
+					"puntNetYds": 1498,
+					"puntLng": 335,
+					"puntAvg": 46.0,
+					"puntNetAvg": 42.8,
+					"puntBlk": 0,
+					"puntOOB": 5,
+					"puntDown": 5,
+					"puntIn20": 14,
+					"puntIn20Pct": 40.0,
+					"puntTB": 4,
+					"puntTBPct": 11.4,
+					"puntFC": 9,
+					"puntRet": 10,
+					"puntRetYds": 112,
+					"puntRetAvg": 11.2
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 87,
+					"firstDownsPass": 49,
+					"firstDownsRush": 32,
+					"firstDownsPenalty": 6,
+					"thirdDowns": 32,
+					"thirdDownsAtt": 86,
+					"thirdDownsPct": 37.2,
+					"fourthDowns": 2,
+					"fourthDownsAtt": 5,
+					"fourthDownsPct": 40.0,
+					"penalties": 30,
+					"penaltyYds": 260,
+					"offensePlays": 351,
+					"offenseYds": 1641,
+					"offenseAvgYds": 4.7,
+					"totalTD": 10
+				},
+				"standings": {
+					"wins": 4,
+					"losses": 2,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.667,
+					"pointsFor": 103,
+					"pointsAgainst": 127,
+					"pointDifferential": -24
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 2,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 1,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 304,
+					"defenseSnaps": 368,
+					"specialTeamSnaps": 136
+				}
+			},
+			"overallRank": {
+				"rank": 10,
+				"gamesBack": 1.5
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 6,
+				"gamesBack": 1.5
+			},
+			"divisionRank": {
+				"divisionName": "AFC North",
+				"rank": 2,
+				"gamesBack": 0.5
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 6
+			}
+		},
+		{
+			"team": {
+				"id": 78,
+				"city": "San Francisco",
+				"name": "49ers",
+				"abbreviation": "SF",
+				"homeVenue": {
+					"id": 68,
+					"name": "Levi's Stadium"
+				},
+				"teamColoursHex": ["#aa0000", "#b3995d"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "49ers"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/dxibuyxbk0b9ua5ih9hn"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 194,
+					"passCompletions": 132,
+					"passPct": 68.0,
+					"passGrossYards": 1669,
+					"passNetYards": 1598,
+					"passAvg": 8.6,
+					"passYardsPerAtt": 7.8,
+					"passTD": 11,
+					"passTDPct": 5.7,
+					"passInt": 3,
+					"passIntPct": 1.5,
+					"passLng": 246,
+					"pass20Plus": 23,
+					"pass40Plus": 3,
+					"passSacks": 12,
+					"passSackY": 71,
+					"qbRating": 107.1
+				},
+				"rushing": {
+					"rushAttempts": 220,
+					"rushYards": 955,
+					"rushAverage": 4.3,
+					"rushTD": 13,
+					"rushLng": 222,
+					"rush1stDowns": 59,
+					"rush1stDownsPct": 26.8,
+					"rush20Plus": 2,
+					"rush40Plus": 2,
+					"rushFumbles": 4
+				},
+				"receiving": {
+					"receptions": 132,
+					"recYards": 1669,
+					"recAverage": 12.6,
+					"recTD": 11,
+					"recLng": 246,
+					"rec1stDowns": 83,
+					"rec20Plus": 23,
+					"rec40Plus": 3,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 298,
+					"tackleTotal": 434,
+					"tackleAst": 136,
+					"sacks": 15,
+					"sackYds": 107,
+					"tacklesForLoss": 18
+				},
+				"interceptions": {
+					"interceptions": 11,
+					"intTD": 0,
+					"intYds": 178,
+					"intAverage": 16.2,
+					"intLng": 151,
+					"passesDefended": 37,
+					"stuffs": 153,
+					"stuffYds": 158,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 9,
+					"fumLost": 3,
+					"fumForced": 2,
+					"fumOwnRec": 5,
+					"fumOppRec": 1,
+					"fumRecYds": -1,
+					"fumTotalRec": 6,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 4,
+					"krYds": 97,
+					"krAvg": 24.2,
+					"krLng": 80,
+					"krTD": 0,
+					"kr20Plus": 2,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 15,
+					"prYds": 152,
+					"prAvg": 10.1,
+					"prLng": 86,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 6,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 11,
+					"fgAtt": 14,
+					"fgPct": 78.6,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 5,
+					"fgAtt20_29": 5,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 2,
+					"fgAtt30_39": 2,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 2,
+					"fgAtt40_49": 4,
+					"fg40_49Pct": 50.0,
+					"fgMade50Plus": 2,
+					"fgAtt50Plus": 3,
+					"fg50PlusPct": 66.7,
+					"fgLng": 214
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 24,
+					"xpAtt": 24,
+					"xpPct": 100.0,
+					"fgAndXpPts": 57
+				},
+				"kickoffs": {
+					"kickoffs": 41,
+					"koYds": 2595,
+					"koOOB": 2,
+					"koAvg": 63.3,
+					"koTB": 24,
+					"koRet": 14,
+					"koRetYds": 291,
+					"koRetAvgYds": 20.8,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 22,
+					"puntYds": 1067,
+					"puntNetYds": 993,
+					"puntLng": 395,
+					"puntAvg": 48.5,
+					"puntNetAvg": 45.1,
+					"puntBlk": 0,
+					"puntOOB": 2,
+					"puntDown": 4,
+					"puntIn20": 12,
+					"puntIn20Pct": 54.5,
+					"puntTB": 1,
+					"puntTBPct": 4.5,
+					"puntFC": 5,
+					"puntRet": 10,
+					"puntRetYds": 74,
+					"puntRetAvg": 7.4
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 158,
+					"firstDownsPass": 83,
+					"firstDownsRush": 58,
+					"firstDownsPenalty": 17,
+					"thirdDowns": 34,
+					"thirdDownsAtt": 76,
+					"thirdDownsPct": 44.7,
+					"fourthDowns": 3,
+					"fourthDownsAtt": 4,
+					"fourthDownsPct": 75.0,
+					"penalties": 50,
+					"penaltyYds": 421,
+					"offensePlays": 426,
+					"offenseYds": 2553,
+					"offenseAvgYds": 6.0,
+					"totalTD": 24
+				},
+				"standings": {
+					"wins": 5,
+					"losses": 2,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.714,
+					"pointsFor": 201,
+					"pointsAgainst": 109,
+					"pointDifferential": 92
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 396,
+					"defenseSnaps": 389,
+					"specialTeamSnaps": 162
+				}
+			},
+			"overallRank": {
+				"rank": 5,
+				"gamesBack": 1.0
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 3,
+				"gamesBack": 1.0
+			},
+			"divisionRank": {
+				"divisionName": "NFC West",
+				"rank": 1,
+				"gamesBack": 0.0
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 2
+			}
+		},
+		{
+			"team": {
+				"id": 79,
+				"city": "Seattle",
+				"name": "Seahawks",
+				"abbreviation": "SEA",
+				"homeVenue": {
+					"id": 69,
+					"name": "CenturyLink Field"
+				},
+				"teamColoursHex": ["#002244", "#69be28", "#a5acaf"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Seahawks"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/gcytzwpjdzbpwnwxincg"
+			},
+			"stats": {
+				"gamesPlayed": 6,
+				"passing": {
+					"passAttempts": 194,
+					"passCompletions": 131,
+					"passPct": 67.5,
+					"passGrossYards": 1451,
+					"passNetYards": 1342,
+					"passAvg": 7.5,
+					"passYardsPerAtt": 6.5,
+					"passTD": 7,
+					"passTDPct": 3.6,
+					"passInt": 4,
+					"passIntPct": 2.1,
+					"passLng": 213,
+					"pass20Plus": 20,
+					"pass40Plus": 1,
+					"passSacks": 13,
+					"passSackY": 109,
+					"qbRating": 93.0
+				},
+				"rushing": {
+					"rushAttempts": 156,
+					"rushYards": 636,
+					"rushAverage": 4.1,
+					"rushTD": 6,
+					"rushLng": 143,
+					"rush1stDowns": 38,
+					"rush1stDownsPct": 24.4,
+					"rush20Plus": 4,
+					"rush40Plus": 0,
+					"rushFumbles": 1
+				},
+				"receiving": {
+					"receptions": 131,
+					"recYards": 1458,
+					"recAverage": 11.1,
+					"recTD": 7,
+					"recLng": 213,
+					"rec1stDowns": 69,
+					"rec20Plus": 20,
+					"rec40Plus": 1,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 281,
+					"tackleTotal": 424,
+					"tackleAst": 143,
+					"sacks": 23,
+					"sackYds": 147,
+					"tacklesForLoss": 14
+				},
+				"interceptions": {
+					"interceptions": 4,
+					"intTD": 2,
+					"intYds": 158,
+					"intAverage": 39.5,
+					"intLng": 137,
+					"passesDefended": 36,
+					"stuffs": 143,
+					"stuffYds": 196,
+					"kB": 1,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 2,
+					"fumLost": 2,
+					"fumForced": 4,
+					"fumOwnRec": 0,
+					"fumOppRec": 3,
+					"fumRecYds": 8,
+					"fumTotalRec": 3,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 10,
+					"krYds": 247,
+					"krAvg": 24.7,
+					"krLng": 162,
+					"krTD": 0,
+					"kr20Plus": 9,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 12,
+					"prYds": 163,
+					"prAvg": 13.6,
+					"prLng": 110,
+					"prTD": 0,
+					"pr20Plus": 3,
+					"pr40Plus": 0,
+					"prFC": 6,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 13,
+					"fgAtt": 17,
+					"fgPct": 76.5,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 3,
+					"fgAtt20_29": 3,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 6,
+					"fgAtt30_39": 7,
+					"fg30_39Pct": 85.7,
+					"fgMade40_49": 3,
+					"fgAtt40_49": 4,
+					"fg40_49Pct": 75.0,
+					"fgMade50Plus": 1,
+					"fgAtt50Plus": 3,
+					"fg50PlusPct": 33.3,
+					"fgLng": 247
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 13,
+					"xpAtt": 13,
+					"xpPct": 100.0,
+					"fgAndXpPts": 52
+				},
+				"kickoffs": {
+					"kickoffs": 33,
+					"koYds": 2107,
+					"koOOB": 1,
+					"koAvg": 63.8,
+					"koTB": 24,
+					"koRet": 6,
+					"koRetYds": 119,
+					"koRetAvgYds": 19.8,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 19,
+					"puntYds": 953,
+					"puntNetYds": 923,
+					"puntLng": 346,
+					"puntAvg": 50.2,
+					"puntNetAvg": 48.6,
+					"puntBlk": 0,
+					"puntOOB": 2,
+					"puntDown": 4,
+					"puntIn20": 8,
+					"puntIn20Pct": 42.1,
+					"puntTB": 3,
+					"puntTBPct": 15.8,
+					"puntFC": 1,
+					"puntRet": 8,
+					"puntRetYds": 30,
+					"puntRetAvg": 3.8
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 123,
+					"firstDownsPass": 69,
+					"firstDownsRush": 38,
+					"firstDownsPenalty": 16,
+					"thirdDowns": 25,
+					"thirdDownsAtt": 70,
+					"thirdDownsPct": 35.7,
+					"fourthDowns": 2,
+					"fourthDownsAtt": 6,
+					"fourthDownsPct": 33.3,
+					"penalties": 44,
+					"penaltyYds": 387,
+					"offensePlays": 363,
+					"offenseYds": 1978,
+					"offenseAvgYds": 5.4,
+					"totalTD": 15
+				},
+				"standings": {
+					"wins": 4,
+					"losses": 2,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.667,
+					"pointsFor": 144,
+					"pointsAgainst": 118,
+					"pointDifferential": 26
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 1,
+					"twoPtMade": 1,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 1,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 327,
+					"defenseSnaps": 355,
+					"specialTeamSnaps": 137
+				}
+			},
+			"overallRank": {
+				"rank": 13,
+				"gamesBack": 1.5
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 4,
+				"gamesBack": 1.5
+			},
+			"divisionRank": {
+				"divisionName": "NFC West",
+				"rank": 2,
+				"gamesBack": 0.5
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 4
+			}
+		},
+		{
+			"team": {
+				"id": 71,
+				"city": "Tampa Bay",
+				"name": "Buccaneers",
+				"abbreviation": "TB",
+				"homeVenue": {
+					"id": 71,
+					"name": "Raymond James Stadium"
+				},
+				"teamColoursHex": [
+					"#d50a0a",
+					"#ff7900",
+					"#0a0a08",
+					"#b1babf",
+					"#34302b"
+				],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Buccaneers"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/szwmxcasfizlkkfn5zwq"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 247,
+					"passCompletions": 158,
+					"passPct": 64.0,
+					"passGrossYards": 1600,
+					"passNetYards": 1543,
+					"passAvg": 6.5,
+					"passYardsPerAtt": 6.0,
+					"passTD": 10,
+					"passTDPct": 4.0,
+					"passInt": 4,
+					"passIntPct": 1.6,
+					"passLng": 261,
+					"pass20Plus": 23,
+					"pass40Plus": 3,
+					"passSacks": 11,
+					"passSackY": 57,
+					"qbRating": 89.1
+				},
+				"rushing": {
+					"rushAttempts": 170,
+					"rushYards": 545,
+					"rushAverage": 3.2,
+					"rushTD": 1,
+					"rushLng": 97,
+					"rush1stDowns": 27,
+					"rush1stDownsPct": 15.9,
+					"rush20Plus": 1,
+					"rush40Plus": 0,
+					"rushFumbles": 0
+				},
+				"receiving": {
+					"receptions": 158,
+					"recYards": 1611,
+					"recAverage": 10.2,
+					"recTD": 10,
+					"recLng": 261,
+					"rec1stDowns": 78,
+					"rec20Plus": 23,
+					"rec40Plus": 3,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 319,
+					"tackleTotal": 486,
+					"tackleAst": 167,
+					"sacks": 18,
+					"sackYds": 113,
+					"tacklesForLoss": 15
+				},
+				"interceptions": {
+					"interceptions": 7,
+					"intTD": 1,
+					"intYds": 52,
+					"intAverage": 7.4,
+					"intLng": 48,
+					"passesDefended": 33,
+					"stuffs": 143,
+					"stuffYds": 174,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 8,
+					"fumLost": 2,
+					"fumForced": 7,
+					"fumOwnRec": 5,
+					"fumOppRec": 6,
+					"fumRecYds": 7,
+					"fumTotalRec": 11,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 8,
+					"krYds": 172,
+					"krAvg": 21.5,
+					"krLng": 101,
+					"krTD": 0,
+					"kr20Plus": 5,
+					"kr40Plus": 0,
+					"krFC": 1,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 9,
+					"prYds": 46,
+					"prAvg": 5.1,
+					"prLng": 35,
+					"prTD": 0,
+					"pr20Plus": 0,
+					"pr40Plus": 0,
+					"prFC": 7,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 2,
+					"fgMade": 12,
+					"fgAtt": 14,
+					"fgPct": 85.7,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 4,
+					"fgAtt20_29": 4,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 5,
+					"fgAtt30_39": 5,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 0,
+					"fgAtt40_49": 1,
+					"fg40_49Pct": 0.0,
+					"fgMade50Plus": 3,
+					"fgAtt50Plus": 4,
+					"fg50PlusPct": 75.0,
+					"fgLng": 296
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 9,
+					"xpAtt": 9,
+					"xpPct": 100.0,
+					"fgAndXpPts": 45
+				},
+				"kickoffs": {
+					"kickoffs": 31,
+					"koYds": 1980,
+					"koOOB": 0,
+					"koAvg": 63.9,
+					"koTB": 21,
+					"koRet": 9,
+					"koRetYds": 173,
+					"koRetAvgYds": 19.2,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 33,
+					"puntYds": 1742,
+					"puntNetYds": 1474,
+					"puntLng": 453,
+					"puntAvg": 52.8,
+					"puntNetAvg": 44.7,
+					"puntBlk": 0,
+					"puntOOB": 4,
+					"puntDown": 4,
+					"puntIn20": 15,
+					"puntIn20Pct": 45.5,
+					"puntTB": 4,
+					"puntTBPct": 12.1,
+					"puntFC": 4,
+					"puntRet": 17,
+					"puntRetYds": 268,
+					"puntRetAvg": 15.8
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 119,
+					"firstDownsPass": 77,
+					"firstDownsRush": 25,
+					"firstDownsPenalty": 17,
+					"thirdDowns": 39,
+					"thirdDownsAtt": 96,
+					"thirdDownsPct": 40.6,
+					"fourthDowns": 4,
+					"fourthDownsAtt": 6,
+					"fourthDownsPct": 66.7,
+					"penalties": 50,
+					"penaltyYds": 357,
+					"offensePlays": 428,
+					"offenseYds": 2088,
+					"offenseAvgYds": 4.9,
+					"totalTD": 12
+				},
+				"standings": {
+					"wins": 3,
+					"losses": 4,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.429,
+					"pointsFor": 121,
+					"pointsAgainst": 128,
+					"pointDifferential": -7
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 3,
+					"twoPtMade": 2,
+					"twoPtPassAtt": 3,
+					"twoPtPassMade": 2,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 313,
+					"defenseSnaps": 332,
+					"specialTeamSnaps": 126
+				}
+			},
+			"overallRank": {
+				"rank": 20,
+				"gamesBack": 3.0
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 7,
+				"gamesBack": 3.0
+			},
+			"divisionRank": {
+				"divisionName": "NFC South",
+				"rank": 2,
+				"gamesBack": 1.0
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 7
+			}
+		},
+		{
+			"team": {
+				"id": 67,
+				"city": "Tennessee",
+				"name": "Titans",
+				"abbreviation": "TEN",
+				"homeVenue": {
+					"id": 72,
+					"name": "Nissan Stadium"
+				},
+				"teamColoursHex": [
+					"#0c2340",
+					"#418fde",
+					"#c8102e",
+					"#8a8d8f",
+					"#a2aaad",
+					"#54585a"
+				],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Titans"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/pln44vuzugjgipyidsre"
+			},
+			"stats": {
+				"gamesPlayed": 6,
+				"passing": {
+					"passAttempts": 165,
+					"passCompletions": 103,
+					"passPct": 62.4,
+					"passGrossYards": 1204,
+					"passNetYards": 1039,
+					"passAvg": 7.3,
+					"passYardsPerAtt": 5.5,
+					"passTD": 3,
+					"passTDPct": 1.8,
+					"passInt": 6,
+					"passIntPct": 3.6,
+					"passLng": 277,
+					"pass20Plus": 18,
+					"pass40Plus": 5,
+					"passSacks": 23,
+					"passSackY": 165,
+					"qbRating": 75.4
+				},
+				"rushing": {
+					"rushAttempts": 145,
+					"rushYards": 662,
+					"rushAverage": 4.6,
+					"rushTD": 5,
+					"rushLng": 161,
+					"rush1stDowns": 32,
+					"rush1stDownsPct": 22.1,
+					"rush20Plus": 2,
+					"rush40Plus": 1,
+					"rushFumbles": 2
+				},
+				"receiving": {
+					"receptions": 103,
+					"recYards": 1204,
+					"recAverage": 11.7,
+					"recTD": 3,
+					"recLng": 277,
+					"rec1stDowns": 51,
+					"rec20Plus": 18,
+					"rec40Plus": 5,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 270,
+					"tackleTotal": 440,
+					"tackleAst": 170,
+					"sacks": 15,
+					"sackYds": 115,
+					"tacklesForLoss": 12
+				},
+				"interceptions": {
+					"interceptions": 2,
+					"intTD": 0,
+					"intYds": 20,
+					"intAverage": 10.0,
+					"intLng": 20,
+					"passesDefended": 17,
+					"stuffs": 109,
+					"stuffYds": 153,
+					"kB": 1,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 5,
+					"fumLost": 1,
+					"fumForced": 7,
+					"fumOwnRec": 3,
+					"fumOppRec": 3,
+					"fumRecYds": -7,
+					"fumTotalRec": 6,
+					"fumTD": 0
+				},
+				"kickoffReturns": {
+					"krRet": 3,
+					"krYds": 49,
+					"krAvg": 16.3,
+					"krLng": 49,
+					"krTD": 0,
+					"kr20Plus": 1,
+					"kr40Plus": 0,
+					"krFC": 3,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 14,
+					"prYds": 121,
+					"prAvg": 8.6,
+					"prLng": 82,
+					"prTD": 0,
+					"pr20Plus": 1,
+					"pr40Plus": 0,
+					"prFC": 4,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 0,
+					"fgMade": 16,
+					"fgAtt": 16,
+					"fgPct": 100.0,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 5,
+					"fgAtt20_29": 5,
+					"fg20_29Pct": 100.0,
+					"fgMade30_39": 5,
+					"fgAtt30_39": 5,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 3,
+					"fgAtt40_49": 3,
+					"fg40_49Pct": 100.0,
+					"fgMade50Plus": 3,
+					"fgAtt50Plus": 3,
+					"fg50PlusPct": 100.0,
+					"fgLng": 279
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 8,
+					"xpAtt": 8,
+					"xpPct": 100.0,
+					"fgAndXpPts": 56
+				},
+				"kickoffs": {
+					"kickoffs": 29,
+					"koYds": 1806,
+					"koOOB": 0,
+					"koAvg": 62.3,
+					"koTB": 16,
+					"koRet": 12,
+					"koRetYds": 245,
+					"koRetAvgYds": 20.4,
+					"koTD": 0,
+					"koOS": 1,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 23,
+					"puntYds": 1179,
+					"puntNetYds": 997,
+					"puntLng": 340,
+					"puntAvg": 51.3,
+					"puntNetAvg": 43.3,
+					"puntBlk": 0,
+					"puntOOB": 5,
+					"puntDown": 0,
+					"puntIn20": 10,
+					"puntIn20Pct": 43.5,
+					"puntTB": 3,
+					"puntTBPct": 13.0,
+					"puntFC": 2,
+					"puntRet": 12,
+					"puntRetYds": 182,
+					"puntRetAvg": 15.2
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 103,
+					"firstDownsPass": 51,
+					"firstDownsRush": 33,
+					"firstDownsPenalty": 19,
+					"thirdDowns": 24,
+					"thirdDownsAtt": 71,
+					"thirdDownsPct": 33.8,
+					"fourthDowns": 3,
+					"fourthDownsAtt": 5,
+					"fourthDownsPct": 60.0,
+					"penalties": 36,
+					"penaltyYds": 300,
+					"offensePlays": 333,
+					"offenseYds": 1701,
+					"offenseAvgYds": 5.1,
+					"totalTD": 8
+				},
+				"standings": {
+					"wins": 2,
+					"losses": 4,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.333,
+					"pointsFor": 104,
+					"pointsAgainst": 117,
+					"pointDifferential": -13
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 0,
+					"twoPtMade": 0,
+					"twoPtPassAtt": 0,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 0,
+					"twoPtRushMade": 0
+				},
+				"snapCounts": {
+					"offenseSnaps": 357,
+					"defenseSnaps": 394,
+					"specialTeamSnaps": 156
+				}
+			},
+			"overallRank": {
+				"rank": 27,
+				"gamesBack": 3.5
+			},
+			"conferenceRank": {
+				"conferenceName": "AFC",
+				"rank": 13,
+				"gamesBack": 3.5
+			},
+			"divisionRank": {
+				"divisionName": "AFC South",
+				"rank": 4,
+				"gamesBack": 2.5
+			},
+			"playoffRank": {
+				"conferenceName": "AFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 13
+			}
+		},
+		{
+			"team": {
+				"id": 55,
+				"city": "Washington",
+				"name": "Commanders",
+				"abbreviation": "WAS",
+				"homeVenue": {
+					"id": 73,
+					"name": "FedEx Field"
+				},
+				"teamColoursHex": ["#773141", "#ffb612"],
+				"socialMediaAccounts": [
+					{
+						"mediaType": "TWITTER",
+						"value": "Redskins"
+					}
+				],
+				"officialLogoImageSrc": "https://static.www.nfl.com/image/private/t_q-best/league/haxrowry8puwbrixjdmc"
+			},
+			"stats": {
+				"gamesPlayed": 7,
+				"passing": {
+					"passAttempts": 256,
+					"passCompletions": 167,
+					"passPct": 65.2,
+					"passGrossYards": 1749,
+					"passNetYards": 1482,
+					"passAvg": 6.8,
+					"passYardsPerAtt": 5.0,
+					"passTD": 9,
+					"passTDPct": 3.5,
+					"passInt": 7,
+					"passIntPct": 2.7,
+					"passLng": 236,
+					"pass20Plus": 20,
+					"pass40Plus": 1,
+					"passSacks": 40,
+					"passSackY": 267,
+					"qbRating": 85.2
+				},
+				"rushing": {
+					"rushAttempts": 143,
+					"rushYards": 603,
+					"rushAverage": 4.2,
+					"rushTD": 6,
+					"rushLng": 113,
+					"rush1stDowns": 38,
+					"rush1stDownsPct": 26.6,
+					"rush20Plus": 3,
+					"rush40Plus": 0,
+					"rushFumbles": 3
+				},
+				"receiving": {
+					"receptions": 167,
+					"recYards": 1762,
+					"recAverage": 10.6,
+					"recTD": 9,
+					"recLng": 236,
+					"rec1stDowns": 81,
+					"rec20Plus": 20,
+					"rec40Plus": 1,
+					"recFumbles": 0
+				},
+				"tackles": {
+					"tackleSolo": 301,
+					"tackleTotal": 475,
+					"tackleAst": 174,
+					"sacks": 23,
+					"sackYds": 110,
+					"tacklesForLoss": 6
+				},
+				"interceptions": {
+					"interceptions": 5,
+					"intTD": 0,
+					"intYds": 26,
+					"intAverage": 5.2,
+					"intLng": 26,
+					"passesDefended": 41,
+					"stuffs": 153,
+					"stuffYds": 172,
+					"kB": 0,
+					"safeties": 0
+				},
+				"fumbles": {
+					"fumbles": 9,
+					"fumLost": 4,
+					"fumForced": 6,
+					"fumOwnRec": 3,
+					"fumOppRec": 5,
+					"fumRecYds": 5,
+					"fumTotalRec": 8,
+					"fumTD": 1
+				},
+				"kickoffReturns": {
+					"krRet": 6,
+					"krYds": 146,
+					"krAvg": 24.3,
+					"krLng": 129,
+					"krTD": 0,
+					"kr20Plus": 4,
+					"kr40Plus": 0,
+					"krFC": 0,
+					"krFum": 0
+				},
+				"puntReturns": {
+					"prRet": 14,
+					"prYds": 147,
+					"prAvg": 10.5,
+					"prLng": 128,
+					"prTD": 0,
+					"pr20Plus": 2,
+					"pr40Plus": 1,
+					"prFC": 6,
+					"prFum": 0
+				},
+				"fieldGoals": {
+					"fgBlk": 1,
+					"fgMade": 9,
+					"fgAtt": 13,
+					"fgPct": 69.2,
+					"fgMade1_19": 0,
+					"fgAtt1_19": 0,
+					"fg1_19Pct": 0.0,
+					"fgMade20_29": 1,
+					"fgAtt20_29": 2,
+					"fg20_29Pct": 50.0,
+					"fgMade30_39": 4,
+					"fgAtt30_39": 4,
+					"fg30_39Pct": 100.0,
+					"fgMade40_49": 2,
+					"fgAtt40_49": 4,
+					"fg40_49Pct": 50.0,
+					"fgMade50Plus": 2,
+					"fgAtt50Plus": 3,
+					"fg50PlusPct": 66.7,
+					"fgLng": 248
+				},
+				"extraPointAttempt": {
+					"xpBlk": 0,
+					"xpMade": 13,
+					"xpAtt": 13,
+					"xpPct": 100.0,
+					"fgAndXpPts": 40
+				},
+				"kickoffs": {
+					"kickoffs": 29,
+					"koYds": 1885,
+					"koOOB": 0,
+					"koAvg": 65.0,
+					"koTB": 29,
+					"koRet": 0,
+					"koRetYds": 0,
+					"koRetAvgYds": 0.0,
+					"koTD": 0,
+					"koOS": 0,
+					"koOSR": 0
+				},
+				"punting": {
+					"punts": 35,
+					"puntYds": 1673,
+					"puntNetYds": 1501,
+					"puntLng": 397,
+					"puntAvg": 47.8,
+					"puntNetAvg": 42.9,
+					"puntBlk": 0,
+					"puntOOB": 0,
+					"puntDown": 5,
+					"puntIn20": 12,
+					"puntIn20Pct": 34.3,
+					"puntTB": 1,
+					"puntTBPct": 2.9,
+					"puntFC": 10,
+					"puntRet": 17,
+					"puntRetYds": 172,
+					"puntRetAvg": 10.1
+				},
+				"miscellaneous": {
+					"firstDownsTotal": 138,
+					"firstDownsPass": 80,
+					"firstDownsRush": 39,
+					"firstDownsPenalty": 19,
+					"thirdDowns": 25,
+					"thirdDownsAtt": 86,
+					"thirdDownsPct": 29.1,
+					"fourthDowns": 6,
+					"fourthDownsAtt": 9,
+					"fourthDownsPct": 66.7,
+					"penalties": 42,
+					"penaltyYds": 317,
+					"offensePlays": 439,
+					"offenseYds": 2085,
+					"offenseAvgYds": 4.7,
+					"totalTD": 16
+				},
+				"standings": {
+					"wins": 3,
+					"losses": 4,
+					"ties": 0,
+					"otWins": 0,
+					"otLosses": 0,
+					"winPct": 0.429,
+					"pointsFor": 140,
+					"pointsAgainst": 190,
+					"pointDifferential": -50
+				},
+				"twoPointAttempts": {
+					"twoPtAtt": 3,
+					"twoPtMade": 2,
+					"twoPtPassAtt": 1,
+					"twoPtPassMade": 0,
+					"twoPtRushAtt": 2,
+					"twoPtRushMade": 2
+				},
+				"snapCounts": {
+					"offenseSnaps": 397,
+					"defenseSnaps": 414,
+					"specialTeamSnaps": 165
+				}
+			},
+			"overallRank": {
+				"rank": 24,
+				"gamesBack": 3.0
+			},
+			"conferenceRank": {
+				"conferenceName": "NFC",
+				"rank": 10,
+				"gamesBack": 3.0
+			},
+			"divisionRank": {
+				"divisionName": "NFC East",
+				"rank": 3,
+				"gamesBack": 3.0
+			},
+			"playoffRank": {
+				"conferenceName": "NFC",
+				"divisionName": null,
+				"appliesTo": "CONFERENCE",
+				"rank": 11
+			}
+		}
+	],
+	"references": {
+		"teamStatReferences": [
+			{
+				"category": "Passing",
+				"fullName": "passAttempts",
+				"description": "Pass Attempts",
+				"abbreviation": "Att",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passCompletions",
+				"description": "Pass Completions",
+				"abbreviation": "Comp",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passPct",
+				"description": "Pass Percentage",
+				"abbreviation": "Pct",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passGrossYards",
+				"description": "Pass Gross Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passYardsPerAtt",
+				"description": "Pass Yards/Attempt",
+				"abbreviation": "Yards/Att",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passTD",
+				"description": "Pass Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passTDPct",
+				"description": "Pass Touchdown Percentage",
+				"abbreviation": "TD%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passInt",
+				"description": "Pass Interceptions",
+				"abbreviation": "Int",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passIntPct",
+				"description": "Pass Interception Percentage",
+				"abbreviation": "Int%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passLng",
+				"description": "Longest Pass",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "pass20Plus",
+				"description": "Pass 20+ Yards",
+				"abbreviation": "20+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "pass40Plus",
+				"description": "Pass 40+ Yards",
+				"abbreviation": "40+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passSacks",
+				"description": "Pass Sacks",
+				"abbreviation": "Sacks",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passSackY",
+				"description": "Pass Sack Yards Lost",
+				"abbreviation": "SackY",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "qBRating",
+				"description": "Quarterback Rating",
+				"abbreviation": "QBRating",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rushAttempts",
+				"description": "Rush Attempts",
+				"abbreviation": "Att",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rushYards",
+				"description": "Rush Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rushAverage",
+				"description": "Rush Average",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rushTD",
+				"description": "Rush Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rushLng",
+				"description": "Longest Rush",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rush1stDowns",
+				"description": "Rush 1st Downs",
+				"abbreviation": "1stDowns",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rush1stDownsPct",
+				"description": "Rush 1st Downs %",
+				"abbreviation": "1stDowns%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rush20Plus",
+				"description": "Rush 20+ Yards",
+				"abbreviation": "20+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rush40Plus",
+				"description": "Rush 40+ Yards",
+				"abbreviation": "40+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Rushing",
+				"fullName": "rushFumbles",
+				"description": "Rush Fumbles",
+				"abbreviation": "Fum",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "receptions",
+				"description": "Receptions",
+				"abbreviation": "Rec",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "recYards",
+				"description": "Reception Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "recAverage",
+				"description": "Reception Average",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "recTD",
+				"description": "Reception Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "recLng",
+				"description": "Longest Reception",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "rec1stDowns",
+				"description": "Reception 1st Downs",
+				"abbreviation": "1stDowns",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "rec20Plus",
+				"description": "Reception 20+ Yards",
+				"abbreviation": "20+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "rec40Plus",
+				"description": "Reception 40+ Yards",
+				"abbreviation": "40+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Receiving",
+				"fullName": "recFumbles",
+				"description": "Reception Fumbles",
+				"abbreviation": "Fumbles",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Tackles",
+				"fullName": "tackleSolo",
+				"description": "Solo Tackles",
+				"abbreviation": "Solo",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Tackles",
+				"fullName": "tackleTotal",
+				"description": "Total Tackles",
+				"abbreviation": "Total",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Tackles",
+				"fullName": "tackleAst",
+				"description": "Assisted Tackles",
+				"abbreviation": "Ast",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Tackles",
+				"fullName": "sacks",
+				"description": "Sacks",
+				"abbreviation": "Sacks",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Tackles",
+				"fullName": "sackYds",
+				"description": "Sack Yards",
+				"abbreviation": "SackYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "interceptions",
+				"description": "Interceptions",
+				"abbreviation": "Int",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "intTD",
+				"description": "Interception Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "intYds",
+				"description": "Interception Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "intAverage",
+				"description": "Interception Average",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "intLng",
+				"description": "Longest Interception",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "passesDefended",
+				"description": "Passes Defended",
+				"abbreviation": "PD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "stuffs",
+				"description": "Stuffs",
+				"abbreviation": "Stuffs",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "stuffYds",
+				"description": "Stuff Yards",
+				"abbreviation": "StuffYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "kB",
+				"description": "Blocked Kicks",
+				"abbreviation": "KB",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumbles",
+				"description": "Fumbles",
+				"abbreviation": "Fum",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumLost",
+				"description": "Fumbles Lost",
+				"abbreviation": "Lost",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumForced",
+				"description": "Forced Fumbles",
+				"abbreviation": "Forced",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumOwnRec",
+				"description": "Own Fumbles Recovered",
+				"abbreviation": "OwnRec",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumOppRec",
+				"description": "Recovered By Opposition",
+				"abbreviation": "OppRec",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumRecYds",
+				"description": "Fumbles Recovered Yards",
+				"abbreviation": "RecYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumTotalRec",
+				"description": "Total Fumbles Recovered",
+				"abbreviation": "TotalRec",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Fumbles",
+				"fullName": "fumTD",
+				"description": "Fumble Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krRet",
+				"description": "Kick Returns",
+				"abbreviation": "Ret",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krYds",
+				"description": "Kick Return Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krAvg",
+				"description": "Kick Returns Average",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krLng",
+				"description": "Longest Kick Return",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krTD",
+				"description": "Kick Return Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "kr20Plus",
+				"description": "Kick Returns 20+ Yards",
+				"abbreviation": "20+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "kr40Plus",
+				"description": "Kick Returns 40+ Yards",
+				"abbreviation": "40+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krFC",
+				"description": "Kick Return Fair Catches",
+				"abbreviation": "FC",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoff Returns",
+				"fullName": "krFum",
+				"description": "Kick Return Fumbles",
+				"abbreviation": "Fum",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prRet",
+				"description": "Punt Returns",
+				"abbreviation": "Ret",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prYds",
+				"description": "Punt Return Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prAvg",
+				"description": "Punt Returns Average",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prLng",
+				"description": "Longest Punt Return",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prTD",
+				"description": "Punt Return Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "pr20Plus",
+				"description": "Punt Returns 20+ Yards",
+				"abbreviation": "20+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "pr40Plus",
+				"description": "Punt Returns 40+ Yards",
+				"abbreviation": "40+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prFC",
+				"description": "Punt Return Fair Catches",
+				"abbreviation": "FC",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punt Returns",
+				"fullName": "prFum",
+				"description": "Punt Return Fumbles",
+				"abbreviation": "Fum",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgBlk",
+				"description": "Field Goals Blocked",
+				"abbreviation": "Blk",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgMade",
+				"description": "Field Goals Made",
+				"abbreviation": "Made",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgAtt",
+				"description": "Field Goal Attempts",
+				"abbreviation": "Att",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgPct",
+				"description": "Field Goal %",
+				"abbreviation": "FG%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgMade1_19",
+				"description": "Field Goals Made 1-19 Yards",
+				"abbreviation": "Made1-19",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgAtt1_19",
+				"description": "Field Goal Attempts 1-19 Yards",
+				"abbreviation": "Att1-19",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fg1_19Pct",
+				"description": "Field Goal % 1-19 Yards",
+				"abbreviation": "1-19%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgMade20_29",
+				"description": "Field Goals Made 20-29 Yards",
+				"abbreviation": "Made20-29",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgAtt20_29",
+				"description": "Field Goal Att 20-29 Yards",
+				"abbreviation": "Att20-29",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fg20_29Pct",
+				"description": "Field Goal % 20-29 Yards",
+				"abbreviation": "20-29%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgMade30_39",
+				"description": "Field Goals Made 30-39 Yards",
+				"abbreviation": "Made30-39",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgAtt30_39",
+				"description": "Field Goal Att 30-39 Yards",
+				"abbreviation": "Att30-39",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fg30_39Pct",
+				"description": "Field Goal % 30-39 Yards",
+				"abbreviation": "30-39%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgMade40_49",
+				"description": "Field Goals Made 40-49 Yards",
+				"abbreviation": "Made40-49",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgAtt40_49",
+				"description": "Field Goal Att 40-49 Yards",
+				"abbreviation": "Att40-49",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fg40_49Pct",
+				"description": "Field Goal % 40-49 Yards",
+				"abbreviation": "40-49%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgMade50Plus",
+				"description": "Field Goals Made 50+ Yards",
+				"abbreviation": "Made50+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgAtt50Plus",
+				"description": "Field Goal Attempts 50+ Yards",
+				"abbreviation": "Att50+",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fg50PlusPct",
+				"description": "Field Goal % 50+ Yards",
+				"abbreviation": "50+%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Field Goals",
+				"fullName": "fgLng",
+				"description": "Longest Field Goal",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "PAT",
+				"fullName": "xpBlk",
+				"description": "Extra Points Blocked",
+				"abbreviation": "Blk",
+				"type": "INTEGER"
+			},
+			{
+				"category": "PAT",
+				"fullName": "xpMade",
+				"description": "Extra Points Made",
+				"abbreviation": "Made",
+				"type": "INTEGER"
+			},
+			{
+				"category": "PAT",
+				"fullName": "xpAtt",
+				"description": "Extra Point Attempts",
+				"abbreviation": "Att",
+				"type": "INTEGER"
+			},
+			{
+				"category": "PAT",
+				"fullName": "xpPct",
+				"description": "Extra Points %",
+				"abbreviation": "Xp%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "PAT",
+				"fullName": "fgAndXpPts",
+				"description": "FG + XP Points",
+				"abbreviation": "FgXpPts",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "kickoffs",
+				"description": "Kickoffs",
+				"abbreviation": "KO",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koYds",
+				"description": "Kickoff Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koOOB",
+				"description": "Kickoffs Out-Of-Bounds",
+				"abbreviation": "OOB",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koAvg",
+				"description": "Kickoffs Average",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koTB",
+				"description": "Kickoff Touchbacks",
+				"abbreviation": "TB",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koRet",
+				"description": "Kickoff Returns",
+				"abbreviation": "Ret",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koRetYds",
+				"description": "Kickoff Returns Yards",
+				"abbreviation": "RetYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koRetAvgYds",
+				"description": "Kickoff Returns Average Yards",
+				"abbreviation": "RetAvgYds",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koTD",
+				"description": "Kickoff Touchdowns",
+				"abbreviation": "TD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koOS",
+				"description": "Kickoffs Onside",
+				"abbreviation": "OS",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Kickoffs",
+				"fullName": "koOSR",
+				"description": "Kickoffs Onside Recovered",
+				"abbreviation": "OSR",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "punts",
+				"description": "Punts",
+				"abbreviation": "Punts",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntYds",
+				"description": "Punt Yards",
+				"abbreviation": "Yds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntNetYds",
+				"description": "Punt Net Yards",
+				"abbreviation": "NetYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntLng",
+				"description": "Longest Punt",
+				"abbreviation": "Lng",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntAvg",
+				"description": "Average Punt Yards",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntNetAvg",
+				"description": "Average Net Punt Yards",
+				"abbreviation": "NetAvg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntBlk",
+				"description": "Blocked Punts",
+				"abbreviation": "Blk",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntOOB",
+				"description": "Punts Out-of-Bounds",
+				"abbreviation": "OOB",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntDown",
+				"description": "Punts Downed",
+				"abbreviation": "Down",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntIn20",
+				"description": "Punts Inside 20 Yard Line",
+				"abbreviation": "In20",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntIn20Pct",
+				"description": "Punts Inside 20 Yard Line %",
+				"abbreviation": "In20%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntTB",
+				"description": "Punt Touchbacks",
+				"abbreviation": "TB",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntTBPct",
+				"description": "Punt Touchback %",
+				"abbreviation": "TB%",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntFC",
+				"description": "Punt Fair Catches",
+				"abbreviation": "FC",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntRet",
+				"description": "Punt Returns",
+				"abbreviation": "Ret",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntRetYds",
+				"description": "Punt Return Yards",
+				"abbreviation": "RetYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Punting",
+				"fullName": "puntRetAvg",
+				"description": "Punt Average Return Yards",
+				"abbreviation": "RetAvg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "firstDownsTotal",
+				"description": "Total 1st Downs",
+				"abbreviation": "1stDownsTotal",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "firstDownsPass",
+				"description": "Passing 1st Downs",
+				"abbreviation": "1stDownsPass",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "firstDownsRush",
+				"description": "Rushing 1st Downs",
+				"abbreviation": "1stDownsRush",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "firstDownsPenalty",
+				"description": "Penalty 1stDowns",
+				"abbreviation": "1stDownsPen",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "thirdDowns",
+				"description": "3rd Downs Made",
+				"abbreviation": "3rdDowns",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "thirdDownsAtt",
+				"description": "3rd Downs Attempted",
+				"abbreviation": "3rdDownsAtt",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "thirdDownsPct",
+				"description": "3rd Downs %",
+				"abbreviation": "3rdDownsPct",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "fourthDowns",
+				"description": "4th Downs Made",
+				"abbreviation": "4thDowns",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "fourthDownsAtt",
+				"description": "4th Downs Attempted",
+				"abbreviation": "4thDownsAtt",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "fourthDownsPct",
+				"description": "4th Downs %",
+				"abbreviation": "4thDownsPct",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "penalties",
+				"description": "Penalties",
+				"abbreviation": "Penalties",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "penaltyYds",
+				"description": "Penalty Yards",
+				"abbreviation": "PenaltyYards",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "offensePlays",
+				"description": "Offense Plays",
+				"abbreviation": "OffensePlays",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "offenseYds",
+				"description": "Offense Total Yards",
+				"abbreviation": "OffenseYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "offenseAvgYds",
+				"description": "Offense Average Yards",
+				"abbreviation": "OffenseAvgYds",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Team Stats",
+				"fullName": "totalTD",
+				"description": "Total Touchdowns",
+				"abbreviation": "TotalTD",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "wins",
+				"description": "Wins",
+				"abbreviation": "W",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "losses",
+				"description": "Losses",
+				"abbreviation": "L",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "ties",
+				"description": "Ties",
+				"abbreviation": "T",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "oTWins",
+				"description": "Overtime Wins",
+				"abbreviation": "OTW",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "oTLosses",
+				"description": "Overtime Losses",
+				"abbreviation": "OTL",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "winPct",
+				"description": "Win %",
+				"abbreviation": "Win %",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "pointsFor",
+				"description": "Points For",
+				"abbreviation": "PF",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "pointsAgainst",
+				"description": "Points Against",
+				"abbreviation": "PA",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Team Standings",
+				"fullName": "pointDifferential",
+				"description": "Point Differential",
+				"abbreviation": "PtDiff",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Interceptions",
+				"fullName": "safeties",
+				"description": "Safeties",
+				"abbreviation": "Sfty",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passNetYards",
+				"description": "Pass Net Yards",
+				"abbreviation": "NetYds",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Passing",
+				"fullName": "passAvg",
+				"description": "Pass Avg Yards",
+				"abbreviation": "Avg",
+				"type": "DECIMAL"
+			},
+			{
+				"category": "2PT",
+				"fullName": "twoPtAtt",
+				"description": "2PT Conversion Attempts",
+				"abbreviation": "2PTAtt",
+				"type": "INTEGER"
+			},
+			{
+				"category": "2PT",
+				"fullName": "twoPtMade",
+				"description": "2PT Conversions Made",
+				"abbreviation": "2PTMade",
+				"type": "INTEGER"
+			},
+			{
+				"category": "2PT",
+				"fullName": "twoPtPassAtt",
+				"description": "2PT Conversion Pass Attempts",
+				"abbreviation": "2PTPassAtt",
+				"type": "INTEGER"
+			},
+			{
+				"category": "2PT",
+				"fullName": "twoPtPassMade",
+				"description": "2PT Conversion Passes Made",
+				"abbreviation": "2PTPassMade",
+				"type": "INTEGER"
+			},
+			{
+				"category": "2PT",
+				"fullName": "twoPtRushAtt",
+				"description": "2PT Conversion Rush Attempts",
+				"abbreviation": "2PTRushAtt",
+				"type": "INTEGER"
+			},
+			{
+				"category": "2PT",
+				"fullName": "twoPtRushMade",
+				"description": "2PT Conversion Rushes Made",
+				"abbreviation": "2PTRushMade",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Tackles",
+				"fullName": "tacklesForLoss",
+				"description": "Tackles For a Loss",
+				"abbreviation": "TFL",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Snap Counts",
+				"fullName": "offenseSnaps",
+				"description": "Offense Snaps",
+				"abbreviation": "OffSnaps",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Snap Counts",
+				"fullName": "defenseSnaps",
+				"description": "Defense Snaps",
+				"abbreviation": "DefSnaps",
+				"type": "INTEGER"
+			},
+			{
+				"category": "Snap Counts",
+				"fullName": "specialTeamSnaps",
+				"description": "Special Team Snaps",
+				"abbreviation": "SpecTeamSnaps",
+				"type": "INTEGER"
+			}
+		]
+	}
+}
