@@ -22,10 +22,6 @@ export default function GameCard({
 	game: Game;
 }) {
 	const startTime = DateTime.fromJSDate(new Date(game.schedule.startTime));
-	// const hom
-	// game.score.quarters;
-	console.log(game.schedule.startTime);
-
 	return (
 		<Card className='w-80 hover:bg-muted'>
 			<Link href='#'>

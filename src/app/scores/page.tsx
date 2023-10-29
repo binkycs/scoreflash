@@ -1,22 +1,15 @@
 'use server';
 import GameCard from '@/components/GameCard';
 import { GameList, Standings } from '@/lib/nfl';
-import Games from '@/app/api/nfl/games.json';
-import StandingsJson from '@/app/api/nfl/standings.json';
+import { downloadJson } from '@/lib/utils';
 
 async function Scores() {
-	const gameList = Games as unknown as GameList;
-	const standings = StandingsJson as unknown as Standings;
-	const brahnsGame = gameList.games.find(
-		(game) => game.schedule.awayTeam.abbreviation === 'CLE'
-	);
-
-	const awayTeamId = brahnsGame?.schedule.awayTeam.id;
-	const homeTeamId = brahnsGame?.schedule.homeTeam.id;
-
-	standings.teams.find((team) => team.team.id === 1);
-	const awayTeam = standings.teams.find((team) => team.team.id === awayTeamId)!;
-	const homeTeam = standings.teams.find((team) => team.team.id === homeTeamId)!;
+	const gameList = (await downloadJson(
+		process.env.API_URL + '/nfl/games.json'
+	)) as GameList;
+	const standings = (await downloadJson(
+		process.env.API_URL + '/nfl/standings.json'
+	)) as Standings;
 
 	return (
 		<>
