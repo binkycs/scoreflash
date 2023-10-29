@@ -1,16 +1,23 @@
-'use server';
 import GameCard from '@/components/GameCard';
 import { GameList, Standings } from '@/lib/nfl';
 import { downloadJson } from '@/lib/utils';
 
-async function Scores() {
+const dynamic = 'force-dynamic';
+
+async function getData() {
 	const gameList = (await downloadJson(
 		process.env.API_URL + '/nfl/games.json'
 	)) as GameList;
+
 	const standings = (await downloadJson(
 		process.env.API_URL + '/nfl/standings.json'
 	)) as Standings;
 
+	return { gameList, standings };
+}
+
+export default async function Page() {
+	const { gameList, standings } = await getData();
 	return (
 		<>
 			<div className='grid md:grid-cols-2 lg:grid-cols-3 gap-4'>
@@ -33,4 +40,4 @@ async function Scores() {
 	);
 }
 
-export default Scores;
+// export default Scores;
