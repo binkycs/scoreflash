@@ -44,7 +44,7 @@ function Header() {
 								<NavigationMenuLink
 									className={cn(
 										navigationMenuTriggerStyle(),
-										'mr-4 flex items-center space-x-2 px-2'
+										'mr-4 flex bg-transparent items-center space-x-2 px-2'
 									)}
 									href='/'
 								>
@@ -62,7 +62,7 @@ function Header() {
 							</NavigationMenuItem>
 
 							<NavigationMenuItem>
-								<NavigationMenuTrigger className='px-2 text-foreground/60 transition-colors hover:text-foreground/80'>
+								<NavigationMenuTrigger className='px-2 bg-transparent text-foreground/60 transition-colors hover:text-foreground/80'>
 									Scores
 								</NavigationMenuTrigger>
 								<NavigationMenuContent className=''>

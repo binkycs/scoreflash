@@ -8,17 +8,19 @@ export default function TeamCard({
 	team: TeamElement;
 	game: Game;
 }) {
-	const quarters = game.score.quarters;
+	const { quarters } = game.score;
 	const teamIsHome = game.schedule.homeTeam.id === team.team.id;
 
-	const quarterScores = teamIsHome
+	let quarterScores: (number | string)[] = teamIsHome
 		? quarters.map((q) => q.homeScore)
 		: quarters.map((q) => q.awayScore);
-	const totalScore = teamIsHome
-		? game.score.homeScoreTotal
-		: game.score.awayScoreTotal;
+	quarterScores = quarterScores.concat(['-', '-', '-', '-']).slice(0, 4);
 
-	const standing = team.stats.standings;
+	let totalScore: number | string = teamIsHome
+		? game.score.homeScoreTotal || '-'
+		: game.score.awayScoreTotal || '-';
+
+	const { standings } = team.stats;
 	return (
 		<>
 			<div className='flex justify-between items-center'>
@@ -35,12 +37,23 @@ export default function TeamCard({
 							{team.team.name}
 						</h3>
 						<span className='font-light text-xs'>
-							{standing.wins}-{standing.losses}-{standing.ties}
+							{standings.wins}-{standings.losses}-{standings.ties}
 						</span>
 					</div>
 				</div>
 				<div className='flex items-center'>
-					<span>{quarterScores.join('-')}</span>
+					<span className='hidden sm:block'>
+						{quarterScores.map((x) => {
+							return (
+								<span
+									key={x}
+									className='mx-1 min-w-[15px] inline-block text-center'
+								>
+									{x}
+								</span>
+							);
+						})}
+					</span>
 					<span className='ml-4 w-6 text-right text-2xl font-bold'>
 						{totalScore}
 					</span>

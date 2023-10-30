@@ -23,7 +23,7 @@ export default function GameCard({
 }) {
 	const startTime = DateTime.fromJSDate(new Date(game.schedule.startTime));
 	return (
-		<Card className='w-80 hover:bg-muted'>
+		<Card className='min-w-[300px] sm:w-[400px] hover:bg-muted'>
 			<Link href='#'>
 				<CardHeader className='pt-2 pb-4 px-4'>
 					<CardTitle>
