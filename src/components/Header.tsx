@@ -8,7 +8,30 @@ import {
 	NavigationMenuLink,
 	NavigationMenuList,
 	navigationMenuTriggerStyle,
+	NavigationMenuTrigger,
+	NavigationMenuContent,
 } from '@/components/ui/navigation-menu';
+import React from 'react';
+import Link from 'next/link';
+import Image from 'next/image';
+
+const components: { title: string; href: string; description: string }[] = [
+	{
+		title: 'All Sports',
+		href: '/scores',
+		description: 'All sports scores, and game information.',
+	},
+	{
+		title: 'NFL',
+		href: '/scores/nfl',
+		description: 'NFL scores, and game information.',
+	},
+	{
+		title: 'CFB',
+		href: '/scores/cfb',
+		description: 'CFB scores, and game information.',
+	},
+];
 
 function Header() {
 	return (
@@ -25,82 +48,43 @@ function Header() {
 									)}
 									href='/'
 								>
-									<svg
-										xmlns='http://www.w3.org/2000/svg'
-										viewBox='0 0 256 256'
-										className='h-6 w-6'
-									>
-										<rect width='256' height='256' fill='none'></rect>
-										<line
-											x1='208'
-											y1='128'
-											x2='128'
-											y2='208'
-											fill='none'
-											stroke='currentColor'
-											strokeLinecap='round'
-											strokeLinejoin='round'
-											strokeWidth='16'
-										></line>
-										<line
-											x1='192'
-											y1='40'
-											x2='40'
-											y2='192'
-											fill='none'
-											stroke='currentColor'
-											strokeLinecap='round'
-											strokeLinejoin='round'
-											strokeWidth='16'
-										></line>
-									</svg>
-									<span className='hidden font-bold sm:inline-block'>
+									<Image
+										className='h-8 w-8'
+										src='/logo.svg'
+										alt='ScoreFlash'
+										width={32}
+										height={32}
+									/>
+									<span className='ml-4 hidden font-bold sm:inline-block'>
 										ScoreFlash
 									</span>
 								</NavigationMenuLink>
 							</NavigationMenuItem>
 
 							<NavigationMenuItem>
-								<NavigationMenuLink
-									className='px-2 text-foreground/60 transition-colors hover:text-foreground/80'
-									href='/scores'
-								>
+								<NavigationMenuTrigger className='px-2 text-foreground/60 transition-colors hover:text-foreground/80'>
 									Scores
-								</NavigationMenuLink>
-							</NavigationMenuItem>
-
-							<NavigationMenuItem>
-								<NavigationMenuLink
-									className='px-2 text-foreground/60 transition-colors hover:text-foreground/80'
-									href='/docs'
-								>
-									Documentation
-								</NavigationMenuLink>
-							</NavigationMenuItem>
-
-							<NavigationMenuItem>
-								<NavigationMenuLink
-									className='px-2 text-foreground/60 transition-colors hover:text-foreground/80'
-									href='/examples'
-								>
-									Examples
-								</NavigationMenuLink>
-							</NavigationMenuItem>
-
-							<NavigationMenuItem>
-								<NavigationMenuLink
-									className='px-2 text-foreground/60 transition-colors hover:text-foreground/80'
-									href='https://github.com/binkycs'
-								>
-									GitHub
-								</NavigationMenuLink>
+								</NavigationMenuTrigger>
+								<NavigationMenuContent className=''>
+									<ul className='grid w-80 gap-3 p-4'>
+										{components.map((component) => (
+											<ListItem
+												key={component.title}
+												title={component.title}
+												href={component.href}
+											>
+												{component.description}
+											</ListItem>
+										))}
+									</ul>
+								</NavigationMenuContent>
 							</NavigationMenuItem>
 						</NavigationMenuList>
 					</NavigationMenu>
 				</div>
 				<div className='flex flex-1 items-center justify-between space-x-2 md:justify-end'>
 					<nav className='flex items-center'>
-						<a href='https://github.com/binkycs'>
+						<Link href='https://github.com/binkycs'>
 							<Button variant='ghost' size='icon'>
 								<svg viewBox='0 0 438.549 438.549' className='h-4 w-4'>
 									<path
@@ -110,8 +94,8 @@ function Header() {
 								</svg>
 								<span className='sr-only'>GitHub</span>
 							</Button>
-						</a>
-						<a href='https://twitter.com/binkycs'>
+						</Link>
+						<Link href='https://twitter.com/binkycs'>
 							<Button variant='ghost' size='icon'>
 								<svg
 									className='h-3 w-3 fill-current'
@@ -124,13 +108,39 @@ function Header() {
 								</svg>
 								<span className='sr-only'>Twitter</span>
 							</Button>
-						</a>
+						</Link>
 					</nav>
 				</div>
 			</div>
 		</header>
 	);
 }
+
+const ListItem = React.forwardRef<
+	React.ElementRef<'a'>,
+	React.ComponentPropsWithoutRef<'a'>
+>(({ className, title, children, ...props }, ref) => {
+	return (
+		<li>
+			<NavigationMenuLink asChild>
+				<a
+					ref={ref}
+					className={cn(
+						'block select-none space-y-1 rounded-md p-3 h-20 leading-none no-underline outline-none transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground',
+						className
+					)}
+					{...props}
+				>
+					<div className='text-sm font-medium leading-none'>{title}</div>
+					<p className='line-clamp-2 text-sm leading-snug text-muted-foreground'>
+						{children}
+					</p>
+				</a>
+			</NavigationMenuLink>
+		</li>
+	);
+});
+ListItem.displayName = 'ListItem';
 
 // export default function Header;
 export { Header };
