@@ -1,10 +1,11 @@
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Gradient Definitions -->
     <defs>
         <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
             <stop offset="0%" style="stop-color:#9C27B0;stop-opacity:1" />
             <stop offset="100%" style="stop-color:#E040FB;stop-opacity:1" />
         </linearGradient>
     </defs>
-    <polygon points="50,200 100,30 150,200" fill="url(#purpleGradient)"/>
-    <polygon points="30,150 100,10 170,150" fill="url(#purpleGradient)" opacity="0.7"/>
+    <!-- Abstract Flash Shape (Facing Right and Even Skinnier) -->
+    <polygon points="50,100 180,40 180,160 130,100" fill="url(#purpleGradient)"/>
 </svg>
